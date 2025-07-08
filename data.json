@@ -1,0 +1,159 @@
+{
+  "appName": "Lá chắn xanh",
+  "appVersion": "1.0.0",
+  "appDescription": "",
+  "appAuthor": "",
+  "ebook": {
+    "chapters": 
+    [
+      {
+        "chapterNumber": 1,
+        "chapterName": "Nhận thức chung về ma tuý và tiền chất",
+        "chapterContents": [
+            {
+                "subSectionLv1Number": "1",
+                "subSectionLv1Name": "Khái niệm, phân loại ma tuý và tiền chất",
+                "subSectionLv1Content": [
+                    {
+                        "subSectionLv2Number": "1.1",
+                        "subSectionLv2Name": "Khái niệm ma tuý, tiền chất",
+                        "subSectionLv2Content": [
+                            {
+                                "subSectionLv3Number": "1.1.1",
+                                "subSectionLv3Name": "Khái niệm ma tuý",
+                                "subSectionLv3Content": [
+                                    {
+                                        "history": [
+                                            "Từ hàng ngàn năm trước Công nguyên,loài người đã phát hiện ra các loại thảo dược để sử dụng với nhiều mục đích khác nhau như chữa bệnh, dùng trong các nghi lễ, tôn giáo, cho các thú vui.",
+                                            "Vào đầu thế kỷ 19, con người đã nghiên cứu, chiết xuất và xác định được cấu trúc hóa học của một số chất có trong thảo dược. Năm 1805 một dược sĩ người Đức, có tên là Friedrich W. A. Serturner đã chiết được Morphine từ nhựa thuốc phiện. Vào năm 1860 Albert Niemann cũng đã chiết được Cocaine từ lá cây coca."
+                                        ],
+                                        "definitions":[
+                                            {
+                                                "origin": "Theo Từ điển tiếng Việt",
+                                                "text": "Ma túy là tên gọi chung cho tất cả các chất có tác dụng gây trạng thái ngây ngất, đờ đẫn, dùng quen thành nghiện."
+                                            },
+                                            {
+                                                "origin": "Từ điển Bách khoa Công an nhân dân",
+                                                "text": "Ma túy - thuật ngữ dùng để chỉ các hợp chất có nguồn gốc tự nhiên hoặc tổng hợp được quy định trong các danh mục do Chính phủ ban hành, có tác dụng kích thích, gây ức chế thần kinh hoặc gây ảo giác, khiến người sử dụng bị lệ thuộc vào chúng"
+                                            },
+                                            {
+                                                "origin": "Tổ chức y tế thế giới (WHO)",
+                                                "text": "Ma túy là chất khi đưa vào cơ thể sẽ làm thay đổi chức năng của cơ thể. "
+                                            },
+                                            {
+                                                "origin": "Theo Luật Phòng, chống ma túy năm 2021",
+                                                "text": "Chất ma túy chất gây nghiện, chất hướng thần, được quy định trong danh mục chất ma túy do Chính phủ ban hành"
+                                            },
+                                            {
+                                                "origin": "Khái niệm tổng quát",
+                                                "text": "Chất ma túy là các chất gây nghiện, chất hướng thần có nguồn gốc từ tự nhiên hay tổng hợp, được quy định trong danh mục do Chính phủ ban hành, các chất này khi xâm nhập vào cơ thể người sẽ làm thay đổi trạng thái ý thức và sinh lý của người đó, làm cho người sử dụng có thể nghiện và sẽ gây ra những hậu quả nguy hiểm cho người sử dụng và cộng đồng."
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "subSectionLv3Number": "1.1.2",
+                                "subSectionLv3Name": "Khái niệm tiền chất",
+                                "subSectionLv3Content": [
+                                    {
+                                        "definitions": [
+                                            {
+                                                "origin": "Khái niệm tổng quát",
+                                                "text": "Tiền chất là một khái niệm rất chung, được dùng trong nhiều lĩnh vực, nhất là trong hóa học, sinh hóa, mỹ phẩm. Theo khái niệm chung này, một chất là cần thiết để sản xuất ra chất khác, vật dụng khác thì được coi là tiền chất. Phạm vi nghiên cứu về tiền chất trong giáo trình này đó là những tiền chất sử dụng trong sản xuất chất ma túy."
+                                            },
+                                            {
+                                                "origin": "Công ước của Liên Hợp Quốc về chống buôn bán bất hợp pháp các chất ma túy và chất hướng thần năm 1988",
+                                                "text": "Tiền chất là các tiểu chất, các hóa chất và chất dung môi được dùng để sản xuất bất hợp pháp các chất ma túy và chất hướng thần."
+                                            },
+                                            {
+                                                "origin": "Từ điển Bách khoa Công an nhân dân năm 2005",
+                                                "text": "Tiền chất là các hóa chất sử dụng trong quá trình điều chế, sản xuất chất ma túy hay chất hướng thần."
+                                            },
+                                            {
+                                                "origin": "Luật Phòng, chống ma túy năm 2021",
+                                                "text": "Tiền chất là các hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy, được quy định trong danh mục do Chính phủ ban hành"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+
+                        ]
+                    },
+                    {
+                        "subSectionLv2Number": "1.2",
+                        "subSectionLv2Name": "Phân loại ma tuý và tiền chất",
+                        "subSectionLv2Content": [
+                            {
+                                "subSectionLv3Number": "1.2.1",
+                                "subSectionLv3Name": "Phân loại ma tuý",
+                                "subSectionLv3Content": [
+                                    {
+                                        "statement1": "Phân loại ma tuý theo nguồn gốc",
+                                        "statement1_text": "Dựa vào nguồn gốc của nguyên liệu để sản xuất và nguồn gốc của sản phẩm tạo thành các chất ma túy. Người ta chia ra thành ba nhóm chất ma túy",
+                                        "subStatement1": [
+                                            {
+                                                "type": "Ma tuý có nguồn gốc tự nhiên",
+                                                "definition": "Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa.",
+                                                "example": ["Thuốc phiện", "Cần sa", "Morphine", "Cocaine", "Codeine"]
+                                            }, 
+                                            {
+                                                "type": "Ma tuý có nguồn gốc bán tổng hợp",
+                                                "definition": "Ma túy bán tổng hợp là chất ma túy được điều chế từ các sản phẩm tự nhiên bằng cách cho tác dụng với một số hóa chất để thu được chất ma túy có tác dụng mạnh hơn chất ma túy ban đầu.",
+                                                "example": ["Morphine", "Heroin", "Crack", "LSD"]
+                                            },
+                                            {
+                                                "type": "Ma tuý có nguồn gốc tổng hợp toàn phần",
+                                                "definition": "Chất ma túy có nguồn gốc tổng hợp toàn phần là các chất ma túy được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ hóa chất được gọi là tiền chất. Các chất ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma tuý bán tổng hợp",
+                                                "example": ["methamphetamine"]
+                                            },
+                                            {
+                                                "type": "Định nghĩa chung về ma tuý tổng hợp",
+                                                "definition": "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp. Việc phân loại giúp cho cơ quan có chức năng truy nguyên được nguồn gốc sản xuất trái phép chất ma túy nhằm giải quyết tội phạm về ma túy và tệ nạn ma túy."
+
+                                            }
+                                        
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "subSectionLv3Number": "1.2.2",
+                                "subSectionLv3Name": "Phân loại tiền chất",
+                                "subSectionLv3Content": [
+                                    {
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                    
+                ]
+            }
+        ]
+
+      },
+      {
+        "chapterNumber": 2,
+        "chapterName": "Tác hại của tệ nạn ma tuý",
+        "chapterContents": []
+      },
+      {
+        "chapterNumber": 3,
+        "chapterName": "Quy định của pháp luật",
+        "chapterContents": []
+      }, 
+      {
+        "chapterNumber": 4,
+        "chapterName": "Dấu hiệu nhận biết người nghiện, người nghi sử dụng trái phép ma tuý và cách phòng tránh", 
+        "chapterContents": []
+      },
+      {
+        "chapterNumber": 5,
+        "chapterName": "Thông tin liên hệ hỗ trợ khi cần thiết",
+        "chapterContents": []
+      }
+    ]
+  }
+}
