@@ -309,17 +309,36 @@
                                 "subSectionLv2Name": "Một số chất ma tuý trá hình",
                                 "subSectionLv2Content": [
                                     {
-                                        "statement1": "Methamphetamine",
-                                        "statement1_text": ""
+                                        "statement1": "Ma tuý trộn trong trà sữa"
+                                        
                                     },
                                     {
-                                        "statement2": "Ketamine",
-                                        "statement2_text": ""
+                                        "statement2": "Ma tuý nước vui"
+                                        
                                     },
                                     {
-                                        "statement3": "LSD (Lysergic acid diethylamide)",
-                                        "statement3_text": ""
+                                        "statement3": "Cần sa trong bánh kẹo"
+                                        
+                                    },
+                                    {
+                                        "statement4": "Ma tuý trong thuốc lá điện tử"
+                                        
+                                    },
+                                    {
+                                        "statement5": "Ma tuý nước biển (Vitamin G)"
                                     }
+                                ]
+                            },
+                            {
+                                "subSectionLv2Number": "2.4",
+                                "subSectionLv2Name": "Một số chất có tác hại tương tự ma tuý",
+                                "subSectionLv2Content": [
+                                    {
+                                        "stament1": "Bóng cười"
+                                    },
+                                    {
+                                        "stament2": "Shisha"
+                                    }    
                                 ]
                             }
                         ]
