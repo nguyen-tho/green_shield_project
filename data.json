@@ -88,125 +88,86 @@
                                     {
                                         "subSectionLv3Number": "1.2.1",
                                         "subSectionLv3Name": "Phân loại ma tuý",
-                                        "subSectionLv3Content": [
-                                            {
-                                                "statement1": "Phân loại ma tuý theo nguồn gốc",
-                                                "statement1_text": "Dựa vào nguồn gốc của nguyên liệu để sản xuất và nguồn gốc của sản phẩm tạo thành các chất ma túy. Người ta chia ra thành ba nhóm chất ma túy",
-                                                "subStatement1": [
-                                                    {
-                                                        "type": "Ma tuý có nguồn gốc tự nhiên",
-                                                        "definition": "Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa.",
-                                                        "example": [
-                                                            "Thuốc phiện",
-                                                            "Cần sa",
-                                                            "Morphine",
-                                                            "Cocaine",
-                                                            "Codeine"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Ma tuý có nguồn gốc bán tổng hợp",
-                                                        "definition": "Ma túy bán tổng hợp là chất ma túy được điều chế từ các sản phẩm tự nhiên bằng cách cho tác dụng với một số hóa chất để thu được chất ma túy có tác dụng mạnh hơn chất ma túy ban đầu.",
-                                                        "example": [
-                                                            "Morphine",
-                                                            "Heroin",
-                                                            "Crack",
-                                                            "LSD"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Ma tuý có nguồn gốc tổng hợp toàn phần",
-                                                        "definition": "Chất ma túy có nguồn gốc tổng hợp toàn phần là các chất ma túy được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ hóa chất được gọi là tiền chất. Các chất ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma tuý bán tổng hợp",
-                                                        "example": [
-                                                            "methamphetamine"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Định nghĩa chung về ma tuý tổng hợp",
-                                                        "definition": "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp. Việc phân loại giúp cho cơ quan có chức năng truy nguyên được nguồn gốc sản xuất trái phép chất ma túy nhằm giải quyết tội phạm về ma túy và tệ nạn ma túy."
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "statement2": "Phân loại ma tuý theo tác dụng đối với tâm sinh lý con người",
-                                                "statement2_text": "Là cách phân loại các chất ma túy dựa vào các triệu chứng lâm sàng khi chất ma túy xâm nhập vào cơ thể con người. Người sử dụng ma túy có những đặc điểm tâm sinh lý khác với đặc điểm tâm sinh lý của con người bình thường. Đây là cách phân loại phổ biến trong thực tế. Với phân loại này, chia ra các nhóm chất sau:",
-                                                "subStatement2": [
-                                                    {
-                                                        "type": "Chất ma tuý gây cảm giác êm dịu, đê mê",
-                                                        "example": [
-                                                            "Thuốc phiện",
-                                                            "Các sản phẩm từ thuốc phiện"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Chất ma tuý gây kích thích",
-                                                        "example": [
-                                                            "Cocain",
-                                                            "Amphetamin",
-                                                            "Methamphetamin",
-                                                            "Crack",
-                                                            "ectasy"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Chất ma tuý gây ảo giác",
-                                                        "example": [
-                                                            "Các sản phẩm từ cần sa",
-                                                            "Lysergic acid diethylamide (LSD)",
-                                                            "phencyclidin",
-                                                            "Mescaline"
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Chất ma tuý gây ngủ",
-                                                        "example": [
-                                                            "Barbiturate",
-                                                            "Chế phẩm từ barbiturate",
-                                                            "Methaqalon",
-                                                            "<ecloqualon"
-                                                        ],
-                                                        "detail": [
-                                                            "Hiện nay có hơn 2.500 loại thuốc ngủ là chế phẩm của Barbiturate.",
-                                                            "Nhưng trong số đó chỉ có 12 loại thuốc ngủ đặt dưới sự kiểm soát quốc tế theo Công ước về các chất hướng thần năm 1971",
-                                                            "Những người dùng nhiều các chất thuốc ngủ nói trên, thường suy sụp về tinh thần.",
-                                                            "Đây là những chất có độc tính và tính gây nghiện cao, thuộc chất độc bảng A."
-                                                        ]
-                                                    },
-                                                    {
-                                                        "type": "Chất ma tuý gây an thần",
-                                                        "example": [
-                                                            "chất thuộc dẫn xuất của Benzodiazenpine",
-                                                            "diazepam",
-                                                            "alprazolam",
-                                                            "bromazepam",
-                                                            "camazepam"
-                                                        ],
-                                                        "detail": "Là một nhóm thuốc tân dược tác dụng lên hệ thần kinh trung ương."
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "stament3": "Phân loại theo cấu tạo hóa học",
-                                                "statement3_text": [
-                                                    "Đây là cách phân loại ít được sử dụng trong đời sống xã hội nhưng lại được các nhà khoa học, hóa học và dược sĩ rất quan tâm nghiên cứu để chuyển hóa từ chất này thành chất khác và đặc biệt là việc tìm ra các phương pháp giám định các chất ma túy",
-                                                    "Điển hình như heroine, morphine là những chất ma túy có cấu tạo hóa học tương đối giống nhau nên các chất này có một số tính chất hóa học tương đối giống nhau và có tác dụng tâm lý cũng giống nhau."
-                                                ]
-                                            },
-                                            {
-                                                "statement4": "Phân loại theo mức độ gây nghiện",
-                                                "statement4_text": []
-                                            }
-                                        ]
+                                        "subSectionLv3Content": {
+                                            "statement": [
+                                                {
+                                                    "statement_id": "statement1",
+                                                    "statement_text": "Phân loại dựa trên nguồn gốc của ma tuý",
+                                                    "statement_contents": [
+                                                        {
+                                                            "text": "Dựa vào nguồn gốc của nguyên liệu để sản xuất và nguồn gốc của sản phẩm tạo thành các chất ma túy. Người ta chia ra thành ba nhóm chất ma túy",
+                                                            "statementSubcontents": [
+                                                                {
+                                                                    "subcontent_id": "subcontent1",
+                                                                    "subcontent_text": "Ma tuý có nguồn gốc tự nhiên",
+                                                                    "definition": "Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa.",
+                                                                    "example": [
+                                                                        "Thuốc phiện",
+                                                                        "Cần sa",
+                                                                        "Morphine",
+                                                                        "Cocaine",
+                                                                        "Codeine"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent2",
+                                                                    "subcontent_text": "Ma tuý có nguồn gốc bán tổng hợp",
+                                                                    "definition": "Ma túy bán tổng hợp là chất ma túy được điều chế từ các sản phẩm tự nhiên bằng cách cho tác dụng với một số hóa chất để thu được chất ma túy có tác dụng mạnh hơn chất ma túy ban đầu.",
+                                                                    "example": [
+                                                                        "Morphine",
+                                                                        "Heroin",
+                                                                        "Crack",
+                                                                        "LSD"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent3",
+                                                                    "subcontent_text": "Ma tuý có nguồn gốc tổng hợp toàn phần",
+                                                                    "definition": "Chất ma túy có nguồn gốc tổng hợp toàn phần là các chất ma túy được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ hóa chất được gọi là tiền chất. Các chất ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma tuý bán tổng hợp",
+                                                                    "example": [
+                                                                        "Methamphetamine"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent4",
+                                                                    "subcontent_text": "Định nghĩa chung của ma tuý tổng hợp",
+                                                                    "definition": "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp. Việc phân loại giúp cho cơ quan có chức năng truy nguyên được nguồn gốc sản xuất trái phép chất ma túy nhằm giải quyết tội phạm về ma túy và tệ nạn ma túy.",
+                                                                    "example": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "statement_id": "statement2",
+                                                    "statement_text": "Phân loại dựa trên tác dụng của ma tuý"
+                                                },
+                                                {
+                                                    "statement_id": "statement3",
+                                                    "statement_text": "Phân loại dựa trên độ nguy hiểm của ma tuý"
+                                                },
+                                                {
+                                                    "statement_id": "statement4",
+                                                    "statement_text": "Phân loại dựa trên các chất có trong ma tuý"
+                                                }
+                                            ]
+                                        }
                                     },
                                     {
                                         "subSectionLv3Number": "1.2.2",
                                         "subSectionLv3Name": "Phân loại tiền chất",
                                         "subSectionLv3Content": [
                                             {
-                                                "statement1": "Phân loại dựa trên tính chất và vai trò của tiền chất"
-                                            },
-                                            {
-                                                "statement2": "Phân loại dựa trên mục đích sử dụng của tiền chất"
+                                                "statements": [
+                                                    {
+                                                        "statement_id": "statement1",
+                                                        "statement_text": "Phân loại dựa trên tính chất và vai trò của tiền chất"
+                                                    },
+                                                    {
+                                                        "statement_id": "statement2",
+                                                        "statement_text": "Phân loại dựa trên nguồn gốc của tiền chất"
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
@@ -225,20 +186,22 @@
                                     {
                                         "subSectionLv3Number": "2.1.1",
                                         "subSectionLv3Name": " Nhóm các chất ma túy gây cảm giác êm dịu, đê mê",
-                                        "subSectionLv3Content": [
-                                            {
-                                                "statement1": "Thuốc phiện",
-                                                "statement1_text": ""
-                                            },
-                                            {
-                                                "statement2": "Morphine",
-                                                "statement2_text": ""
-                                            },
-                                            {
-                                                "statement3": "Heroine",
-                                                "statement3_text": ""
-                                            }
-                                        ]
+                                        "subSectionLv3Content": {
+                                            "statement": [
+                                                {
+                                                    "statement1": "Thuốc phiện",
+                                                    "statement1_text": ""
+                                                },
+                                                {
+                                                    "statement2": "Morphine",
+                                                    "statement2_text": ""
+                                                },
+                                                {
+                                                    "statement3": "Heroine",
+                                                    "statement3_text": ""
+                                                }
+                                            ]
+                                        }
                                     },
                                     {
                                         "subSectionLv3Number": "2.1.2",
@@ -257,89 +220,111 @@
                             {
                                 "subSectionLv2Number": "2.2",
                                 "subSectionLv2Name": "Một số tiền chất phổ biến",
-                                "subSectionLv2Content": [
-                                    {
-                                        "statement1": "Acetic anhydride",
-                                        "statement1_text": ""
-                                    },
-                                    {
-                                        "statement2": "Aceton",
-                                        "statement2_text": ""
-                                    },
-                                    {
-                                        "statement3": "Ephedrine",
-                                        "statement3_text": ""
-                                    },
-                                    {
-                                        "statement4": "Pseudoephedrine",
-                                        "statement4_text": ""
-                                    },
-                                    {
-                                        "statement5": "Isosafrole",
-                                        "statement5_text": ""
-                                    },
-                                    {
-                                        "statement6": "Safrole",
-                                        "statement6_text": ""
-                                    },
-                                    {
-                                        "statement7": "Sulfuric acid",
-                                        "statement7_text": ""
-                                    },
-                                    {
-                                        "statement8": "Hydrochloric acid",
-                                        "statement8_text": ""
-                                    },
-                                    {
-                                        "statement9": "Phenylacetic acid",
-                                        "statement9_text": ""
-                                    },
-                                    {
-                                        "statement10": "Lysergic acid",
-                                        "statement10_text": ""
-                                    },
-                                    {
-                                        "statement11": "Toluene",
-                                        "statement11_text": ""
-                                    }
-                                ]
+                                "subSectionLv2Content": {
+                                    "statements": [
+                                        {
+                                            "statement_id": "statement1",
+                                            "statement_title": "Acetic anhydride",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement2",
+                                            "statement_title": "Aceton",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement3",
+                                            "statement_title": "Ephedrine",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement4",
+                                            "statement_title": "Pseudoephedrine",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement5",
+                                            "statement_title": "Isosafrole",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement6",
+                                            "statement_title": "Safrole",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement7",
+                                            "statement_title": "Sulfuric acid",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement8",
+                                            "statement_title": "Hydrochloric acid",
+                                            "statement8_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement9",
+                                            "statement_title": "Phenylacetic acid",
+                                            "statement9_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement10",
+                                            "statement_title": "Lysergic acid",
+                                            "statement10_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement11",
+                                            "statement_title": "Toluene",
+                                            "statement11_text": ""
+                                        }
+                                    ]
+                                }
                             },
                             {
                                 "subSectionLv2Number": "2.3",
                                 "subSectionLv2Name": "Một số chất ma tuý trá hình",
-                                "subSectionLv2Content": [
-                                    {
-                                        "statement1": "Ma tuý trộn trong trà sữa"
-                                        
-                                    },
-                                    {
-                                        "statement2": "Ma tuý nước vui"
-                                        
-                                    },
-                                    {
-                                        "statement3": "Cần sa trong bánh kẹo"
-                                        
-                                    },
-                                    {
-                                        "statement4": "Ma tuý trong thuốc lá điện tử"
-                                        
-                                    },
-                                    {
-                                        "statement5": "Ma tuý nước biển (Vitamin G)"
-                                    }
-                                ]
+                                "subSectionLv2Content": {
+                                    "statements": [
+                                        {
+                                            "statement_id": "statement1",
+                                            "statement_text": "Ma tuý trộn trong trà sữa"
+                                        },
+                                        {
+                                            "statement_id": "statement2",
+                                            "statement_text": "Ma tuý nước vui"
+                                        },
+                                        {
+                                            "statement_id": "statement3",
+                                            "statement_text": "Cần sa trong bánh kẹo"
+                                        },
+                                        {
+                                            "statement_id": "statement4",
+                                            "statement_text": "Ma tuý trong thuốc lá điện tử"
+                                        },
+                                        {
+                                            "statement_id": "statement5",
+                                            "statement_text": "Ma tuý nước biển (Vitamin G)"
+                                        }
+                                    ]
+                                }
                             },
                             {
                                 "subSectionLv2Number": "2.4",
                                 "subSectionLv2Name": "Một số chất có tác hại tương tự ma tuý",
-                                "subSectionLv2Content": [
-                                    {
-                                        "stament1": "Bóng cười"
-                                    },
-                                    {
-                                        "stament2": "Shisha"
-                                    }    
-                                ]
+                                "subSectionLv2Content": {
+                                    "statements": [
+                                        {
+                                            "statement_id": "statement1",
+                                            "statement_title": "Bóng cười",
+                                            "statement_text": ""
+                                        },
+                                        {
+                                            "statement_id": "statement2",
+                                            "statement_title": "Shisha",
+                                            "statement_text": ""
+                                        }
+                                    ]
+                                }
                             }
                         ]
                     }
@@ -348,7 +333,30 @@
             {
                 "chapterNumber": 2,
                 "chapterName": "Tác hại của tệ nạn ma tuý",
-                "chapterContents": []
+                "chapterContents": {
+                    "statements": [
+                        {
+                            "statement_id": "statement1",
+                            "statement_text": "Tác hại đối với người sử dụng",
+                            "statement_content": ""
+                        },
+                        {
+                            "statement_id": "statement2",
+                            "statement_text": "Tác hại đối với gia đình",
+                            "statement_content": ""
+                        },
+                        {
+                            "statement_id": "statement3",
+                            "statement_text": "Tác hại đối với nền kinh tế",
+                            "statement_content": ""
+                        },
+                        {
+                            "statement_id": "statement4",
+                            "statement_text": "Tác hại đối với xã hội",
+                            "statement_content": ""
+                        }
+                    ]
+                }
             },
             {
                 "chapterNumber": 3,
