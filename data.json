@@ -338,7 +338,42 @@
                         {
                             "statement_id": "statement1",
                             "statement_text": "Tác hại đối với người sử dụng",
-                            "statement_content": ""
+                            "statement_content": [
+                                {
+                                    "substatement_id": "substatement1",
+                                    "substatement_text": "Huỷ hoại sức khoẻ",
+                                    "substatement_content": [
+                                            " Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
+                                             "Ma túy gây ức chế hô hấp, có thể dẫn đến ngưng thở đột ngột và tử vong",
+                                             "Các chất ma túy kích thích tim, gây co thắt mạch vành, dẫn đến đau thắt ngực, nhồi máu cơ tim và rối loạn nhịp tim"
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement2",
+                                    "substatement_text": "Suy giảm chức năng sinh dục",
+                                    "substatement_content": [
+                                        "Làm giảm khả năng tình dục rõ rệt, gây chứng vú to và bất lực ở nam giới, rối loạn kinh nguyệt, rong kinh, tăng tiết sữa bất thường và vô sinh ở phụ nữ."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement3",
+                                    "substatement_text": "Ảnh hưởng tinh thần, nhân cách"
+                                },
+                                {
+                                    "substatement_id": "substatement4",
+                                    "substatement_text": "Nguy cơ lây nhiễm HIV/AIDS, viêm gan B, C",
+                                    "substatement_content": [
+                                        "Tiêm chích ma túy mà sử dụng chung kim tiêm đặc biệt kim tiêm không được xử lý khử trùng đúng cách là con đường lây nhiễm HIV, viêm gan virus B, C phổ biến nhất tại Việt Nam."
+                                    ]
+                                }, 
+                                {
+                                    "substatement_id": "substatement5",
+                                    "substatement_text": "Hành vi lệch chuẩn, vi phạm pháp luật",
+                                    "substatement_content": [
+                                        "Do lệ thuộc vào ma túy, người nghiện dễ bỏ qua các nhu cầu khác trong cuộc sống và có thể làm bất cứ điều gì, kể cả cướp tài sản, trộm cắp, giết người, lừa đảo để có tiền mua ma túy."
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "statement_id": "statement2",
