@@ -343,9 +343,9 @@
                                     "substatement_id": "substatement1",
                                     "substatement_text": "Huỷ hoại sức khoẻ",
                                     "substatement_content": [
-                                            " Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
-                                             "Ma túy gây ức chế hô hấp, có thể dẫn đến ngưng thở đột ngột và tử vong",
-                                             "Các chất ma túy kích thích tim, gây co thắt mạch vành, dẫn đến đau thắt ngực, nhồi máu cơ tim và rối loạn nhịp tim"
+                                        " Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
+                                        "Ma túy gây ức chế hô hấp, có thể dẫn đến ngưng thở đột ngột và tử vong",
+                                        "Các chất ma túy kích thích tim, gây co thắt mạch vành, dẫn đến đau thắt ngực, nhồi máu cơ tim và rối loạn nhịp tim"
                                     ]
                                 },
                                 {
@@ -365,7 +365,7 @@
                                     "substatement_content": [
                                         "Tiêm chích ma túy mà sử dụng chung kim tiêm đặc biệt kim tiêm không được xử lý khử trùng đúng cách là con đường lây nhiễm HIV, viêm gan virus B, C phổ biến nhất tại Việt Nam."
                                     ]
-                                }, 
+                                },
                                 {
                                     "substatement_id": "substatement5",
                                     "substatement_text": "Hành vi lệch chuẩn, vi phạm pháp luật",
@@ -378,17 +378,92 @@
                         {
                             "statement_id": "statement2",
                             "statement_text": "Tác hại đối với gia đình",
-                            "statement_content": ""
+                            "statement_content": [
+                                {
+                                    "substatement_id": "substatement1",
+                                    "substatement_text": "Ảnh hưởng hạnh phúc gia đình",
+                                    "substatement_content": [
+                                        "Gây không khí bất hòa, cãi cọ, xô xát, con cái không được quan tâm, có thể dẫn đến bỏ học, lang thang.",
+                                        "Hạnh phúc gia đình có thể tan vỡ, ly thân, ly hôn."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement2",
+                                    "substatement_text": "Ảnh hưởng kinh tế gia đình",
+                                    "substatement_content": [
+                                        " Người nghiện thường bị đuổi việc, làm mất nguồn thu nhập chính, tiêu tốn tài sản, tiền bạc của bản thân và gia đình."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement3",
+                                    "substatement_text": "Ảnh hưởng đến sự phát triển của con cái",
+                                    "substatement_content": [
+                                        "Ma túy gây giảm khả năng sinh sản hoặc sinh con ốm yếu, chậm phát triển trí tuệ",
+                                        "Con cái của người nghiện có nguy cơ cao bỏ học và sa vào các tệ nạn xã hội."
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "statement_id": "statement3",
                             "statement_text": "Tác hại đối với nền kinh tế",
-                            "statement_content": ""
+                            "statement_content": [
+                                {
+                                    "substatement_id": "substatement1",
+                                    "substatement_text": "Gây tổn thất tài chính lớn",
+                                    "substatement_content": [
+                                        "Nhà nước phải chi hàng ngàn tỷ đồng cho việc mua ma túy hàng năm và hàng trăm tỷ đồng cho công tác xóa bỏ cây thuốc phiện, cai nghiện và đấu tranh phòng, chống tội phạm ma túy."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement2",
+                                    "substatement_text": "Suy giảm lực lượng lao động",
+                                    "substatement_content": [
+                                        "Người nghiện ma túy chủ yếu ở độ tuổi lao động, làm giảm cả số lượng và chất lượng lực lượng lao động, gây khó khăn trong việc đào tạo thay thế."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement3",
+                                    "substatement_text": "Ảnh hưởng đến đầu tư và phát triển bền vững",
+                                    "substatement_content": [
+                                        "Tệ nạn ma túy làm giảm thu nhập quốc dân, tăng chi phí y tế, ảnh hưởng xấu đến tâm lý các nhà đầu tư nước ngoài và khách du lịch, cản trở sự phát triển kinh tế bền vững."
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "statement_id": "statement4",
                             "statement_text": "Tác hại đối với xã hội",
-                            "statement_content": ""
+                            "statement_content": [
+                                {
+                                    "substatement_id": "substatement1",
+                                    "substatement_text": "Gia tăng tội phạm và tệ nạn xã hội",
+                                    "substatement_content": [
+                                        "Ma túy là nguyên nhân chính dẫn đến các loại tội phạm như trộm cắp, cướp giật, giết người, lừa đảo, buôn bán ma túy và các tệ nạn xã hội khác như mại dâm, cờ bạc."
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement2",
+                                    "substatement_text": "Gây hành vi lệch chuẩn và tội phạm",
+                                    "substatement_content": [
+                                        "Ma túy là nguyên nhân dẫn đến nhiều hành vi vi phạm pháp luật và các loại tội phạm như mua bán, vận chuyển, tàng trữ, tổ chức sử dụng trái phép chất ma túy; trộm cắp, cướp giật, giết người, lừa đảo"
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement3",
+                                    "substatement_text": "Phát sinh các tệ nạn xã hội",
+                                    "substatement_content": [
+                                        "Nghiện ma túy là một trong những nguyên nhân quan trọng làm phát sinh các tệ nạn xã hội khác như cờ bạc, mại dâm và các loại tội phạm hình sự"
+                                    ]
+                                },
+                                {
+                                    "substatement_id": "substatement4",
+                                    "substatement_text": "Gây rối trật tự an toàn xã hội",
+                                    "substatement_content": [
+                                        " Người nghiện ma túy thường có tiền án, tiền sự, và có thể sống tàn bạo, gây rối trật tự an toàn xã hội."
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 }
