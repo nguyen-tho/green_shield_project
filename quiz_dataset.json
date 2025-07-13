@@ -10,6 +10,142 @@
             "questions": [
                 {
                     "question_id": "q1",
+                    "question_text": "Theo Từ điển tiếng Việt, 'Ma túy' là tên gọi chung cho tất cả các chất có tác dụng gì?",
+                    "question_options": [
+                        "Gây tỉnh táo, tăng cường trí nhớ.",
+                        "Gây trạng thái ngây ngất, đờ đẫn, dùng quen thành nghiện.",
+                        "Giúp chữa bệnh, tăng cường sức khỏe.",
+                        "Kích thích sự sáng tạo."
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Năm 1805, dược sĩ người Đức Friedrich W. A. Serturner đã chiết được chất gì từ nhựa thuốc phiện?",
+                    "question_options": [
+                        "Cocaine.",
+                        "Heroine.",
+                        "Morphine.",
+                        "Methamphetamine."
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Theo Luật Phòng, chống ma túy năm 2021, 'Tiền chất' được quy định là gì?",
+                    "question_options": [
+                        "Các chất hóa học dùng trong mỹ phẩm.",
+                        "Các hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy, được quy định trong danh mục do Chính phủ ban hành.",
+                        "Các loại thảo dược tự nhiên.",
+                        "Các chất xúc tác trong công nghiệp."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Nhóm các chất ma túy có nguồn gốc tự nhiên điển hình bao gồm những chất nào?",
+                    "question_options": [
+                        "Heroine, crắck, LSD.",
+                        "Methamphetamine, ecstasy.",
+                        "Thuốc phiện, morphine, codein, cần sa, cocaine.",
+                        "Diazepam, alprazolam."
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Chất ma túy bán tổng hợp điển hình được điều chế từ morphine và acetic anhydride là gì?",
+                    "question_options": [
+                        "Cocaine.",
+                        "Heroine.",
+                        "Methamphetamine.",
+                        "Lysergide (LSD)."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Nhóm các chất ma túy gây ngủ, có độc tính và tính gây nghiện cao, thuộc chất độc bảng A là chế phẩm của chất nào?",
+                    "question_options": [
+                        "Cocaine.",
+                        "Barbiturate.",
+                        "Heroine.",
+                        "Cần sa."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Theo cách phân loại dựa vào tác dụng đối với tâm sinh lý con người, Lysergide (LSD) thuộc nhóm chất ma túy nào?",
+                    "question_options": [
+                        "Gây ngủ.",
+                        "Gây ảo giác.",
+                        "Gây cảm giác êm dịu, đê mê.",
+                        "Gây kích thích."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20
+                },
+                {
+                    "question_id": "q8",
+                    "question_text": "Tiền chất thiết yếu được định nghĩa là gì trong quá trình điều chế, sản xuất ma túy?",
+                    "question_options": [
+                        "Các hóa chất tham gia nhưng không nằm trong cấu trúc chất ma túy mới.",
+                        "Các hóa chất không thể thiếu được và thành phần của nó nằm trong cấu trúc của chất ma túy mới được tạo thành.",
+                        "Các acid và bazơ tạo môi trường.",
+                        "Các dung môi đơn thuần."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30
+                },
+                {
+                    "question_id": "q9",
+                    "question_text": "Cây thuốc phiện còn có tên gọi khác là gì?",
+                    "question_options": [
+                        "Cây coca.",
+                        "Cây cần sa.",
+                        "Ả phù dung, a phiến, anh tử túc, anh túc.",
+                        "Ephedrine."
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q10",
+                    "question_text": "Tam giác vàng và Lưỡi liềm vàng là hai khu vực chính nào trên thế giới mà cây thuốc phiện được trồng chủ yếu?",
+                    "question_options": [
+                        "Châu Phi.",
+                        "Châu Mỹ.",
+                        "Châu Á.",
+                        "Châu Âu."
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10
+                }
+            ]
+        },
+        {
+            "profile_id": "profile_2",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
                     "question_text": "Ma túy làm hủy hoại sức khỏe, gây rối loạn sinh lý, và tàn phá các hệ cơ quan nào trong cơ thể?",
                     "question_options": [
                         "Hệ tiêu hóa, hệ tuần hoàn, và hệ thần kinh.",
@@ -77,62 +213,62 @@
                     "question_id": "q6",
                     "question_text": "Hậu quả của việc sử dụng ma túy lâu dài đối với khả năng tình dục ở nam giới là gì?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Tăng cường khả năng tình dục và ham muốn.",
+                        "Duy trì khả năng tình dục bình thường",
+                        "Suy giảm rõ rệt khả năng tình dục và chứng vú to, bất lực.",
+                        "Không có tác động đáng kể."
                     ],
-                    "answer": 0,
+                    "answer": 2,
                     "difficulty": "easy",
                     "score": 10
                 },
                 {
                     "question_id": "q7",
-                    "question_text": "",
+                    "question_text": "Đối với phụ nữ, việc sử dụng ma túy lâu dài có thể dẫn đến những rối loạn nào trong hệ sinh dục?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Chu kỳ kinh nguyệt đều đặn hơn.",
+                        "Rối loạn chu kỳ kinh nguyệt, rong kinh, tăng tiết sữa bất thường và vô sinh.",
+                        "Tăng khả năng thụ thai.",
+                        "Giảm các triệu chứng tiền kinh nguyệt."
                     ],
-                    "answer": 0,
+                    "answer": 1,
                     "difficulty": "easy",
                     "score": 10
                 },
                 {
                     "question_id": "q8",
-                    "question_text": "",
+                    "question_text": "Tiêm chích ma túy là một trong những con đường lây nhiễm bệnh nguy hiểm nào phổ biến nhất tại Việt Nam?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Bệnh cúm.",
+                        "Viêm dạ dày.",
+                        "HIV",
+                        "Sởi"
                     ],
-                    "answer": 0,
+                    "answer": 2,
                     "difficulty": "easy",
                     "score": 10
                 },
                 {
                     "question_id": "q9",
-                    "question_text": "",
+                    "question_text": "Theo thống kê của Ủy ban quốc gia phòng chống AIDS, ma túy, mại dâm, khoảng bao nhiêu phần trăm đối tượng bị nhiễm HIV là do tiêm chích ma túy (heroine)?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Khoảng 30%.",
+                        "Khoảng 50%.",
+                        "Khoảng 70%.",
+                        "Khoảng 90%"
                     ],
-                    "answer": 0,
+                    "answer": 2,
                     "difficulty": "easy",
                     "score": 10
                 },
                 {
                     "question_id": "q10",
-                    "question_text": "",
+                    "question_text": "Ngoài HIV, tiêm chích ma túy dùng chung bơm kim tiêm không tiệt trùng còn dẫn đến lây nhiễm những bệnh nào?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Viêm ruột thừa và sỏi thận.",
+                        "Viêm gan do virus B và C",
+                        "Ung thư phổi và tim mạch.",
+                        "Bệnh tiểu đường và gout."
                     ],
                     "answer": 0,
                     "difficulty": "easy",
@@ -144,7 +280,7 @@
             "profile_id": "land_1",
             "mission_id": 1,
             "questions":[
-                
+
             ]
         }
     ]
