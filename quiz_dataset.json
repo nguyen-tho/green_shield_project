@@ -5,7 +5,7 @@
     "appAuthor": "",
     "contents": [
         {
-            "profile_id": 2,
+            "profile_id": "profile_1",
             "mission_id": 1,
             "questions": [
                 {
@@ -62,20 +62,20 @@
                 },
                 {
                     "question_id": "q5",
-                    "question_text": "",
+                    "question_text": "Ma túy ảnh hưởng trực tiếp đến tim mạch như thế nào?",
                     "question_options": [
-                        "",
-                        "",
-                        "",
-                        ""
+                        "Làm chậm nhịp tim và giãn mạch.",
+                        "Tăng nhịp tim, gây co thắt mạch vành, nhồi máu cơ tim, rối loạn nhịp tim.",
+                        "Giảm huyết áp và cải thiện lưu thông máu.",
+                        "Tăng cường sản xuất hồng cầu."
                     ],
-                    "answer": 0,
+                    "answer": 1,
                     "difficulty": "easy",
                     "score": 10
                 },
                 {
                     "question_id": "q6",
-                    "question_text": "",
+                    "question_text": "Hậu quả của việc sử dụng ma túy lâu dài đối với khả năng tình dục ở nam giới là gì?",
                     "question_options": [
                         "",
                         "",
@@ -138,6 +138,13 @@
                     "difficulty": "easy",
                     "score": 10
                 }
+            ]
+        },
+        {
+            "profile_id": "land_1",
+            "mission_id": 1,
+            "questions":[
+                
             ]
         }
     ]
