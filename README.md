@@ -18,3 +18,5 @@ Yêu cầu phải lọc dữ liệu sao cho ngắn gọn, hàm súc, bao q
 
 
 ```
+
+## Cấu trúc của một câu hỏi trắc nghiệm trong mini quiz
