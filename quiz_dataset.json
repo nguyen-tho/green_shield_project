@@ -1,0 +1,144 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": 2,
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Ma túy làm hủy hoại sức khỏe, gây rối loạn sinh lý, và tàn phá các hệ cơ quan nào trong cơ thể?",
+                    "question_options": [
+                        "Hệ tiêu hóa, hệ tuần hoàn, và hệ thần kinh.",
+                        "Hệ hô hấp, hệ bài tiết, và hệ sinh sản",
+                        "Hệ cơ xương, hệ miễn dịch, và hệ nội tiết",
+                        "Hệ bạch huyết, hệ giác quan, và hệ vận động."
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Tác hại cấp tính nào có thể xảy ra với hệ hô hấp khi sử dụng ma túy quá liều?",
+                    "question_options": [
+                        "Tăng cường hô hấp mạnh mẽ.",
+                        "Giảm tần số thở và tăng cường chức năng phổi",
+                        "Ức chế hô hấp, ngưng thở đột ngột",
+                        "Cải thiện dung tích phổi."
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Ngoài ngưng thở, sử dụng ma túy (nhất là cocaine) có thể gây ra những biến chứng nào cho hệ hô hấp?",
+                    "question_options": [
+                        "Lao phổi và viêm phế quản mạn tính.",
+                        "Phù phổi cấp, tràn khí màng phổi, viêm phổi.",
+                        "Ung thư phổi và xơ phổi.",
+                        "Viêm mũi dị ứng và viêm xoang."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": " Giai đoạn đầu, ma túy có tác dụng kích thích thần kinh gây hưng phấn, sảng khoái. Về lâu dài, nó có thể gây ra tai biến nào cho hệ thần kinh?",
+                    "question_options": [
+                        "Tăng cường trí nhớ và khả năng tập trung.",
+                        "Giảm căng thẳng và lo âu.",
+                        "Lệ thuộc thuốc, co giật, xuất huyết dưới nhện, đột quỵ, bại não.",
+                        "Cải thiện giấc ngủ và thư giãn cơ bắp"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q8",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q9",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                },
+                {
+                    "question_id": "q10",
+                    "question_text": "",
+                    "question_options": [
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10
+                }
+            ]
+        }
+    ]
+}
