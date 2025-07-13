@@ -5,7 +5,7 @@
     "appSlogan": "",
     "appDescription": "",
     "appAuthor": "",
-    "userVersion":{
+    "userVersion": {
         "userAges": "18-30",
         "userVersionDecription": "Nhiệm vụ đặc biệt"
     },
@@ -39,7 +39,7 @@
                                                     },
                                                     {
                                                         "origin": "Từ điển Bách khoa Công an nhân dân",
-                                                        "text": "Ma túy - thuật ngữ dùng để chỉ các hợp chất có nguồn gốc tự nhiên hoặc tổng hợp được quy định trong các danh mục do Chính phủ ban hành, có tác dụng kích thích, gây ức chế thần kinh hoặc gây ảo giác, khiến người sử dụng bị lệ thuộc vào chúng"
+                                                        "text": "'Ma túy' - thuật ngữ dùng để chỉ các hợp chất có nguồn gốc tự nhiên hoặc tổng hợp được quy định trong các danh mục do Chính phủ ban hành, có tác dụng kích thích, gây ức chế thần kinh hoặc gây ảo giác, khiến người sử dụng bị lệ thuộc vào chúng"
                                                     },
                                                     {
                                                         "origin": "Tổ chức y tế thế giới (WHO)",
@@ -104,7 +104,7 @@
                                                                 {
                                                                     "subcontent_id": "subcontent1",
                                                                     "subcontent_text": "Ma tuý có nguồn gốc tự nhiên",
-                                                                    "definition": "Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa.",
+                                                                    "definition": ["Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa."],
                                                                     "example": [
                                                                         "Thuốc phiện",
                                                                         "Cần sa",
@@ -127,7 +127,10 @@
                                                                 {
                                                                     "subcontent_id": "subcontent3",
                                                                     "subcontent_text": "Ma tuý có nguồn gốc tổng hợp toàn phần",
-                                                                    "definition": "Chất ma túy có nguồn gốc tổng hợp toàn phần là các chất ma túy được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ hóa chất được gọi là tiền chất. Các chất ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma tuý bán tổng hợp",
+                                                                    "definition": [
+                                                                        "Chất ma túy có nguồn gốc tổng hợp toàn phần là các chất ma túy được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ hóa chất được gọi là tiền chất.",
+                                                                        "Các chất ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma tuý bán tổng hợp"
+                                                                    ],
                                                                     "example": [
                                                                         "Methamphetamine"
                                                                     ]
@@ -135,7 +138,10 @@
                                                                 {
                                                                     "subcontent_id": "subcontent4",
                                                                     "subcontent_text": "Định nghĩa chung của ma tuý tổng hợp",
-                                                                    "definition": "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp. Việc phân loại giúp cho cơ quan có chức năng truy nguyên được nguồn gốc sản xuất trái phép chất ma túy nhằm giải quyết tội phạm về ma túy và tệ nạn ma túy.",
+                                                                    "definition": [
+                                                                        "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp.",
+                                                                        "Việc phân loại giúp cho cơ quan có chức năng truy nguyên được nguồn gốc sản xuất trái phép chất ma túy nhằm giải quyết tội phạm về ma túy và tệ nạn ma túy."
+                                                                    ],
                                                                     "example": []
                                                                 }
                                                             ]
@@ -144,15 +150,118 @@
                                                 },
                                                 {
                                                     "statement_id": "statement2",
-                                                    "statement_text": "Phân loại dựa trên tác dụng của ma tuý"
+                                                    "statement_text": "Phân loại dựa trên tác dụng của ma tuý",
+                                                    "statement_contents": [
+                                                        {
+                                                            "text": "Là cách phân loại các chất ma túy dựa vào các triệu chứng lâm sàng khi chất ma túy xâm nhập vào cơ thể con người. Người sử dụng ma túy có những đặc điểm tâm sinh lý khác với đặc điểm tâm sinh lý của con người bình thường.",
+                                                            "statementSubcontents": [
+                                                                {
+                                                                    "subcontent_id": "subcontent1",
+                                                                    "subcontent_text": "Nhóm các chất ma túy gây ngủ",
+                                                                    "definition": [
+                                                                        "Hiện nay có hơn 2.500 loại thuốc ngủ là chế phẩm của Barbiturate.",
+                                                                        "Nhưng trong số đó chỉ có 12 loại thuốc ngủ đặt dưới sự kiểm soát quốc tế theo Công ước về các chất hướng thần năm 1971.",
+                                                                        "Những người dùng nhiều các chất thuốc ngủ nói trên, thường suy sụp về tinh thần.",
+                                                                        "thần. Đây là những chất có độc tính và tính gây nghiện cao, thuộc chất độc bảng A."
+                                                                    ],
+                                                                    "example": [
+                                                                        "Barbiturate và các chế phẩm",
+                                                                        "Methaqualone và các chế phẩm",
+                                                                        "Mecloqualone và các chế phẩm"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent2",
+                                                                    "subcontent_text": "Nhóm các chất ma túy gây ảo giác",
+                                                                    "definition": "",
+                                                                    "example":[
+                                                                        "Lysergide (LSD)",
+                                                                        "Các chế phẩm từ cần sa",
+                                                                        "Mescaline",
+                                                                        "Phencyclidine"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent3",
+                                                                    "subcontent_text": "Nhóm các chất ma túy gây cảm giác êm dịu, đê mê",
+                                                                    "definition": "",
+                                                                    "example":[
+                                                                        "Các chế phẩm từ thuốc phiện"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent4",
+                                                                    "subcontent_text": "Nhóm các chất ma túy gây kích thích:",
+                                                                    "definition":"",
+                                                                    "example": [
+                                                                        "Cocaine",
+                                                                        "Crack",
+                                                                        "Methamphetamine",
+                                                                        "Amphethamine",
+                                                                        "Ecstasy"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "subcontent_id": "subcontent5",
+                                                                    "subcontent_text": "Nhóm các chất ma túy gây an thần",
+                                                                    "definition": "Chủ yếu là các chất thuộc dẫn xuất của Benzodiazenpin, là một nhóm thuốc tân dược tác dụng lên hệ thần kinh trung ương.",
+                                                                    "example": [
+                                                                        "Diazepame",
+                                                                        "Alprazolame",
+                                                                        "Bromazepame",
+                                                                        "Camazepame"
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "statement_id": "statement3",
-                                                    "statement_text": "Phân loại dựa trên độ nguy hiểm của ma tuý"
+                                                    "statement_text": "Phân loại dựa trên mức độ gây nghiện",
+                                                    "statement_contents":[
+                                                        {
+                                                            "substatement": [
+                                                                {
+                                                                    "substatement_id": "substatement1",
+                                                                    "substatement_text": "Nhóm ma túy có hiệu lực cao",
+                                                                    "definition": "Đây là những chất ma túy có độc tính cao, có hoạt tính sinh học mạnh, gây nhiều nguy hiểm cho người sử dụng",
+                                                                    "example": [
+                                                                        "Heroin",
+                                                                        "Cocaine",
+                                                                        "Ecstasy"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id":"substatement2",
+                                                                    "substatement_text": "Nhóm ma túy có hiệu lực thấp",
+                                                                    "definition": "Đây là những chất ma túy có độc tính thấp hơn, mức độ hoạt tính sinh học cũng thấp, thường là những chất an thần",
+                                                                    "example": [
+                                                                        "Diazepame",
+                                                                        "Clordiazepame"
+                                                                    ]
+
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "statement_id": "statement4",
-                                                    "statement_text": "Phân loại dựa trên các chất có trong ma tuý"
+                                                    "statement_text": "Phân loại dựa trên cấu trúc hoá học",
+                                                    "statement_contents":[
+                                                        {
+                                                            "text": [
+                                                                "Đây là cách ít phổ biến trong thực tế",
+                                                                "Thường dùng trong nghiên cứu và giám định ma tuý",
+                                                                "Một số chất ma tuý có cấu tạo tương đối giống nhau và tác dụng tương tự nhau"
+                                                            ],
+                                                            "example": [
+                                                                "Heroin",
+                                                                "Morphine"
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
@@ -165,7 +274,10 @@
                                                 "statements": [
                                                     {
                                                         "statement_id": "statement1",
-                                                        "statement_text": "Phân loại dựa trên tính chất và vai trò của tiền chất"
+                                                        "statement_text": "Phân loại dựa trên tính chất và vai trò của tiền chất",
+                                                        "statement_contents": [
+                                                            
+                                                        ]
                                                     },
                                                     {
                                                         "statement_id": "statement2",
@@ -347,7 +459,7 @@
                                     "substatement_id": "substatement1",
                                     "substatement_text": "Huỷ hoại sức khoẻ",
                                     "substatement_content": [
-                                        " Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
+                                        "Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
                                         "Ma túy gây ức chế hô hấp, có thể dẫn đến ngưng thở đột ngột và tử vong",
                                         "Các chất ma túy kích thích tim, gây co thắt mạch vành, dẫn đến đau thắt ngực, nhồi máu cơ tim và rối loạn nhịp tim"
                                     ]
