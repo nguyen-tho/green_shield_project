@@ -104,7 +104,9 @@
                                                                 {
                                                                     "subcontent_id": "subcontent1",
                                                                     "subcontent_text": "Ma tuý có nguồn gốc tự nhiên",
-                                                                    "definition": ["Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa."],
+                                                                    "definition": [
+                                                                        "Là các chất ma túy có sẵn trong tự nhiên có được bằng cách thu hái từ các cây trồng tự nhiên, từ các sản phẩm tách, tinh chế từ các sản phẩm thu hái đó, chưa qua quá trình điều chế, là những ancaliot của một số loài thực vật như cây thuốc phiện, cây coca, cây cần sa."
+                                                                    ],
                                                                     "example": [
                                                                         "Thuốc phiện",
                                                                         "Cần sa",
@@ -174,7 +176,7 @@
                                                                     "subcontent_id": "subcontent2",
                                                                     "subcontent_text": "Nhóm các chất ma túy gây ảo giác",
                                                                     "definition": "",
-                                                                    "example":[
+                                                                    "example": [
                                                                         "Lysergide (LSD)",
                                                                         "Các chế phẩm từ cần sa",
                                                                         "Mescaline",
@@ -185,14 +187,14 @@
                                                                     "subcontent_id": "subcontent3",
                                                                     "subcontent_text": "Nhóm các chất ma túy gây cảm giác êm dịu, đê mê",
                                                                     "definition": "",
-                                                                    "example":[
+                                                                    "example": [
                                                                         "Các chế phẩm từ thuốc phiện"
                                                                     ]
                                                                 },
                                                                 {
                                                                     "subcontent_id": "subcontent4",
                                                                     "subcontent_text": "Nhóm các chất ma túy gây kích thích:",
-                                                                    "definition":"",
+                                                                    "definition": "",
                                                                     "example": [
                                                                         "Cocaine",
                                                                         "Crack",
@@ -219,7 +221,7 @@
                                                 {
                                                     "statement_id": "statement3",
                                                     "statement_text": "Phân loại dựa trên mức độ gây nghiện",
-                                                    "statement_contents":[
+                                                    "statement_contents": [
                                                         {
                                                             "substatement": [
                                                                 {
@@ -233,14 +235,13 @@
                                                                     ]
                                                                 },
                                                                 {
-                                                                    "substatement_id":"substatement2",
+                                                                    "substatement_id": "substatement2",
                                                                     "substatement_text": "Nhóm ma túy có hiệu lực thấp",
                                                                     "definition": "Đây là những chất ma túy có độc tính thấp hơn, mức độ hoạt tính sinh học cũng thấp, thường là những chất an thần",
                                                                     "example": [
                                                                         "Diazepame",
                                                                         "Clordiazepame"
                                                                     ]
-
                                                                 }
                                                             ]
                                                         }
@@ -249,7 +250,7 @@
                                                 {
                                                     "statement_id": "statement4",
                                                     "statement_text": "Phân loại dựa trên cấu trúc hoá học",
-                                                    "statement_contents":[
+                                                    "statement_contents": [
                                                         {
                                                             "text": [
                                                                 "Đây là cách ít phổ biến trong thực tế",
@@ -275,9 +276,7 @@
                                                     {
                                                         "statement_id": "statement1",
                                                         "statement_text": "Phân loại dựa trên tính chất và vai trò của tiền chất",
-                                                        "statement_contents": [
-                                                            
-                                                        ]
+                                                        "statement_contents": []
                                                     },
                                                     {
                                                         "statement_id": "statement2",
@@ -449,140 +448,211 @@
             {
                 "chapterNumber": 2,
                 "chapterName": "Tác hại của tệ nạn ma tuý",
-                "chapterContents": {
-                    "statements": [
-                        {
-                            "statement_id": "statement1",
-                            "statement_text": "Tác hại đối với người sử dụng",
-                            "statement_content": [
-                                {
-                                    "substatement_id": "substatement1",
-                                    "substatement_text": "Huỷ hoại sức khoẻ",
-                                    "substatement_content": [
-                                        "Gây rối loạn sinh lý, tàn phá cơ thể, đặc biệt là hệ tiêu hóa, tuần hoàn và thần kinh. ",
-                                        "Ma túy gây ức chế hô hấp, có thể dẫn đến ngưng thở đột ngột và tử vong",
-                                        "Các chất ma túy kích thích tim, gây co thắt mạch vành, dẫn đến đau thắt ngực, nhồi máu cơ tim và rối loạn nhịp tim"
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement2",
-                                    "substatement_text": "Suy giảm chức năng sinh dục",
-                                    "substatement_content": [
-                                        "Làm giảm khả năng tình dục rõ rệt, gây chứng vú to và bất lực ở nam giới, rối loạn kinh nguyệt, rong kinh, tăng tiết sữa bất thường và vô sinh ở phụ nữ."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement3",
-                                    "substatement_text": "Ảnh hưởng tinh thần, nhân cách"
-                                },
-                                {
-                                    "substatement_id": "substatement4",
-                                    "substatement_text": "Nguy cơ lây nhiễm HIV/AIDS, viêm gan B, C",
-                                    "substatement_content": [
-                                        "Tiêm chích ma túy mà sử dụng chung kim tiêm đặc biệt kim tiêm không được xử lý khử trùng đúng cách là con đường lây nhiễm HIV, viêm gan virus B, C phổ biến nhất tại Việt Nam."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement5",
-                                    "substatement_text": "Hành vi lệch chuẩn, vi phạm pháp luật",
-                                    "substatement_content": [
-                                        "Do lệ thuộc vào ma túy, người nghiện dễ bỏ qua các nhu cầu khác trong cuộc sống và có thể làm bất cứ điều gì, kể cả cướp tài sản, trộm cắp, giết người, lừa đảo để có tiền mua ma túy."
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "statement_id": "statement2",
-                            "statement_text": "Tác hại đối với gia đình",
-                            "statement_content": [
-                                {
-                                    "substatement_id": "substatement1",
-                                    "substatement_text": "Ảnh hưởng hạnh phúc gia đình",
-                                    "substatement_content": [
-                                        "Gây không khí bất hòa, cãi cọ, xô xát, con cái không được quan tâm, có thể dẫn đến bỏ học, lang thang.",
-                                        "Hạnh phúc gia đình có thể tan vỡ, ly thân, ly hôn."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement2",
-                                    "substatement_text": "Ảnh hưởng kinh tế gia đình",
-                                    "substatement_content": [
-                                        " Người nghiện thường bị đuổi việc, làm mất nguồn thu nhập chính, tiêu tốn tài sản, tiền bạc của bản thân và gia đình."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement3",
-                                    "substatement_text": "Ảnh hưởng đến sự phát triển của con cái",
-                                    "substatement_content": [
-                                        "Ma túy gây giảm khả năng sinh sản hoặc sinh con ốm yếu, chậm phát triển trí tuệ",
-                                        "Con cái của người nghiện có nguy cơ cao bỏ học và sa vào các tệ nạn xã hội."
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "statement_id": "statement3",
-                            "statement_text": "Tác hại đối với nền kinh tế",
-                            "statement_content": [
-                                {
-                                    "substatement_id": "substatement1",
-                                    "substatement_text": "Gây tổn thất tài chính lớn",
-                                    "substatement_content": [
-                                        "Nhà nước phải chi hàng ngàn tỷ đồng cho việc mua ma túy hàng năm và hàng trăm tỷ đồng cho công tác xóa bỏ cây thuốc phiện, cai nghiện và đấu tranh phòng, chống tội phạm ma túy."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement2",
-                                    "substatement_text": "Suy giảm lực lượng lao động",
-                                    "substatement_content": [
-                                        "Người nghiện ma túy chủ yếu ở độ tuổi lao động, làm giảm cả số lượng và chất lượng lực lượng lao động, gây khó khăn trong việc đào tạo thay thế."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement3",
-                                    "substatement_text": "Ảnh hưởng đến đầu tư và phát triển bền vững",
-                                    "substatement_content": [
-                                        "Tệ nạn ma túy làm giảm thu nhập quốc dân, tăng chi phí y tế, ảnh hưởng xấu đến tâm lý các nhà đầu tư nước ngoài và khách du lịch, cản trở sự phát triển kinh tế bền vững."
-                                    ]
-                                }
-                            ]
-                        },
-                        {
-                            "statement_id": "statement4",
-                            "statement_text": "Tác hại đối với xã hội",
-                            "statement_content": [
-                                {
-                                    "substatement_id": "substatement1",
-                                    "substatement_text": "Gia tăng tội phạm và tệ nạn xã hội",
-                                    "substatement_content": [
-                                        "Ma túy là nguyên nhân chính dẫn đến các loại tội phạm như trộm cắp, cướp giật, giết người, lừa đảo, buôn bán ma túy và các tệ nạn xã hội khác như mại dâm, cờ bạc."
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement2",
-                                    "substatement_text": "Gây hành vi lệch chuẩn và tội phạm",
-                                    "substatement_content": [
-                                        "Ma túy là nguyên nhân dẫn đến nhiều hành vi vi phạm pháp luật và các loại tội phạm như mua bán, vận chuyển, tàng trữ, tổ chức sử dụng trái phép chất ma túy; trộm cắp, cướp giật, giết người, lừa đảo"
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement3",
-                                    "substatement_text": "Phát sinh các tệ nạn xã hội",
-                                    "substatement_content": [
-                                        "Nghiện ma túy là một trong những nguyên nhân quan trọng làm phát sinh các tệ nạn xã hội khác như cờ bạc, mại dâm và các loại tội phạm hình sự"
-                                    ]
-                                },
-                                {
-                                    "substatement_id": "substatement4",
-                                    "substatement_text": "Gây rối trật tự an toàn xã hội",
-                                    "substatement_content": [
-                                        " Người nghiện ma túy thường có tiền án, tiền sự, và có thể sống tàn bạo, gây rối trật tự an toàn xã hội."
-                                    ]
-                                }
-                            ]
-                        }
-                    ]
-                }
+                "chapterContents": [
+                    {
+                        "subSectionLv1Number": "1",
+                        "subSectionLv1Name": "Tác hại của ma tuý đối với bản thân người sử dụng",
+                        "subSectionLv1Decription": [
+                            "Sử dụng trái phép, lạm dụng ma túy đã gây ra những vấn đề hết sức nghiêm trọng đối với sức khỏe con người.",
+                            "Ma túy làm hủy hoại sức khoẻ, làm mất khả năng lao động, học tập, làm cho thần kinh người nghiện bị tổn hại.",
+                            "Dùng ma túy quá liều có thể dẫn đến cái chết.",
+                            "Rất nhiều người tử vong do việc lạm dụng các chất ma túy."
+                        ],
+                        "subSectionLv1Content": [
+                            {
+                                "statement_id": "statement1",
+                                "statement_title": "Phá huỷ thể xác và nhân cách của người nghiện, gây di hại cho con cái từ bào thai",
+                                "statement_content": [
+                                    "Khi vào cơ thể ma túy gây rối loạn sinh lý, tàn phá, hủy hoại cơ thể.",
+                                    "Điển hình nhất là những rối loạn diễn ra trong hệ tiêu hóa, hệ tuần hoàn và hệ thần kinh.",
+                                    "Gây nghiện mạnh, sức khoẻ giảm sút."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement2",
+                                "statement_title": "Đối với hệ hô hấp",
+                                "statement_content": [
+                                    "Gây kích thích hô hấp gây tăng tần số thở trong thời gian ngắn, sau đó sẽ gây ức chế hô hấp, nhất là khi dùng quá liều.",
+                                    "Nhiều trường hợp ngưng thở nếu không cấp cứu kịp thời sẽ dẫn đến tử vong, đôi khi ngưng thở rất đột ngột.",
+                                    "Sau khi dùng ma túy (nhất là cocaine) có thể gây phù phổi cấp, tràn khí màng phổi, tràn khí trung thất, xuất huyết phế nang, viêm tiểu phế quản tắc nghẽn, viêm phổi, lên cơn hen phế quản."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement3",
+                                "statement_title": "Đối với hệ tuần hoàn",
+                                "statement_content": [
+                                    "Kích thích làm tăng nhịp tim, ảnh hưởng trực tiếp lên tim, gây co thắt mạch vành có thể tạo nên cơn đau thắt ngực, nặng hơn có thể gây nhồi máu cơ tim.",
+                                    "Là nguyên nhân của các rối loạn nhịp đe dọa tính mạng người dùng ma túy.",
+                                    "Gây nên tình trạng co mạch làm tăng huyết áp."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement4",
+                                "statement_title": "Đối với hệ thần kinh",
+                                "statement_content": [
+                                    "Tác dụng ban đầu: gây hưng phấn, sảng khoái, lệ thuộc thuốc",
+                                    "Các tai biến về sau: co giật, xuất huyết dưới nhện, đột quỵ, bại não..."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement5",
+                                "statement_title": "Đối với hệ sinh dục",
+                                "statement_content": [
+                                    "Khả năng tình dục suy giảm một cách rõ rệt và hậu quả này vẫn tồn tại sau khi ngưng dùng thuốc một thời gian khá lâu.",
+                                    "Nam giới dùng ma túy trong thời gian dài sẽ bị chứng vú to và bất lực.",
+                                    "Đối với phụ nữ, rối loạn chu kỳ kinh nguyệt, rong kinh, tăng tiết sữa bất thường và vô sinh.",
+                                    "Tác hại khác: hoại tử tế bào gan, ảo thính, ảo thị."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement6",
+                                "statement_title": "Nguy cơ nhiễm HIV và viêm gan do virus viêm gan B, C",
+                                "statement_content": [
+                                    "Tiêm chích ma túy là một trong những con đường lây nhiễm HIV phổ biến nhất tại Việt Nam.",
+                                    "Người nghiện ma túy có thể mang virus HIV và lây truyền cho vợ/bạn tình của con cái họ.",
+                                    "Là nguyên nhân phần lớn của căn bệnh thế kỷ HIV/AIDS",
+                                    "Theo số lượng thống kê của Ủy ban quốc gia phòng chống AIDS, ma túy, mại dâm thì có khoảng 70% đối tượng bị nhiễm HIV là do tiêm chích ma túy (heroine)."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement7",
+                                "statement_title": "Thay đổi trạng thái tâm lý sa sút tinh thần",
+                                "statement_content": [
+                                    "Thưởng xa lánh nếp sống, sinh hoạt lành mạnh, xa lánh người thân, bạn bè tốt.",
+                                    "Khi bị lệ thuộc vào ma túy thì nhu cầu chính yếu của người nghiện là các chất ma túy, họ dễ bỏ qua các nhu cầu khác trong cuộc sống đời thường.",
+                                    "Họ có thể làm bất cứ điều gì kể cả giết người, cướp tài sản, trộm cắp tài sản, cướp giật tài sản, lừa đảo chiếm đoạt tài sản sao cho có tiền mua ma túy để sử dụng.",
+                                    "Hành vi, lối sống của họ bị sai lệch các chuẩn mực đạo đức của xã hội và pháp luật."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subSectionLv1Number": "2",
+                        "subSectionLv1Name": "Tác hại của ma tuý đối với gia đình",
+                        "subSectionLv1Content": [
+                            {
+                                "statement_id": "statement1",
+                                "statement_title": "Ảnh hưởng đến hạnh phúc gia đình",
+                                "statement_content": [
+                                    "Khi trong gia đình có người chồng nghiện nghiện ma túy, là trụ cột gia đình nhưng người nghiện không quan tâm đến gia đình, vợ, con.",
+                                    "Tạo ra không khí bất hòa trong gia đình, vợ chồng cãi cọ, xô xát, con cái không được quan tâm đến việc học tập có thể dẫn đến bỏ học, lang thang, cơ nhỡ.",
+                                    "thường đổ lỗi cho nhau, không khí gia đình trở nên căng thẳng, hạnh phúc gia đình có thể tan vỡ."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement2",
+                                "statement_title": "Ảnh hưởng nghiêm trọng đến kinh tế gia đình",
+                                "statement_content": [
+                                    "Suy giảm tài sản trong gia đình do không những bị mất nguồn thu nhập do mất việc mà còn dùng tiền mua ma tuý để sử dụng",
+                                    "Nghiện ma túy làm tiêu tốn tài sản, làm tiêu hao tiền bạc của bản thân và gia đình và nhu cầu cần tiền để mua ma túy của người nghiện là rất lớn.",
+                                    "Khi đã nghiện và lên cơn nghiện thì người nghiện thường mất hết lý trí, không còn điều khiển được hành vi của mình.",
+                                    "Họ có thể gây ra những hậu quả nghiêm trọng như đánh đập, chửi bới, chém giết cha mẹ, vợ con, anh em và người thân của mình.",
+                                    "Đây là nguyên nhân chủ yếu làm cho hạnh phúc gia đình bị tan vỡ và ảnh hưởng trực tiếp đến cuộc sống cộng đồng."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement3",
+                                "statement_title": "Ảnh hưởng đến sự phát triển của con cái",
+                                "statement_content": [
+                                    "Các hormone sinh dục bị suy giảm dẫn đến giảm nhu cầu tình dục, giảm khả năng sinh sản hoặc sinh con ốm yếu, trí tuệ chậm phát triển.",
+                                    "Đối với phụ nữ có thai, nghiện ma túy có thể dẫn đến sảy thai, thai chết lưu, sinh non, suy dinh dưỡng bào thai, làm cho trẻ sinh ra gầy gò, ốm yếu, khó nuôi, chậm phát triển về thể lực và trí tuệ, thậm chí trẻ sơ sinh đã có dấu hiệu nghiện ma túy.",
+                                    "Bố/mẹ nghiện sẽ không còn khả năng về kinh tế, năng lực về hành vi để quan tâm, dạy dỗ con cái. Con cái của họ phần lớn phải bỏ học và nhiều khả năng sa vào tệ nạn xã hội"
+                                ]
+                            },
+                            {
+                                "statement_id": "statement4",
+                                "statement_title": "Những ảnh hưởng khác",
+                                "statement_content": [
+                                    "Sức khoẻ các thành viên khác trong gia đình giảm sút do lo lắng, mặc cảm, ăn không ngon, ngủ không yên",
+                                    "Người nghiện ma túy gây tổn thất về tình cảm như thất vọng, buồn khổ, hạnh phúc gia đình tan vỡ, ly thân, ly hôn, con cái không ai chăm sóc",
+                                    "Gia đình tốn thời gian, chi phí chăm sóc và điều trị các bệnh của người nghiện do ma túy gây ra."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subSectionLv1Number": "3",
+                        "subSectionLv1Name": "Tác hại của ma tuý đối với nền kinh tế",
+                        "subSectionLv1Decription": [
+                            "Người nghiện ma túy không những tiêu tốn hàng ngàn tỷ đồng mua ma túy để sử dụng hàng năm",
+                            "Nhà nước phải chi phí hàng trăm tỷ đồng cho chương trình xóa bỏ cây thuốc phiện, cho công tác cai nghiện ma túy và công tác đấu tranh phòng, chống tội phạm về ma tuý."
+                        ],
+                        "subSectionLv1Content": [
+                            {
+                                "statement_id": "statement1",
+                                "statement_text": [
+                                    "Suy giảm lực lượng lao động của gia đình và xã hội về cả số lượng và chất lượng.",
+                                    "Thu nhập quốc dân giảm, chi phí cho dự phòng và chăm sóc y tế tăng."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement2",
+                                "statement_text": [
+                                    "Làm ảnh hưởng đến tâm lý của các nhà đầu tư nước ngoài, khách du dịch và sự phát triển bền vững của nền kinh tế."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement3",
+                                "statement_text": [
+                                    "Người nghiện ma tuý hầu hết ở độ tuổi lao động, vì vậy vấn đề đào tạo cán bộ, công nhân có tay nghề để thay thế họ là một vấn đề khó khăn."
+                                ]
+                            },
+                            {
+                                "statement_id": "statement4",
+                                "statement_text": [
+                                    "Đầu tư nước ngoài cũng giảm vì đa số các nước đều rất ngại đầu tư vào những nước có tỷ lệ người nghiện cao."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subSectionLv1Number": "4",
+                        "subSectionLv1Name": "Tác hại của ma tuý đối với trật tự an toàn xã hội",
+                        "subSectionLv1Content": [
+                            {
+                                "statement_id": "statement1",
+                                "statement_text": [
+                                    "Tổ chức Y tế thế giới (WHO) đã xếp nghiện ma túy là loại bệnh tâm thần đặc biệt, sống tàn bạo, gây rối trật tự an toàn xã hội."
+                                ],
+                                "reasons": []
+                            },
+                            {
+                                "statement_id": "statement2",
+                                "statement_text": [
+                                    "Nghiện ma túy là một trong những nguyên nhân dẫn đến hành vi lệch chuẩn, vi phạm pháp luật, phạm tội của người nghiện."
+                                ],
+                                "reasons": [
+                                    {
+                                        "reason": "Sử dụng ma túy dẫn đến hành vi lệch chuẩn trong quan hệ, đối xử với người thân, bạn bè, cộng đồng xã hội",
+                                        "example": []
+                                    },
+                                    {
+                                        "reason": "Là nguyên nhân dẫn đến nhiều hành vi vi phạm pháp luật và thực hiện các loại tội phạm khác nhau dê có tiền sử dụng ma tuý",
+                                        "example": [
+                                            "Mua bán, tàng trữ, tổ chức sử dụng ma tuý",
+                                            "Trộm cắp, cướp giật, giết người",
+                                            "Lừa đảo chiếm đoạt tài sản"
+                                        ]
+                                    },
+                                    {
+                                        "reason": "Để có tiền sử dụng ma túy, người nghiện không từ bỏ một thủ đoạn nào kể cả thực hiện hành vi phạm tội.",
+                                        "example": [
+                                            "Nhiều trường hợp người nghiện giết chết cả người thân của mình để có tiền xử dụng ma tuý"
+                                        ]
+                                    },
+                                    {
+                                        "reason": "Đa số người nghiện ma túy khi bị cơ quan chức năng phát hiện họ đều là người có tiền án, tiền sự.",
+                                        "example": []
+                                    },
+                                    {
+                                        "reason": "tệ nạn nghiện ma túy là một trong những nguyên nhân quan trọng làm phát sinh ra các loại tệ nạn xã hội khác như cờ bạc, mại dâm và các loại tội phạm hình sự.",
+                                        "example": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "chapterNumber": 3,
