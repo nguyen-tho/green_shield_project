@@ -5,6 +5,10 @@
     "appSlogan": "",
     "appDescription": "",
     "appAuthor": "",
+    "userVersion":{
+        "userAges": "18-30",
+        "userVersionDecription": "Nhiệm vụ đặc biệt"
+    },
     "ebook": {
         "chapters": [
             {

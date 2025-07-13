@@ -3,6 +3,10 @@
     "appVersion": "1.0.0",
     "appDescription": "",
     "appAuthor": "",
+    "userVersion":{
+        "userAges": "18-30",
+        "userVersionDecription": "Nhiệm vụ đặc biệt"
+    },
     "contents": [
         {
             "profile_id": "profile_1",
@@ -270,17 +274,10 @@
                         "Ung thư phổi và tim mạch.",
                         "Bệnh tiểu đường và gout."
                     ],
-                    "answer": 0,
+                    "answer": 1,
                     "difficulty": "easy",
                     "score": 10
                 }
-            ]
-        },
-        {
-            "profile_id": "land_1",
-            "mission_id": 1,
-            "questions":[
-
             ]
         }
     ]
