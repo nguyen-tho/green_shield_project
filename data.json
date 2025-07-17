@@ -30,7 +30,9 @@
                                             {
                                                 "history": [
                                                     "Từ hàng ngàn năm trước Công nguyên,loài người đã phát hiện ra các loại thảo dược để sử dụng với nhiều mục đích khác nhau như chữa bệnh, dùng trong các nghi lễ, tôn giáo, cho các thú vui.",
-                                                    "Vào đầu thế kỷ 19, con người đã nghiên cứu, chiết xuất và xác định được cấu trúc hóa học của một số chất có trong thảo dược. Năm 1805 một dược sĩ người Đức, có tên là Friedrich W. A. Serturner đã chiết được Morphine từ nhựa thuốc phiện. Vào năm 1860 Albert Niemann cũng đã chiết được Cocaine từ lá cây coca."
+                                                    "Vào đầu thế kỷ 19, con người đã nghiên cứu, chiết xuất và xác định được cấu trúc hóa học của một số chất có trong thảo dược.",
+                                                    "Năm 1805 một dược sĩ người Đức, có tên là Friedrich W. A. Serturner đã chiết được Morphine từ nhựa thuốc phiện.",
+                                                    "Vào năm 1860 Albert Niemann cũng đã chiết được Cocaine từ lá cây coca."
                                                 ],
                                                 "definitions": [
                                                     {
@@ -276,11 +278,32 @@
                                                     {
                                                         "statement_id": "statement1",
                                                         "statement_text": "Phân loại dựa trên tính chất và vai trò của tiền chất",
-                                                        "statement_contents": []
+                                                        "statement_contents": [
+                                                            {
+                                                                "substatement_id": "substatement1",
+                                                                "substatement_title": "Tiền chất thiết yếu",
+                                                                "substatement_content": [
+                                                                    "Là những hóa chất tham gia trong quá trình điều chế, sản xuất ma túy mà thành phần của nó nằm trong cấu trúc của chất ma túy mới được tạo thành.",
+                                                                    "Tiền chất thiết yếu là những hóa chất không thể thiếu được trong quá trình điều chế ra chất ma túy."
+                                                                ]
+                                                            },
+                                                            {
+                                                                "substatement_id": "substatement2",
+                                                                "substatement_title": "Tiền chất cơ bản",
+                                                                "substatement_content": [
+                                                                    "Là những hóa chất tham gia vào quá trình sản xuất các chất ma túy nhưng thành phần của nó không nằm trong cấu trúc của chất ma túy mới được tạo thành.",
+                                                                    "Các tiền chất cơ bản đóng vai trò tham gia phản ứng, xúc tác, thúc đẩy phản ứng tổng hợp các chất ma túy từ các tiền chất thiết yếu"
+                                                                ]
+                                                            }
+                                                        ]
                                                     },
                                                     {
                                                         "statement_id": "statement2",
-                                                        "statement_text": "Phân loại dựa trên nguồn gốc của tiền chất"
+                                                        "statement_text": "Phân loại dựa trên mục đích sử dụng của tiền chất",
+                                                        "statement_contents": [
+                                                            "Người ta sắp xếp các loại tiền chất dùng để sản xuất từng chất ma túy cụ thể.",
+                                                            "Giúp cho các cơ quan có chức năng quản lý, kiểm soát tiền chất có điều kiện tập trung vào các tiền chất mà tội phạm sử dụng để sản xuất trái phép chất ma túy."
+                                                        ]
                                                     }
                                                 ]
                                             }
@@ -305,22 +328,310 @@
                                             "statement": [
                                                 {
                                                     "statement1": "Thuốc phiện",
-                                                    "statement1_text": ""
+                                                    "statement1_text": [
+                                                        {
+                                                            "alternative_name": [
+                                                                "Á phiện",
+                                                                "Opium",
+                                                                "Anh tử túc",
+                                                                "Anh túc"
+                                                            ],
+                                                            "scientific_name": "Papaversomniferum-L.",
+                                                            "origin": [
+                                                                {
+                                                                    "time": "khoảng năm 300 TCN",
+                                                                    "place": "Ban đầu ở Địa Trung Hải rồi phát hiện và trồng được tại nhiều nước trên thế giới"
+                                                                }
+                                                            ],
+                                                            "distribution": [
+                                                                {
+                                                                    "continent_or_country": "Châu Á",
+                                                                    "region": [
+                                                                        "Tam giác vàng",
+                                                                        "Lưỡi liềm vàng",
+                                                                        "Ấn Độ",
+                                                                        "Trung Quốc",
+                                                                        "Trung Á"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "continent_or_country": "Châu Mỹ",
+                                                                    "region": [
+                                                                        "Trung Nam Mỹ"
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "continent_or_country": "Việt Nam",
+                                                                    "region": [
+                                                                        "Lai Châu",
+                                                                        "Điện Biên",
+                                                                        "Sơn La",
+                                                                        "Hoà Bình",
+                                                                        "Lào Cai",
+                                                                        "Yên Bái",
+                                                                        "Nghệ An",
+                                                                        "Thanh Hoá"
+                                                                    ]
+                                                                }
+                                                            ],
+                                                            "more_info": "Ấn Độ là nước duy nhất trên thế giới được trồng cây thuốc phiện hợp pháp dưới sự kiểm soát của Liên Hợp Quốc để lấy nguyên liệu phục vụ sản xuất thuốc chữa bệnh trên toàn cầu.",
+                                                            "identification": [
+                                                                "Thân mọc thẳng",
+                                                                "Cao 0.7 - 1.5m",
+                                                                "Lá mọc so le",
+                                                                "Lá ở dưới thân cây có cuống lá ngắn, lá mọc phía trên thân cây không có cuống mà ôm lấy thân cây.",
+                                                                "Phiến lá hình trứng dài, đầu nhọn, gốc lá hình hơi tròn hay hình trái tim.",
+                                                                "Mép lá có khía răng nhọn nhưng các khía không đều nhau.",
+                                                                "Hoa cây thuốc phiện có hình phễu màu trắng, màu hồng hay màu tím",
+                                                                "Hoa mọc riêng lẻ ở đầu cành hay ngọn thân cây.",
+                                                                "Quả thuốc phiện có dạng hình cầu hay hình trụ, quả chưa chín có màu xanh, khi chín có màu vàng xám.",
+                                                                "Nhựa có trên thân cây, nhưng nhiều nhựa nhất vẫn là ở quả đã già nhưng chưa chín.",
+                                                                "Người ta thu hoạch nhựa bằng cách rạch song song nhiều đường trên mặt quả"
+                                                            ],
+                                                            "substatements": [
+                                                                {
+                                                                    "substatement_id": "substatement1",
+                                                                    "substatement_title": "Nhựa thuốc phiện",
+                                                                    "substatement_content": [
+                                                                        "Ban đầu có màu trắng đục, để lâu trong không khí sẽ dần dần đặc quánh lại và chuyển dần thành màu nâu, nâu đen và cuối cùng là đen.",
+                                                                        "Người ta dùng dao nhỏ hình lưỡi liềm hoặc vật sắc nhọn cạo lấy nhựa này.",
+                                                                        "Đây chính là nhựa thuốc phiện hay còn gọi là thuốc phiện tươi.",
+                                                                        "Trong nhựa thuốc phiện có khoảng 40 hoạt chất khác nhau nhưng có 05 chất được xem như là những chất cơ bản nhất là Heroine và Morphine"
+                                                                    ],
+                                                                    "example": [
+                                                                        {
+                                                                            "example_id": "example_1",
+                                                                            "example_text": "Morphine",
+                                                                            "detail": "Là chất cơ bản nhất có trong nhựa thuốc phiện thường chiếm hàm lượng từ 4 - 21% (trung bình là 10%)."
+                                                                        },
+                                                                        {
+                                                                            "example_id": "example_2",
+                                                                            "example_text": "Narcotine",
+                                                                            "detail": "có hàm lượng từ 2 - 8%, narcotine đôi khi không được coi là chất ma túy độc lập vì nó thường lẫn trong morphine."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id": "substatement2",
+                                                                    "substatement_title": "Phân loại thuốc phiện",
+                                                                    "substatement_content": [
+                                                                        {
+                                                                            "type_id": "type_1",
+                                                                            "type_text": "Thuốc phiện sống",
+                                                                            "detail": [
+                                                                                {
+                                                                                    "alternative_name": [
+                                                                                        "Thuốc phiện tươi",
+                                                                                        "Thuốc phiện thô"
+                                                                                    ],
+                                                                                    "definition": [
+                                                                                        "Là loại nhựa thuốc phiện đông đặc, có màu đen, ít tan trong nước.",
+                                                                                        "Được lấy từ quả thuốc phiện chưa qua quá trình chế biến"
+                                                                                    ],
+                                                                                    "example": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type_id": "type_2",
+                                                                            "type_text": "Thuốc phiện chín",
+                                                                            "detail": [
+                                                                                {
+                                                                                    "alternative_name": [
+                                                                                        "Thuốc phiện khô"
+                                                                                    ],
+                                                                                    "definition": [
+                                                                                        "Là thuốc phiện đã được sơ chế từ thuốc phiện sống, bằng phương pháp sấy khô.",
+                                                                                        "Được sử dụng chủ yếu ở các nước Đông Nam Á dùng để hút."
+                                                                                    ],
+                                                                                    "example": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type_id": "type_3",
+                                                                            "type_text": "Xái thuốc phiện",
+                                                                            "detail": [
+                                                                                {
+                                                                                    "alternative_name": [],
+                                                                                    "definition": [
+                                                                                        "Là sản phẩm cháy còn lại sau khi hút, trong xái thuốc phiện vẫn còn lại một lượng nhất định của morphine",
+                                                                                        "Khu vực Đông Nam Á người ta thường trộn xái thuốc phiện với thuốc phiện tươi để hút."
+                                                                                    ],
+                                                                                    "example": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type_id": "type_4",
+                                                                            "type_text": "Thuốc phiện y tế",
+                                                                            "detail": [
+                                                                                {
+                                                                                    "alternative_name": [
+                                                                                        "Thuốc phiện bột"
+                                                                                    ],
+                                                                                    "definition": [
+                                                                                        "Là loại thuốc phiện được chiết xuất và sấy khô trong điều kiện nhiệt độ nhất định, thường có hàm lượng morphine từ 9,5-10%."
+                                                                                    ],
+                                                                                    "example": [
+                                                                                        "Bột thuốc phiện",
+                                                                                        "Viên nén bột thuốc phiện dùng làm thuốc ngủ",
+                                                                                        "Thuốc giảm đau",
+                                                                                        "Thuốc ho"
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id": "substatement3",
+                                                                    "substatement_title": "Tác hại của thuốc phiện",
+                                                                    "substatement_content": [
+                                                                        "Lúc đầu hút vào thấy có sự khoái lạc, tạo cảm giác hưng phần, làm giảm đau nhức, mệt mỏi.",
+                                                                        "Nhưng càng hút thì càng ngày càng phải tăng liều mới mới đạt được cảm giác như lần trước.",
+                                                                        "Dần dẫn người hút bị suy sụp, mắt hết nghị lực, ý chí và cả cảm giác không còn.",
+                                                                        "Nghiêm trọng hơn, xuất hiện các biến chứng như: viêm dạ dày, viêm ruột mãn tính, táo bón dai dẳng, phát ban ngoài da, tiểu tiện ra abumin (một loại huyết tương trong cơ thể người), thường xuyên bị viêm phổi, mạch đập chậm và không đều.",
+                                                                        "Nguy hiểm hơn là khi không có thuốc, người sử dụng phải nạo sái thuốc phiện trong ống thuốc ra để hút (sái thuốc phiện độc hơn vì nó còn khoảng 80-90% chất morphine)."
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "statement2": "Morphine",
-                                                    "statement2_text": ""
+                                                    "statement2_text": [
+                                                        {
+                                                            "definition": "Là chất có trong thuốc phiện",
+                                                            "molecule_form": "C17H19NO3",
+                                                            "molecule_weight": 285.3,
+                                                            "detail": [
+                                                                {
+                                                                    "substatement_id": "substatement1",
+                                                                    "substament_title": "Trạng thái của Morphine",
+                                                                    "substatement_content": [
+                                                                        "Trong điều kiện bình thường morphine kết tinh dạng bột tinh thể màu trắng, có vị đắng."
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id": "substatement2",
+                                                                    "substament_title": "Lịch sử của Morphine",
+                                                                    "substatement_content": [
+                                                                        "Năm 1805, một dược sỹ người Pháp tên là Serturner đã điều chế Morphine bằng cách chiết suất từ nhựa thuốc phiện.",
+                                                                        "Tuy nhiên, lúc bấy giờ ông vẫn chưa xác định được công thức phân tử",
+                                                                        "Năm 1931, Liebig phát hiện công thức hoá học của nó là C34H36N2O6 nhưng chưa phải là công thức chính xác",
+                                                                        "Lorent đã xác định lại công thức phân tử của morphine là C17H19NO3. Đến năm 1950 công thức này đã được khẳng định là đúng."
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id": "substatement3",
+                                                                    "substament_title": "Cách sử dụng của người nghiện ma tuý và hệ quả",
+                                                                    "substatement_content": [
+                                                                        "Người nghiện ma túy thường dùng morphine bằng cách tiêm chích, uống.",
+                                                                        "Morphine sau khi vào cơ thể thường gây nên những trạng thái sinh lý như thư giãn hệ thần kinh, làm cho người có cảm giác thoải mái, dễ chịu, phấn chấn, không có cảm giác đói, dễ tiếp xúc làm quen trong mọi hoàn cảnh, tự tin và sự đam mê tình dục."
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 },
                                                 {
                                                     "statement3": "Heroine",
-                                                    "statement3_text": ""
+                                                    "statement3_text": [
+                                                        {
+                                                            "scientific_name": "diacetyl morphine",
+                                                            "molecule_form": "C21H23NO5",
+                                                            "molecule_weight": 368.5,
+                                                            "alternative_name":[
+                                                                "acetomorphine",
+                                                                "Bạch phiến",
+                                                                "Hamer",
+                                                                "scag",
+                                                                "smack",
+                                                                "junk", 
+                                                                "horse",
+                                                                "boy", 
+                                                                "hàng trắng"
+                                                            ], 
+                                                            "substatement": [
+                                                                {
+                                                                    "substatement_id":"substatement1",
+                                                                    "substatement_title": "Lịch sử và cách điều chế",
+                                                                    "substatement_content": [
+                                                                        "Heroine được điều chế lần đầu tiên vào năm 1874, nó là chất bán tổng hợp được tạo thành bằng cách cho morphine tác dụng với anhydric axetic.",
+                                                                        "Năm 1899 được một công ty dược phẩm của nước Đức sản xuất thành dạng thuốc chữa ho với tên thương mại là “heroine”."
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id":"substatement2",
+                                                                    "substatement_title": "Các dạng và trạng thái",
+                                                                    "substatement_content":[
+                                                                        "Heroine tinh khiết tồn tại ở dạng tinh thể màu trắng, nếu có lẫn tạp chất thì có các màu sắc khác nhau, từ màu trắng đến màu xám, có vị đắng.",
+                                                                        "Hiện nay heroine được sản xuất dưới các dạng sau: dạng bột mịn, dạng bột được đóng “bánh” hình hộp chữ nhật trọng lượng khoảng 350g, phổ biến ký hiệu ở bao bì bên ngoài là hình 2 con sư tử chầu quả địa cầu, ký hiệu 999, ký hiệu ba ngôi sao và nhãn biểu tượng con voi."
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id":"substatement3",
+                                                                    "substatement_title": "Các loại Heroine trên thị trường",
+                                                                    "substatement_content":[
+                                                                        {
+                                                                            "type_id":"type_1",
+                                                                            "type_title": "Heroine Tây Nam Á",
+                                                                            "type_content": [
+                                                                                "Loại 1: dạng bột mịn, màu nâu có mùi ngái như thuốc phiện",
+                                                                                "Loại 2: dạng bột màu trắng hay màu sữa, có mùi ngái nhưng mức độ ít hơn so với loại 1."
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type_id":"type_2",
+                                                                            "type_title": "Heroine Trung Đông",
+                                                                            "type_content": [
+                                                                                "Loại 1: dạng bột màu nâu sáng đôi khi có màu hồng nhạt, loại này trong thực tế thường pha thêm chất phụ gia như procaine",
+                                                                                "Loại 2: dạng bột mịn màu trắng, loại này trong thực tế thường bị pha trộn thêm capheine (caffeine)nên tỷ lệ giảm xuống còn 30 - 40%."
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type_id":"type_3",
+                                                                            "type_title": "Heroine Đông Nam Á",
+                                                                            "type_content": [
+                                                                                "Loại 1: Heroine hút “Trung hoa 03” tồn tại dạng hạt, có đường kính từ 1 - 5mm, có màu xám, màu đỏ hoặc màu hồng, có mùi hắc. Dạng xám hàm lượng heroine chiếm 20%; capheine 40% có độ tinh khiết không cao nên người ta dùng để hút. Loại màu đỏ hay màu hồng có thành phần hóa học giống loại màu xám nhưng thay vị trí của capheine là thuốc ngủ barbitone.",
+                                                                                "Loại 2: Heroine tiêm “Trung hoa 04”. Loại này tồn tại dạng bột mịn màu trắng độ tinh khiết khá cao hàm lượng heroine đạt 90%, có mùi hơi hắc. Đây là loại heroine có độ tinh khiết khá cao nên thường dùng để tiêm chích. Trên thị trường loại này thường được ép bánh hoặc dạng bột đựng trong túi nylon cả hai loại đều có trọng lượng 350g. Khi tiêm phải hòa tan heroine vào trong nước cất."
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "substatement_id":"substatement4",
+                                                                    "substatement_title": "Tác hại của Heroine",
+                                                                    "substatement_content":[
+                                                                        "Khi dùng heroin chỉ cần 3-4 mg đã tạo ra trạng thái kích thích gây buồn ngủ.",
+                                                                        "Ban đầu, người sử dụng cảm thấy sảng khoái, sung sướng, không còn đau đớn thực thể. Sau đó, gây cảm giác buồn nôn, thở nông, gây táo bón.",
+                                                                        "Heroine có khả năng gây nghiện rất nhanh cho người dùng, chỉ cần sau một hoặc hai lần dùng là có khả năng bị nghiện ngay mà không cưỡng lại nổi.",
+                                                                        "Người nghiện bị suy sụp rất nhanh cả về thể chất lẫn tinh thần. Nếu dùng quá liều có thể dẫn tới tử vong."
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
                                                 }
                                             ]
                                         }
                                     },
                                     {
                                         "subSectionLv3Number": "2.1.2",
-                                        "subSectionLv3Name": "Nhóm các chất ma túy gây ảo giác"
+                                        "subSectionLv3Name": "Nhóm các chất ma túy gây ảo giác",
+                                        "subSectionLv3Content": {
+                                            "statement":[
+                                                {
+                                                    "statement_id":"statement1",
+                                                    "statement_title": "Cần sa",
+                                                    "stament_content":[
+                                                        
+                                                    ]
+                                                }
+                                            ]
+                                        }
                                     },
                                     {
                                         "subSectionLv3Number": "2.1.3",
@@ -442,6 +753,11 @@
                                 }
                             }
                         ]
+                    },
+                    {
+                        "subSectionLv1Number": "3",
+                        "subSectionLv1Name": "Các phương pháp nhận biết chất ma túy và tiền chất",
+                        "subSectionLv1Content": []
                     }
                 ]
             },
