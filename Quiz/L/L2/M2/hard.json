@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "q4",
+    "question_text": "Tại sao các nhà đầu tư nước ngoài lại ngại đầu tư vào những nước có tỷ lệ người nghiện cao?",
+    "options": [
+      "Vì họ không thích khí hậu ở đó",
+      "Vì lo ngại về sự bất ổn xã hội và môi trường kinh doanh không an toàn",
+      "Vì không có đủ nhân công",
+      "Vì chi phí sinh hoạt quá đắt"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Khi một người nghiện không còn khả năng kiểm soát hành vi, họ có thể gây nguy hiểm cho ai?",
+    "options": [
+      "Chỉ cho bản thân họ",
+      "Cho cả bản thân, gia đình và cộng đồng",
+      "Chỉ cho bạn bè",
+      "Chỉ cho người lạ"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  }
+]

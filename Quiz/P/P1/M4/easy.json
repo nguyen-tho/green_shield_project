@@ -1,0 +1,67 @@
+[
+  {
+    "question_id": "q1",
+    "question_text": "Phương pháp dùng mắt, mũi để nhận biết ma túy qua màu sắc, mùi vị được gọi là gì?",
+    "question_options": [
+      "Phương pháp dùng thuốc thử",
+      "Phương pháp dùng máy móc",
+      "Phương pháp nhận biết bằng cảm quan",
+      "Phương pháp dùng động vật"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q3",
+    "question_text": "Phương pháp nhận biết bằng thuốc thử dựa trên nguyên tắc nào?",
+    "question_options": [
+      "Đo trọng lượng của chất",
+      "Quan sát phản ứng hóa học tạo ra màu sắc đặc trưng",
+      "Soi chất dưới kính hiển vi",
+      "Ngửi mùi của chất sau khi đốt"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q5",
+    "question_text": "Phương pháp nào cho kết quả nhận biết ma túy chính xác, nhanh và nhạy nhất?",
+    "question_options": [
+      "Bằng cảm quan",
+      "Bằng thuốc thử",
+      "Bằng động vật",
+      "Bằng máy móc khoa học kỹ thuật"
+    ],
+    "answer": 4,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Khi nhận biết bằng cảm quan, điều nào là đúng?",
+    "question_options": [
+      "Có thể nếm thử để kiểm tra",
+      "Tuyệt đối không được nếm thử vì ma túy rất độc",
+      "Chỉ cần nhìn là đủ, không cần ngửi",
+      "Chỉ áp dụng cho ma túy dạng lỏng"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q7",
+    "question_text": "Chó nghiệp vụ được dùng trong phương pháp nào để nhận biết ma túy?",
+    "question_options": [
+      "Phương pháp cảm quan",
+      "Phương pháp động vật",
+      "Phương pháp dùng thuốc thử",
+      "Phương pháp bằng máy móc"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "score": 10
+  }
+]

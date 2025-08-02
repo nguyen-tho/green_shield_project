@@ -1,0 +1,76 @@
+[
+  {
+    "question_id": "q12",
+    "question_text": "“Bóng cười” không phải là ma túy nên dùng bao nhiêu cũng không sao. Đúng hay Sai?",
+    "question_options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q15",
+    "question_text": "Theo Tổ chức Y tế Thế giới, một người hút shisha sẽ hít phải lượng khói nhiều hơn bao nhiêu lần so với hút một điếu thuốc lá?",
+    "question_options": [
+      "Gấp 10-20 lần",
+      "Gấp 30-50 lần",
+      "Gấp 100-200 lần",
+      "Gấp 500 lần"
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q17",
+    "question_text": "Tình trạng mất kiểm soát hành vi, mắt mờ, cơ bắp yếu đi là những triệu chứng của ngộ độc khí N2O từ bóng cười.",
+    "question_options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q18",
+    "question_text": "Một trong những lý do khiến tội phạm dễ dàng lợi dụng thuốc lá điện tử để trộn ma túy là gì?",
+    "question_options": [
+      "Vì nó có giá bán rẻ.",
+      "Vì nó sử dụng nhiều hương liệu, hóa chất không phải từ lá thuốc lá, dễ dàng phối trộn.",
+      "Vì pin của nó rất mạnh.",
+      "Vì nó được bán công khai."
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q19",
+    "question_text": "Một người hút shisha sẽ hít phải lượng nicotin nhiều hơn bao nhiêu phần trăm so với hút thuốc lá?",
+    "question_options": [
+      "Khoảng 10%",
+      "Khoảng 30%",
+      "Khoảng 50%",
+      "Nhiều hơn 70%"
+    ],
+    "answer": 4,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q20",
+    "question_text": "Điểm chung nguy hiểm nhất giữa các loại ma túy “trá hình” như trà sữa, kẹo dẻo, thuốc lá điện tử là gì?",
+    "question_options": [
+      "Chúng đều có giá rất đắt",
+      "Chúng làm cho người dùng, đặc biệt là giới trẻ, mất cảnh giác và dễ dàng sử dụng lần đầu",
+      "Chúng đều có nguồn gốc từ Trung Quốc",
+      "Chúng đều không thể bị phát hiện bằng que thử thông thường"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "question_id": "q5",
+    "question_text": "Những đứa trẻ có bố mẹ như thế nào thì có xu hướng nghiện cao hơn?",
+    "options": [
+      "Bố mẹ quá nghiêm khắc",
+      "Bố mẹ có mối quan hệ phức tạp, mâu thuẫn, ly hôn, ly thân",
+      "Bố mẹ làm kinh doanh",
+      "Bố mẹ làm giáo viên"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Nguyên nhân cơ bản nhất dẫn đến nghiện ma túy từ chính bản thân một người là gì?",
+    "options": [
+      "Do ngoại hình không đẹp",
+      "Do ý chí chủ quan không đủ mạnh mẽ để vượt qua khó khăn và cám dỗ",
+      "Do học không giỏi",
+      "Do không có nhiều bạn bè"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Môi trường nào có tác động hai mặt, vừa có thể giúp bạn tốt lên, vừa có thể kéo bạn xấu đi?",
+    "options": [
+      "Gia đình",
+      "Nhà trường",
+      "Môi trường bạn bè",
+      "Mạng xã hội"
+    ],
+    "answer": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Đâu là động cơ chính dẫn các em đến với ma túy theo tâm lý lứa tuổi?",
+    "options": [
+      "Muốn kiếm nhiều tiền",
+      "Tò mò, bạn bè rủ rê, không hiểu tác hại",
+      "Muốn cải thiện sức khỏe",
+      "Muốn nổi tiếng"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q14",
+    "question_text": "Chỉ những người có hoàn cảnh khó khăn, thất học mới có nguy cơ nghiện ma túy.",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  }
+]

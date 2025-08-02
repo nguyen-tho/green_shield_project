@@ -1,0 +1,67 @@
+[
+   {
+      "question_id": "hard_q1",
+      "question_text": "Nếu bạn thấy ai đó đang gặp nguy hiểm ngay lập tức (ví dụ như một vụ cướp), bạn nên gọi số nào để Cảnh sát đến giúp nhanh nhất?",
+      "question_options": [
+        "Tổng đài 111 (Bảo vệ Trẻ em)",
+        "Tổng đài 1900.9095 (Tư vấn Sức khỏe)",
+        "Tổng đài Cảnh sát 113 (Khẩn cấp về an ninh, trật tự)",
+        "Số điện thoại trực ban hình sự (069.3187.200)."
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "score": 30
+    },
+    {
+      "question_id": "hard_q2",
+      "question_text": "Khi bạn gọi đến đường dây nóng, việc cung cấp 'tình huống cụ thể và địa điểm' là quan trọng nhất vì điều gì?",
+      "question_options": [
+        "Để họ biết bạn đang ở đâu chơi.",
+        "Để họ có thể nhanh chóng hiểu vấn đề và gửi người đến giúp nếu cần",
+        "Để họ biết bạn có đi học không.",
+        "Để họ có thể gợi ý chỗ ăn ngon."
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "score": 30
+    },
+    {
+      "question_id": "hard_q3",
+      "question_text": "Nếu một người lớn trong gia đình bạn cần được tư vấn về cách thoát khỏi những thói quen không tốt liên quan đến ma túy, tổng đài nào sẽ cung cấp thông tin và lời khuyên chuyên sâu nhất cho việc này?",
+      "question_options": [
+        "Tổng đài Cảnh sát 113.",
+        "Tổng đài Quốc gia Bảo vệ Trẻ em 111",
+        "Số điện thoại trực ban hình sự",
+        "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (1900.9095)"
+      ],
+      "answer": 3,
+      "difficulty": "hard",
+      "score": 30
+    },
+    {
+      "question_id": "hard_q4",
+      "question_text": "Điều nào sau đây là KHÔNG đúng khi nói về Tổng đài Quốc gia Bảo vệ Trẻ em (111)?",
+      "question_options": [
+        "Tổng đài này giúp đỡ mọi trường hợp trẻ em bị nguy hiểm",
+        "Tổng đài hoạt động liên tục cả ngày và đêm",
+        "Bạn phải trả tiền khi gọi đến tổng đài này",
+        "Tổng đài cũng giúp đỡ những vấn đề liên quan đến ma túy ảnh hưởng đến trẻ em."
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "score": 30
+    },
+    {
+      "question_id": "hard_q5",
+      "question_text": "Việc thông tin cá nhân của bạn được giữ bí mật khi gọi đường dây nóng có ý nghĩa quan trọng nhất là để làm gì?",
+      "question_options": [
+        "Để bạn có thể kể tên tất cả bạn bè của mình.",
+        "Để người khác không biết bạn đã gọi điện.",
+        "Để bạn yên tâm nói ra những chuyện quan trọng mà không sợ bị người khác biết tên",
+        "Để số điện thoại của bạn không bị ghi lại."
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "score": 30
+    }
+]

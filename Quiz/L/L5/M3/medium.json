@@ -1,0 +1,67 @@
+[
+  {
+      "question_id": "medium_q1",
+      "question_text": "Nếu người thân của bạn cần lời khuyên về sức khỏe, đặc biệt là liên quan đến các vấn đề không tốt (như ma túy), họ có thể gọi đến tổng đài nào của Bộ Y tế?",
+      "question_options": [
+        "Tổng đài Cảnh sát 113",
+        "Số điện thoại trực ban hình sự: 069.3187.200.",
+        "Tổng đài Quốc gia Bảo vệ Trẻ em 111.",
+        "Tổng đài Tư vấn Sức khỏe Việt 1900.9095."
+      ],
+      "answer": 3,
+      "difficulty": "medium",
+      "score": 20
+    },
+    {
+      "question_id": "medium_q2",
+      "question_text": "Sự khác nhau chính giữa Tổng đài Cảnh sát 113 và Phòng Cảnh sát điều tra tội phạm về ma túy (PC04) là gì?",
+      "question_options": [
+        "113 chỉ bắt trộm, còn PC04 bắt tất cả tội phạm.",
+        "113 là số điện thoại chung cho mọi việc khẩn cấp về an ninh, còn PC04 là đơn vị chuyên điều tra về ma túy[cite: 6, 8].",
+        "113 là số của Thành phố, còn PC04 là của cả nước.",
+        "113 chỉ làm việc ban ngày, còn PC04 làm việc suốt đêm."
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "score": 20
+    },
+    {
+      "question_id": "medium_q3",
+      "question_text": "Khi bạn gọi đến đường dây nóng, tại sao việc 'lắng nghe hướng dẫn' từ người trực điện thoại lại rất quan trọng?",
+      "question_options": [
+        "Để họ có thể nói chuyện lâu hơn.",
+        "Để họ có thể chỉ cho bạn biết phải làm gì tiếp theo để giải quyết vấn đề",
+        "Để bạn biết tên của họ.",
+        "Để bạn có thể kể thêm nhiều câu chuyện."
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "score": 20
+    },
+    {
+      "question_id": "medium_q4",
+      "question_text": "Nếu bạn biết một bạn nhỏ đang gặp nguy hiểm hoặc bị ảnh hưởng bởi những điều không tốt, bạn nên gọi tổng đài nào để giúp đỡ?",
+      "question_options": [
+        "Tổng đài Cảnh sát 113.",
+        "Số điện thoại của PC04.",
+        "Tổng đài Quốc gia Bảo vệ Trẻ em 111",
+        "Tổng đài Tư vấn Sức khỏe Việt 1900.9095"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "score": 20
+    },
+    {
+      "question_id": "medium_q5",
+      "question_text": "Tổng đài Tư vấn Sức khỏe Việt của Bộ Y tế (1900.9095) cung cấp thông tin và lời khuyên về những vấn đề gì, ngoài việc giúp đỡ người nghiện?",
+      "question_options": [
+        "Chỉ về các loại kẹo.",
+        "Nhiều vấn đề sức khỏe khác nhau",
+        "Chỉ về cách chơi game.",
+        "Cách sửa xe đạp."
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "score": 20
+    }
+]

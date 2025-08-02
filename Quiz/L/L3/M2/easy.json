@@ -1,0 +1,82 @@
+[
+  {
+    "question_id": "q1",
+    "question_text": "Hành vi nào sau đây được xem là tội phạm ma túy?",
+    "options": [
+      "Sử dụng ma túy (được xem là tệ nạn)",
+      "Sản xuất, mua bán, tàng trữ, vận chuyển trái phép ma túy",
+      "Cai nghiện ma túy",
+      "Tìm hiểu về ma túy"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q2",
+    "question_text": "Ở Việt Nam, việc một người tự ý trồng cây cần sa trong vườn nhà chỉ để cho đẹp thì không bị coi là phạm tội. Đúng hay Sai?",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Tội phạm về ma túy được quy định tại chương nào của Bộ luật Hình sự năm 2015?",
+    "options": [
+      "Chương XV",
+      "Chương XX",
+      "Chương XXII",
+      "Chương XXV"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Điều 247 của Bộ luật Hình sự quy định về tội gì?",
+    "options": [
+      "Tội sản xuất trái phép chất ma túy",
+      "Tội tàng trữ trái phép chất ma túy",
+      "Tội trồng cây có chứa chất ma túy",
+      "Tội mua bán trái phép chất ma túy"
+    ],
+    "answer": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q9",
+    "question_text": "Điều nào trong Bộ luật Hình sự quy định về Tội vận chuyển trái phép chất ma túy?",
+    "options": [
+      "Điều 249",
+      "Điều 250",
+      "Điều 251",
+      "Điều 252"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Ở Việt Nam, chỉ có Nhà nước mới có quyền quản lý các chất ma túy.",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q12",
+    "question_text": "Việc tìm hiểu về các tội phạm ma túy trong Bộ luật Hình sự giúp chúng ta điều gì?",
+    "options": [
+      "Biết cách lách luật",
+      "Nhận thức được sự nghiêm khắc của pháp luật và tránh xa các hành vi phạm tội",
+      "Trở thành một luật sư",
+      "Không có tác dụng gì"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  }
+]

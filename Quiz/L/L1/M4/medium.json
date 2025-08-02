@@ -1,0 +1,67 @@
+[
+  {
+    "question_id": "q6",
+    "question_text": "Phương pháp nhận biết bằng thuốc thử dựa trên nguyên tắc nào?",
+    "question_options": [
+      "Đo trọng lượng của chất",
+      "Quan sát phản ứng hóa học tạo ra màu sắc đặc trưng",
+      "Soi chất dưới kính hiển vi",
+      "Ngửi mùi của chất sau khi đốt"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q7",
+    "question_text": "Phương pháp dùng thuốc thử để kiểm tra ma túy hoạt động dựa trên hiện tượng gì?",
+    "question_options": [
+      "Phản ứng tạo nhiệt",
+      "Phản ứng hóa học tạo màu đặc trưng",
+      "Thay đổi độ pH dung dịch",
+      "Phát sáng dưới tia UV"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Trong phương pháp nhận biết bằng thuốc thử, nếu kết quả phản ứng âm tính nhưng vẫn nghi ngờ, cần làm gì?",
+    "question_options": [
+      "Kết luận ngay là không phải ma túy",
+      "Lặp lại thí nghiệm với lượng thuốc thử nhiều hơn",
+      "Thu toàn bộ mẫu nghi vấn để giám định tiếp",
+      "Hủy bỏ mẫu và đóng hồ sơ"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q9",
+    "question_text": "Hạn chế lớn nhất khi sử dụng chó nghiệp vụ trong điều kiện Việt Nam là gì?",
+    "question_options": [
+      "Chó khó phân biệt mùi ma túy tổng hợp",
+      "Chi phí vận chuyển quá cao",
+      "Khí hậu nóng ẩm làm chó nhập từ châu Âu dễ chết",
+      "Không đủ huấn luyện viên chuyên nghiệp"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Khi thử nghiệm tiền chất Ephedrin bằng thuốc thử Chen-Kao, hiện tượng màu nào xuất hiện?",
+    "question_options": [
+      "Màu nâu đỏ",
+      "Màu tím",
+      "Màu xanh vàng",
+      "Màu hồng nhạt"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20
+  }
+]

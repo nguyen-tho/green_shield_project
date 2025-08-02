@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "q9",
+    "question_text": "Quy trình cai nghiện ma túy bắt buộc gồm bao nhiêu giai đoạn?",
+    "options": [
+      "3 giai đoạn",
+      "4 giai đoạn",
+      "5 giai đoạn",
+      "6 giai đoạn"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Đối với cai nghiện tự nguyện, người nghiện phải đảm bảo hoàn thành đủ bao nhiêu giai đoạn đầu tiên của quy trình?",
+    "options": [
+      "1 giai đoạn (Tiếp nhận)",
+      "2 giai đoạn (Tiếp nhận và Điều trị cắt cơn)",
+      "3 giai đoạn (Tiếp nhận, Điều trị cắt cơn và Giáo dục, tư vấn)",
+      "Phải hoàn thành cả 5 giai đoạn"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Một người nghiện từ đủ 18 tuổi trở lên, đang trong thời hạn quản lý sau cai nghiện mà bị phát hiện tái nghiện, sẽ bị áp dụng biện pháp nào?",
+    "options": [
+      "Bị phạt tiền và cảnh cáo",
+      "Bị đưa vào cơ sở cai nghiện bắt buộc",
+      "Bị truy cứu trách nhiệm hình sự",
+      "Tiếp tục quản lý tại nơi cư trú thêm 1 năm"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  }
+]

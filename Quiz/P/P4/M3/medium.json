@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "q4",
+    "question_text": "Một nhân viên phục vụ biết khách sử dụng ma túy trong quán nhưng vẫn làm ngơ và tiếp tục phục vụ. Hành vi này có thể cấu thành tội gì?",
+    "options": [
+      "Tội không tố giác tội phạm",
+      "Tội mua bán trái phép chất ma túy",
+      "Tội chứa chấp việc sử dụng trái phép chất ma túy",
+      "Không phạm tội vì chỉ là nhân viên làm thuê"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q5",
+    "question_text": "Một người cho bạn bè mượn phòng trọ để sử dụng ma túy. Dù không tham gia sử dụng, người cho mượn phòng vẫn có thể bị xử lý hình sự về tội gì?",
+    "options": [
+      "Tội tổ chức sử dụng trái phép chất ma túy",
+      "Tội chứa chấp việc sử dụng trái phép chất ma túy",
+      "Tội lôi kéo người khác sử dụng trái phép chất ma túy",
+      "Vi phạm hành chính"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Hành vi lập nhóm chat chia sẻ địa chỉ mua ma túy có thể bị truy cứu về tội danh nào?",
+    "options": [
+      "Tội sử dụng mạng máy tính để chiếm đoạt tài sản",
+      "Tội truyền bá văn hóa phẩm đồi trụy",
+      "Tội môi giới, xúi giục người khác sử dụng trái phép chất ma túy",
+      "Không phải là tội phạm"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q12",
+    "question_text": "Học sinh nên làm gì khi phát hiện bạn bè của mình có dấu hiệu bất thường?",
+    "options": [
+      "Xa lánh và cô lập bạn đó",
+      "Mặc kệ vì không phải chuyện của mình",
+      "Quan tâm, chia sẻ và kịp thời thông báo cho người lớn có trách nhiệm (thầy cô, bố mẹ)",
+      "Tự mình khuyên bảo và giải quyết"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q13",
+    "question_text": "Để xây dựng môi trường học tập lành mạnh, học sinh nên làm gì?",
+    "options": [
+      "Chỉ tập trung vào việc học, không tham gia hoạt động nào khác",
+      "Không tụ tập với người xấu và tích cực tham gia các hoạt động ngoại khóa của nhà trường",
+      "Luôn thể hiện mình là người chịu chơi",
+      "Cạnh tranh không lành mạnh với bạn bè"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q15",
+    "question_text": "Vai trò của bạn bè trong công tác phòng ngừa ma túy là gì?",
+    "options": [
+      "Bao che cho nhau khi có sai phạm",
+      "Không quan tâm, thờ ơ với các biểu hiện lạ của bạn",
+      "Quan tâm, chia sẻ và kịp thời thông báo cho người lớn có trách nhiệm (thầy cô, gia đình)",
+      "Rủ rê bạn thử những thứ mới lạ"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "medium"
+  }
+]

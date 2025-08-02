@@ -1,0 +1,50 @@
+[
+  {
+    "question_id": "q3",
+    "question_text": "Một người bị bắt khi đang cất giấu ma túy trong nhà để sau này sử dụng. Hành vi này phạm tội gì?",
+    "options": [
+      "Tội mua bán trái phép chất ma túy",
+      "Tội tàng trữ trái phép chất ma túy",
+      "Tội vận chuyển trái phép chất ma túy",
+      "Tội sử dụng trái phép chất ma túy"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q4",
+    "question_text": "Một người dùng vũ lực để cướp ma túy từ người khác. Hành vi này phạm tội gì?",
+    "options": [
+      "Tội cướp tài sản",
+      "Tội chiếm đoạt chất ma túy",
+      "Tội mua bán trái phép chất ma túy",
+      "Tội gây rối trật tự công cộng"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q5",
+    "question_text": "“Tiền chất” là hóa chất dùng để sản xuất ma túy. Hành vi nào sau đây liên quan đến tiền chất cũng là tội phạm?",
+    "options": [
+      "Mua bán tiền chất để làm thí nghiệm khoa học",
+      "Vận chuyển tiền chất cho công ty dược",
+      "Tàng trữ, vận chuyển, mua bán tiền chất dùng vào việc sản xuất trái phép ma túy",
+      "Sử dụng sản phẩm có chứa tiền chất"
+    ],
+    "answer": 3,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Một người đang điều chế ma túy trong phòng thí nghiệm tại nhà. Hành vi này phạm tội gì?",
+    "options": [
+      "Tội nghiên cứu khoa học trái phép",
+      "Tội tàng trữ trái phép chất ma túy",
+      "Tội sản xuất trái phép chất ma túy",
+      "Tội mua bán trái phép chất ma túy"
+    ],
+    "answer": 3,
+    "difficulty": "medium"
+  }
+]

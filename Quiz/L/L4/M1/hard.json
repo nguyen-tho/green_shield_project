@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "q13",
+    "question_text": "Theo kết quả khảo sát, biểu hiện nào sau đây xuất hiện ở 100% người nghiện khi lên cơn?",
+    "options": [
+      "Đau các cơ",
+      "Sút cân",
+      "Ngáp và chảy nước mắt",
+      "Trầm cảm"
+    ],
+    "answer": 3,
+    "difficulty": "general"
+  },
+  {
+    "question_id": "q15",
+    "question_text": "Việc nhận biết người nghiện ở giai đoạn nào là khó nhất?",
+    "options": [
+      "Khi mới bắt đầu sử dụng",
+      "Khi đã nghiện nặng",
+      "Khi đang lên cơn",
+      "Khi đang cai nghiện"
+    ],
+    "answer": 1,
+    "difficulty": "general"
+  }
+]

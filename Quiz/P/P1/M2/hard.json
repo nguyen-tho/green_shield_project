@@ -1,0 +1,80 @@
+[
+  {
+    "question_id": "q8",
+    "question_text": "Lysergic acid là tiền chất để điều chế ra loại ma túy nào?",
+    "question_options": [
+      "Cỏ mỹ",
+      "Ketamine",
+      "MDMA",
+      "LSD"
+    ],
+    "answer": 4,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q12",
+    "question_text": "Quốc gia nào là nước duy nhất trên thế giới được trồng cây thuốc phiện hợp pháp dưới sự kiểm soát của Liên Hợp Quốc?",
+    "question_options": [
+      "Trung Quốc",
+      "Việt Nam",
+      "Afghanistan",
+      "Ấn Độ"
+    ],
+    "answer": 4,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q16",
+    "question_text": "“Tam giác vàng” và “Lưỡi liềm vàng” là hai khu vực trồng nhiều thuốc phiện nổi tiếng ở châu lục nào?",
+    "question_options": [
+      "Châu Mỹ",
+      "Châu Phi",
+      "Châu Á",
+      "Châu Âu"
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q18",
+    "question_text": "Cỏ Mỹ thực chất là gì?",
+    "question_options": [
+      "Một loại cỏ quý hiếm từ Mỹ",
+      "Lá cây cần sa phơi khô",
+      "Các loại thực vật, sợi tổng hợp được tẩm ma túy tổng hợp",
+      "Một loại thuốc lá"
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q19",
+    "question_text": "Chất nào vừa là dung môi trong sản xuất Heroin, vừa dùng để làm sơn, mỹ phẩm?",
+    "question_options": [
+      "Toluene",
+      "Acetone",
+      "Sulfuric acid",
+      "Hydrochloric acid"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q20",
+    "question_text": "Chất nào sau đây là nguyên liệu để điều chế LSD và cũng được sử dụng trong tổng hợp hóa hữu cơ?",
+    "question_options": [
+      "Phenylacetic acid",
+      "Lysergic acid",
+      "Hydrochloric acid",
+      "Acetic anhydride"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  }
+]

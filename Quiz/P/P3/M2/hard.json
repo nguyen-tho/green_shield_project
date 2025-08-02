@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "q10",
+    "question_text": "Tội phạm về ma túy được Nhà nước ta xác định là một loại tội phạm nghiêm trọng. Việc này thể hiện điều gì?",
+    "options": [
+      "Tính nhân đạo của pháp luật",
+      "Mức độ nguy hiểm cao cho xã hội của loại tội phạm này và sự quyết tâm đấu tranh của Nhà nước",
+      "Sự tuân thủ tuyệt đối các Công ước quốc tế",
+      "Sự phức tạp trong công tác điều tra"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Một người bị bắt vì hành vi vận chuyển trái phép 500g Heroin. Cùng lúc đó, trong nhà người này phát hiện thêm 200g Heroin đang cất giấu. Người này có thể bị truy cứu trách nhiệm hình sự về những tội danh nào?",
+    "options": [
+      "Chỉ Tội vận chuyển trái phép chất ma túy",
+      "Chỉ Tội tàng trữ trái phép chất ma túy",
+      "Cả Tội vận chuyển và Tội tàng trữ trái phép chất ma túy",
+      "Tội mua bán trái phép chất ma túy"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "hard"
+  }
+]

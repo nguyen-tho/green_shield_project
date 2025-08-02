@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "easy_1",
+    "question_text": "Việc dùng ma túy quá liều có thể dẫn đến hậu quả nghiêm trọng nhất là gì?",
+    "options": [
+      "Gây buồn ngủ",
+      "Gây đau đầu",
+      "Dẫn đến cái chết",
+      "Gây tăng cân"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_2",
+    "question_text": "Hành vi nào sau đây là con đường lây nhiễm HIV phổ biến nhất?",
+    "options": [
+      "Dùng chung đồ ăn",
+      "Bắt tay người nghiện",
+      "Tiêm chích ma túy dùng chung bơm kim tiêm",
+      "Hít chung khói thuốc"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_3",
+    "question_text": "Khi bị lệ thuộc vào ma túy, nhu cầu chính yếu nhất của người nghiện là gì?",
+    "options": [
+      "Đồ ăn ngon",
+      "Quần áo đẹp",
+      "Có tiền mua ma túy",
+      "Có nhiều bạn bè"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_4",
+    "question_text": "Bạn thấy tác hại của ma túy như thế nào?",
+    "options": [
+      "Rất khủng khiếp và cần phải tránh xa",
+      "Không đáng sợ lắm",
+      "Chỉ nguy hiểm khi dùng quá liều",
+      "Có thể thử một lần cho biết"
+    ],
+    "correct_answer_index": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_5",
+    "question_text": "Tệ nạn ma túy có quan hệ trực tiếp đến việc lan truyền căn bệnh thế kỷ nào?",
+    "options": [
+      "Cúm mùa",
+      "Ung thư",
+      "HIV/AIDS",
+      "Tiểu đường"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "easy_child_1",
+    "question_text": "Nếu một người dùng ma túy quá nhiều, điều tồi tệ nhất có thể xảy ra với họ là gì?",
+    "options": [
+      "Họ sẽ buồn ngủ",
+      "Họ sẽ bị đau đầu",
+      "Họ có thể chết",
+      "Họ sẽ tăng cân"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_child_2",
+    "question_text": "Khi một người nghiện ma túy, điều quan trọng nhất mà họ luôn muốn có là gì?",
+    "options": [
+      "Đồ ăn ngon",
+      "Quần áo đẹp",
+      "Tiền để mua ma túy",
+      "Nhiều bạn bè"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_child_3",
+    "question_text": "Ma túy làm cơ thể chúng ta yếu đi. Theo con, ma túy nguy hiểm đến mức nào?",
+    "options": [
+      "Không đáng sợ lắm",
+      "Rất đáng sợ và cần tránh xa",
+      "Chỉ nguy hiểm một chút thôi",
+      "Có thể thử một lần"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_child_4",
+    "question_text": "Ma túy có thể làm hại những bộ phận nào trong cơ thể chúng ta?",
+    "options": [
+      "Chỉ làm hại tóc",
+      "Làm hại não, tim và dạ dày",
+      "Chỉ làm hại da",
+      "Không làm hại gì"
+    ],
+    "answer": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "easy_child_5",
+    "question_text": "Người dùng ma túy thường dễ mắc những căn bệnh nguy hiểm nào?",
+    "options": [
+      "Bệnh cảm cúm thông thường",
+      "Bệnh đau bụng",
+      "Bệnh AIDS và các bệnh lây nhiễm khác",
+      "Bệnh đau mắt"
+    ],
+    "answer": 2,
+    "difficulty": "easy"
+  }
+]

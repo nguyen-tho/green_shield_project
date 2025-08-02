@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "q3",
+    "question_text": "Trong một bữa tiệc sinh nhật, một người bạn mời bạn thử ma túy đá và nói “thử một lần cho biết, không sao đâu”. Bạn nên làm gì?",
+    "options": [
+      "Thử một chút cho bạn vui lòng",
+      "Thẳng thắn từ chối và tìm cách rời đi",
+      "Hẹn bạn lần sau sẽ thử",
+      "Lấy thử nhưng không dùng"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q6",
+    "question_text": "Khi bị bạn trai/bạn gái dụ dỗ dùng ma túy để cùng trải nghiệm cảm giác mới lạ, bạn nên làm gì?",
+    "options": [
+      "Đồng ý để giữ gìn tình cảm",
+      "Kiên quyết từ chối và xem xét lại mối quan hệ đó",
+      "Hứa sẽ thử sau này",
+      "Thử một lần duy nhất"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q7",
+    "question_text": "Một bạn sinh viên làm thêm công việc giao hàng. Để tránh bị lợi dụng vận chuyển ma túy, bạn ấy nên làm gì?",
+    "options": [
+      "Nhận mọi đơn hàng có tiền công cao",
+      "Từ chối các bưu phẩm lạ, không rõ nguồn gốc và báo cáo khi nghi ngờ",
+      "Không cần quan tâm bên trong là gì, chỉ cần giao hàng",
+      "Chỉ nhận giao hàng cho người quen"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q9",
+    "question_text": "Một người lạ đưa cho bạn một viên kẹo và nói đó là “kẹo vitamin”. Bạn nên làm gì?",
+    "options": [
+      "Ăn ngay vì được cho quà",
+      "Cảm ơn và lịch sự từ chối, không ăn đồ từ người lạ",
+      "Nhận và cất đi để sau này ăn",
+      "Hỏi xem kẹo có ngon không"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Một người bạn nhờ bạn giữ giùm một gói đồ nhỏ và nói sẽ quay lại lấy ngay. Bạn nghi ngờ đó là ma túy. Bạn nên làm gì?",
+    "options": [
+      "Giữ giúp bạn vì tình bạn",
+      "Kiên quyết từ chối vì hành vi này có thể cấu thành tội tàng trữ trái phép chất ma túy",
+      "Mở ra xem bên trong là gì",
+      "Ném gói đồ đó đi"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "q14",
+    "question_text": "Khi một người quen nhờ chuyển đồ và bạn cảm thấy nghi ngờ, bạn nên làm gì đầu tiên?",
+    "options": [
+      "Nhận lời ngay để giúp đỡ",
+      "Hỏi ý kiến cha mẹ hoặc người thân tin cậy trước khi nhận lời",
+      "Tự mình kiểm tra hàng hóa bên trong",
+      "Yêu cầu trả công thật cao"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  }
+]

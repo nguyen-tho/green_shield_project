@@ -1,0 +1,79 @@
+[
+  {
+    "question_id": "q3",
+    "question_text": "Morphine khi vào cơ thể sẽ làm người dùng cảm thấy lo lắng, bồn chồn. Đúng hay Sai?",
+    "question_options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20,
+    "explanation": "Morphine làm hệ thần kinh thư giãn, tạo cảm giác thoải mái, dễ chịu"
+  },
+  {
+    "question_id": "q7",
+    "question_text": "LSD thường được tẩm vào những miếng giấy nhỏ và được giới trẻ gọi là gì?",
+    "question_options": [
+      "Kẹo mút",
+      "Bùa lưỡi / Tem giấy",
+      "Nước thánh",
+      "Thuốc tiên"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Cỏ Mỹ thực chất là gì?",
+    "question_options": [
+      "Một loại cỏ quý hiếm từ Mỹ",
+      "Lá cây cần sa phơi khô",
+      "Các loại thực vật, sợi tổng hợp được tẩm ma túy tổng hợp",
+      "Một loại thuốc lá"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Tác dụng kích thích của Cocaine kéo dài trong bao lâu?",
+    "question_options": [
+      "Cả ngày",
+      "Vài giờ",
+      "Rất ngắn, chỉ khoảng 30 - 60 phút",
+      "Vĩnh viễn"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q12",
+    "question_text": "Tên gọi “thuốc lắc” hay “kẹo” thường dùng để chỉ loại ma túy tổng hợp nào?",
+    "question_options": [
+      "Amphetamine",
+      "MDMA (Ecstasy)",
+      "Ketamine",
+      "Methamphetamine"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "score": 20
+  },
+  {
+    "question_id": "q15",
+    "question_text": "Sau khi sử dụng cần sa, một trong những biểu hiện dễ thấy trên cơ thể là gì?",
+    "question_options": [
+      "Mắt trắng dã",
+      "Da xanh xao",
+      "Mắt bị đỏ",
+      "Tai ù đi"
+    ],
+    "answer": 3,
+    "difficulty": "medium",
+    "score": 20
+  }
+]

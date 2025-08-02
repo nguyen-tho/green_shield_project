@@ -1,0 +1,46 @@
+[
+  {
+    "question_id": "q2",
+    "question_text": "Phụ nữ có thai nghiện ma túy không ảnh hưởng gì đến em bé trong bụng. Đúng hay Sai?",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q5",
+    "question_text": "Tổ chức Y tế Thế giới (WHO) xếp nghiện ma túy là một loại bệnh tâm thần đặc biệt.",
+    "options": [
+      "Đúng",
+      "Sai"
+    ],
+    "correct_answer_index": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q7",
+    "question_text": "Tệ nạn nghiện ma túy là nguyên nhân làm phát sinh ra các tệ nạn xã hội nào khác?",
+    "options": [
+      "Ô nhiễm môi trường",
+      "Tắc đường",
+      "Cờ bạc, mại dâm",
+      "An toàn thực phẩm"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q9",
+    "question_text": "Người nghiện ma túy thường ở độ tuổi nào, gây khó khăn cho việc đào tạo lao động thay thế?",
+    "options": [
+      "Độ tuổi nghỉ hưu",
+      "Độ tuổi lao động",
+      "Độ tuổi thiếu nhi",
+      "Mọi độ tuổi như nhau"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  }
+]

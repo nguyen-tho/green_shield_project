@@ -1,0 +1,80 @@
+[
+  {
+    "question_id": "q10",
+    "question_text": "Mục đích chính của việc phân loại tiền chất theo từng loại ma túy cụ thể là gì?",
+    "question_options": [
+      "Giúp các nhà khoa học dễ nghiên cứu",
+      "Giúp cơ quan chức năng tập trung quản lý và kiểm soát các tiền chất mà tội phạm hay sử dụng",
+      "Để phân biệt giá trị kinh tế của các loại tiền chất",
+      "Để phục vụ công tác thống kê tội phạm"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q11",
+    "question_text": "Một người có biểu hiện suy sụp về tinh thần sau khi lạm dụng một loại thuốc ngủ có độc tính cao, thuộc chất độc bảng A. Nhiều khả năng người này đã lạm dụng chất nào sau đây?",
+    "question_options": [
+      "Diazepam",
+      "Alprazolam",
+      "Chế phẩm của Barbiturate",
+      "Cocaine"
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q16",
+    "question_text": "Chất nào sau đây là ví dụ điển hình cho nhóm ma túy có nguồn gốc bán tổng hợp?",
+    "question_options": [
+      "Cocaine",
+      "Morphine",
+      "Heroin",
+      "Methamphetamine"
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q18",
+    "question_text": "“Tiền chất thiết yếu” được định nghĩa là hóa chất không thể thiếu và thành phần của nó...?",
+    "question_options": [
+      "Là chất xúc tác cho phản ứng",
+      "Nằm trong cấu trúc của chất ma túy mới được tạo thành",
+      "Giúp tạo môi trường acid hoặc bazơ",
+      "Bay hơi sau khi phản ứng kết thúc"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q19",
+    "question_text": "Hành vi sử dụng một chất gây nghiện, không nằm trong danh mục do Chính phủ ban hành, có được coi là sử dụng ma túy không?",
+    "question_options": [
+      "Có, vì nó gây nghiện.",
+      "Không, vì nó không nằm trong danh mục quy định.",
+      "Có, nếu nó có nguồn gốc tự nhiên.",
+      "Tùy thuộc vào liều lượng sử dụng."
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  },
+  {
+    "question_id": "q20",
+    "question_text": "Hóa chất tham gia vào quá trình sản xuất ma túy nhưng thành phần của nó không nằm trong cấu trúc của chất ma túy mới. Hóa chất này được phân loại là gì?",
+    "question_options": [
+      "Tiền chất thiết yếu",
+      "Tiền chất cơ bản",
+      "Ma túy bán tổng hợp",
+      "Chất dung môi không thuộc tiền chất"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 30
+  }
+]

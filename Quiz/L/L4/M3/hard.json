@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "q12",
+    "question_text": "Đâu là một kỹ năng quan trọng để phòng tránh ma túy?",
+    "options": [
+      "Luôn đi chơi một mình",
+      "Xây dựng lối sống lành mạnh, an toàn và nói không với ma túy",
+      "Cố gắng kết bạn với tất cả mọi người",
+      "Không bao giờ nhận quà từ người khác"
+    ],
+    "answer": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q13",
+    "question_text": "Để xây dựng môi trường học tập lành mạnh, học sinh nên làm gì?",
+    "options": [
+      "Chỉ tập trung vào việc học, không tham gia hoạt động nào khác",
+      "Không tụ tập với người xấu và tích cực tham gia các hoạt động ngoại khóa của nhà trường",
+      "Luôn thể hiện mình là người chịu chơi",
+      "Cạnh tranh không lành mạnh với bạn bè"
+    ],
+    "answer": 2,
+    "difficulty": "hard"
+  }
+]

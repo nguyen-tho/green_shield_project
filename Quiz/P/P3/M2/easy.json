@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "q1",
+    "question_text": "Theo định nghĩa của Công ước LHQ 1988, yếu tố nào sau đây là bắt buộc để một hành vi được coi là “tội phạm ma túy”?",
+    "options": [
+      "Hành vi được thực hiện xuyên quốc gia",
+      "Hành vi có yếu tố “cố ý”",
+      "Hành vi gây ra hậu quả nghiêm trọng",
+      "Hành vi được thực hiện vì mục đích lợi nhuận"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q3",
+    "question_text": "Tội phạm về ma túy trong Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017) được quy định trong khoảng từ Điều nào đến Điều nào?",
+    "options": [
+      "Từ Điều 240 đến Điều 250",
+      "Từ Điều 245 đến Điều 255",
+      "Từ Điều 247 đến Điều 259",
+      "Từ Điều 250 đến Điều 260"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q4",
+    "question_text": "Điều 247 của BLHS quy định về tội trồng các loại cây nào sau đây?",
+    "options": [
+      "Cây thuốc phiện, cây anh túc, cây cần sa",
+      "Cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy",
+      "Chỉ cây thuốc phiện và cây cần sa",
+      "Bất kỳ loại cây nào có khả năng gây nghiện"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q7",
+    "question_text": "“Hành vi nguy hiểm cho xã hội, có lỗi, trái pháp luật hình sự và phải chịu hình phạt” là định nghĩa về khái niệm gì?",
+    "options": [
+      "Tệ nạn xã hội",
+      "Vi phạm hành chính",
+      "Tội phạm",
+      "Vi phạm dân sự"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Tội danh nào được quy định tại Điều 251 của Bộ luật Hình sự?",
+    "options": [
+      "Tội tàng trữ trái phép chất ma túy",
+      "Tội vận chuyển trái phép chất ma túy",
+      "Tội mua bán trái phép chất ma túy",
+      "Tội chiếm đoạt chất ma túy"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "question_id": "q1",
+    "question_text": "Theo Từ điển Bách khoa Công an nhân dân, “ma túy” là thuật ngữ chỉ các hợp chất có nguồn gốc tự nhiên hoặc tổng hợp, gây lệ thuộc và có tác dụng nào sau đây?",
+    "question_options": [
+      "Chỉ gây kích thích",
+      "Chỉ gây ảo giác",
+      "Kích thích, gây ức chế thần kinh hoặc gây ảo giác",
+      "Gây thay đổi chức năng cơ thể"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q2",
+    "question_text": "Theo Công ước của Liên Hợp Quốc năm 1988, “tiền chất” được dùng để sản xuất bất hợp pháp các chất ma túy và ....?",
+    "question_options": [
+      "Chất gây nghiện",
+      "Chất dung môi",
+      "Chất hướng thần",
+      "Dược chất"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q3",
+    "question_text": "Quá trình điều chế ma túy từ sản phẩm tự nhiên cho tác dụng với một số hóa chất để thu được chất có tác dụng mạnh hơn được gọi là gì?",
+    "question_options": [
+      "Sản xuất ma túy tự nhiên",
+      "Sản xuất ma túy bán tổng hợp",
+      "Sản xuất ma túy tổng hợp toàn phần",
+      "Sản xuất tiền chất"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q5",
+    "question_text": "Morphine cho tác dụng với Acetic anhydride để tạo thành....",
+    "question_options": [
+      "Cocain",
+      "LSD",
+      "Heroine",
+      "Methamphetamine"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q13",
+    "question_text": "Các chất thuộc dẫn xuất của Benzodiazenpin như Diazepam được xếp vào nhóm ma túy gây an thần.",
+    "question_options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q14",
+    "question_text": "Methamphetamine được điều chế bằng phương pháp tổng hợp hóa học toàn phần từ tiền chất. Vậy nó thuộc nhóm ma túy nào theo nguồn gốc?",
+    "question_options": [
+      "Ma túy tự nhiên",
+      "Ma túy bán tổng hợp",
+      "Ma túy tổng hợp toàn phần",
+      "Tiền chất ma túy"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "score": 10
+  },
+  {
+    "question_id": "q17",
+    "question_text": "Các chất ma túy bán tổng hợp và tổng hợp toàn phần thường được gọi chung là chất ma túy tổng hợp.",
+    "question_options": [
+      "Đúng",
+      "Sai"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "score": 10
+  }
+]

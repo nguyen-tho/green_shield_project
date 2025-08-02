@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "medium_child_1",
+    "question_text": "Để có tiền mua ma túy, người nghiện có thể làm những việc gì?",
+    "options": [
+      "Chỉ xin tiền bố mẹ",
+      "Chỉ đi làm thêm chăm chỉ",
+      "Có thể làm những việc xấu như trộm cắp, cướp giật",
+      "Không làm gì cả"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_child_2",
+    "question_text": "Nếu bố mẹ hoặc người lớn trong nhà dùng ma túy, việc đó có thể làm hại những em bé chưa ra đời như thế nào?",
+    "options": [
+      "Làm em bé thông minh hơn",
+      "Làm em bé lớn nhanh hơn",
+      "Làm hại em bé ngay khi còn trong bụng mẹ",
+      "Không làm hại gì đến em bé"
+    ],
+    "answer": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_child_3",
+    "question_text": "Khi một người nghiện ma túy, việc học của họ thường sẽ như thế nào?",
+    "options": [
+      "Học tốt hơn và thông minh hơn",
+      "Sẽ rất khó học, có thể phải nghỉ học",
+      "Việc học không bị ảnh hưởng",
+      "Chỉ giảm sút một chút"
+    ],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_child_4",
+    "question_text": "Người nghiện ma túy thường bị tim đập nhanh và huyết áp cao. Điều này có ý nghĩa gì đối với sức khỏe tim của họ?",
+    "options": [
+      "Tim khỏe hơn",
+      "Tim bị yếu đi và có thể gặp nguy hiểm",
+      "Không ảnh hưởng gì đến tim",
+      "Tim đập chậm lại"
+    ],
+    "answer": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_child_5",
+    "question_text": "Tại sao việc dùng ma túy bị gọi là làm 'suy thoái nòi giống'?",
+    "options": [
+      "Vì nó chỉ ảnh hưởng đến một vài người",
+      "Vì nó làm hại sức khỏe của em bé và khiến gia đình không hạnh phúc",
+      "Vì nó làm số người sống ít đi",
+      "Vì nó chỉ xảy ra ở một số nơi"
+    ],
+    "answer": 1,
+    "difficulty": "medium"
+  }
+]

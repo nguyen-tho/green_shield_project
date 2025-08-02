@@ -1,0 +1,50 @@
+[
+  {
+    "question_id": "q3",
+    "question_text": "Một sinh viên làm thêm công việc giao hàng và bị bắt khi đang vận chuyển một gói hàng chứa ma túy. Yếu tố nào sau đây là quan trọng nhất để xác định bạn sinh viên có phạm tội “Vận chuyển trái phép chất ma túy” hay không?",
+    "options": [
+      "Số lượng ma túy trong gói hàng",
+      "Việc bạn sinh viên có biết hoặc buộc phải biết bên trong là ma túy hay không (yếu tố lỗi)",
+      "Quãng đường vận chuyển xa hay gần",
+      "Tiền công vận chuyển cao hay thấp"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q7",
+    "question_text": "Một trong những kỹ năng quan trọng nhất để phòng tránh rủi ro pháp lý khi nhận chuyển đồ giúp người khác là gì?",
+    "options": [
+      "Yêu cầu trả công thật cao",
+      "Hỏi rõ loại hàng, nơi đi, nơi đến và tốt nhất là hỏi ý kiến người thân tin cậy",
+      "Chuyển hàng thật nhanh để không bị phát hiện",
+      "Không bao giờ nhận chuyển đồ giúp ai"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q8",
+    "question_text": "Hành vi nhận vận chuyển hàng hóa qua biên giới để lấy tiền công cao, dù không biết rõ bên trong là gì, tiềm ẩn nguy cơ phạm tội gì với khung hình phạt rất nặng?",
+    "options": [
+      "Tội buôn lậu",
+      "Tội vận chuyển trái phép hàng hóa qua biên giới",
+      "Tội vận chuyển trái phép chất ma túy",
+      "Tội trốn thuế"
+    ],
+    "correct_answer_index": 3,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "q10",
+    "question_text": "Hành vi giữ giúp ma túy cho người khác, dù không có mục đích sử dụng hay mua bán, có thể cấu thành tội danh nào?",
+    "options": [
+      "Tội che giấu tội phạm",
+      "Tội tàng trữ trái phép chất ma túy",
+      "Không phải là tội phạm vì không có mục đích",
+      "Chỉ bị xử phạt hành chính"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "hard"
+  }
+]

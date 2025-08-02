@@ -1,0 +1,14 @@
+[
+  {
+    "question_id": "q7",
+    "question_text": "Một người shipper được thuê chở một thùng hàng mà không biết bên trong có ma túy. Khi bị bắt, hành vi của người đó được xét xử dựa trên yếu tố nào?",
+    "options": [
+      "Số lượng ma túy",
+      "Yếu tố chủ quan, tức là có biết đó là ma túy hay không",
+      "Loại xe mà người đó sử dụng",
+      "Quãng đường đã vận chuyển"
+    ],
+    "answer": 2,
+    "difficulty": "hard"
+  }
+]

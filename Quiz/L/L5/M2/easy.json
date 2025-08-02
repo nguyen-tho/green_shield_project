@@ -1,0 +1,67 @@
+[
+  {
+      "question_id": "easy_q1",
+      "question_text": "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh trước đây được gọi là gì?",
+      "question_options": [
+        "Cơ sở cai nghiện ma túy Thanh thiếu niên 2",
+        "Cơ sở cai nghiện ma túy Nhị Xuân",
+        "Cơ sở Cai nghiện ma túy Bố Lá",
+        "Phân khu Bình Triệu"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "score": 10
+    },
+    {
+      "question_id": "easy_q2",
+      "question_text": "Cơ sở Cai nghiện ma túy số 2 TP. Hồ Chí Minh nằm ở huyện nào?",
+      "question_options": [
+        "Huyện Hóc Môn",
+        "Huyện Củ Chi",
+        "Tỉnh Bình Dương",
+        "TP. Thủ Đức"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "score": 10
+    },
+    {
+      "question_id": "easy_q3",
+      "question_text": "Trung tâm Tư vấn Pháp luật và Hỗ trợ Tâm lý tại Thành phố Hồ Chí Minh có địa chỉ ở Quận mấy?",
+      "question_options": [
+        "Quận 1",
+        "Quận 3",
+        "Quận 5",
+        "Quận 10"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "score": 10
+    },
+    {
+      "question_id": "easy_q4",
+      "question_text": "Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh có trụ sở chính (Bố Lá) nằm ở tỉnh nào?",
+      "question_options": [
+        "TP. Hồ Chí Minh",
+        "Tỉnh Bình Phước",
+        "Tỉnh Bình Dương",
+        "Tỉnh Đồng Nai"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "score": 10
+    },
+    {
+      "question_id": "easy_q5",
+      "question_text": "Khi chọn một nơi để giúp đỡ, điều quan trọng là phải tìm hiểu kỹ về điều gì?",
+      "question_options": [
+        "Màu sắc của tường và đồ nội thất.",
+        "Phương pháp giúp đỡ và chi phí.",
+        "Số lượng cây xanh trong sân.",
+        "Lịch sử của tòa nhà."
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "score": 10
+    }
+]

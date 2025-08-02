@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "medium_1",
+    "question_text": "Ma túy gây ra những rối loạn điển hình nhất ở các hệ cơ quan nào trong cơ thể?",
+    "options": [
+      "Chỉ ở hệ thần kinh",
+      "Hệ tiêu hóa, hệ tuần hoàn và hệ thần kinh",
+      "Chỉ ở hệ hô hấp",
+      "Chỉ ở da và tóc"
+    ],
+    "correct_answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_2",
+    "question_text": "Ma túy có thể gây di hại cho con cái từ khi nào?",
+    "options": [
+      "Khi con được 10 tuổi",
+      "Khi con bắt đầu đi học",
+      "Ngay từ trong bào thai",
+      "Không gây di hại"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_3",
+    "question_text": "Khi một người bị lệ thuộc vào ma túy, họ sẽ dễ bị người khác lợi dụng và việc học tập/làm việc sẽ...?",
+    "options": [
+      "Tốt hơn do thông minh hơn",
+      "Giảm sút hoặc bỏ học/bỏ việc",
+      "Không bị ảnh hưởng",
+      "Chỉ giảm sút một chút"
+    ],
+    "correct_answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_4",
+    "question_text": "Tại sao nói tệ nạn ma túy làm “suy thoái nòi giống”?",
+    "options": [
+      "Vì nó chỉ ảnh hưởng đến một nhóm người nhất định",
+      "Vì nó gây di hại cho con cái từ trong bào thai và ảnh hưởng đến sức khỏe sinh sản",
+      "Vì nó làm giảm dân số",
+      "Vì nó gây ra các bệnh di truyền"
+    ],
+    "correct_answer_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "medium_5",
+    "question_text": "Ngoài lây nhiễm HIV, việc tiêm chích ma túy chung kim tiêm còn dẫn đến nguy cơ lây nhiễm loại virus nào?",
+    "options": [
+      "Virus cúm A",
+      "Virus Herpes",
+      "Viêm gan vi rút B và C",
+      "Virus Ebola"
+    ],
+    "correct_answer_index": 2,
+    "difficulty": "medium"
+  }
+]
