@@ -123,7 +123,16 @@ def convert_nested_quiz_structure_preserving_folders(base_dataset_folder, output
 
                                                 # Đánh số lại question_id
                                                 question["question_id"] = f"q{question_idx + 1}"
-
+                                                
+                                                # Đồng nhất question options
+                                                # Nếu có trường "options", đổi tên thành "question_options"
+                                                if "options" in question:
+                                                    question["question_options"] = question.pop("options")
+                                                
+                                                # Đồng nhất field đáp án
+                                                # Nếu có trường "correct_answer_index", đổi tên thành "answer"
+                                                if "correct_answer_index" in question:
+                                                    question["answer"] = question.pop("correct_answer_index")
                                                 new_json_structure["contents"][0]["questions"].append(question)
                                             
                                             # Tên tệp đầu ra sẽ giống tên tệp gốc (easy.json, medium.json, hard.json)
