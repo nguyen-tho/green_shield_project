@@ -1,0 +1,7 @@
+Đã làm:
+Thọ
+HS(1-5) -NV1
+HS2,VD2 -NV2
+VD5, HS5 -NV(2,3)
+HS4-NV3
+HS3, VD3 - NV3

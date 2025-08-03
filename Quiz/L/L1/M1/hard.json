@@ -8,7 +8,7 @@
       "Nhóm gây kích thích",
       "Nhóm gây ngủ"
     ],
-    "answer": 1,
+    "answer": 0,
     "difficulty": "hard",
     "score": 30
   },
@@ -21,7 +21,7 @@
       "Không thể thiếu và thành phần của nó nằm trong cấu trúc ma túy mới",
       "Rất hiếm và đắt tiền"
     ],
-    "answer": 3,
+    "answer": 2,
     "difficulty": "hard",
     "score": 30
   },
@@ -34,7 +34,7 @@
       "Ma túy hóa học",
       "Ma túy nhân tạo"
     ],
-    "answer": 2,
+    "answer": 1,
     "difficulty": "hard",
     "score": 30
   },
