@@ -9,8 +9,7 @@
       "Nicotine"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q2",
@@ -22,8 +21,7 @@
       "Trung Quốc"
     ],
     "answer": 4,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q3",
@@ -35,8 +33,7 @@
       "Gây đau dạ dày"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q5",
@@ -48,8 +45,7 @@
       "E-Juice"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q7",
@@ -61,8 +57,7 @@
       "Chỉ bán ở các cửa hàng chuyên dụng"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q9",
@@ -74,8 +69,7 @@
       "Tetrahydrocannabinol (THC)"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q11",
@@ -87,7 +81,6 @@
       "Hydro (H2)"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   }
 ]

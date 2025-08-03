@@ -8,9 +8,8 @@
       "Phân khu Bình Triệu",
       "Trụ sở Bố Lá"
     ],
-    "answer": 1,
-    "difficulty": "hard",
-    "score": 30
+    "answer": 2,
+    "difficulty": "hard"
   },
   {
     "question_id": "hard_q2",
@@ -21,9 +20,8 @@
       "Cần tìm hiểu kỹ về phương pháp điều trị, quy trình can thiệp, cơ sở vật chất, chi phí và chương trình hỗ trợ sau cai nghiện",
       "Chỉ cần đảm bảo cơ sở được cấp phép"
     ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "answer": 3,
+    "difficulty": "hard"
   },
   {
     "question_id": "hard_q3",
@@ -34,9 +32,8 @@
       "Bệnh viện Nhân Ái",
       "Phân khu Bình Triệu"
     ],
-    "answer": 1,
-    "difficulty": "hard",
-    "score": 30
+    "answer": 2,
+    "difficulty": "hard"
   },
   {
     "question_id": "hard_q4",
@@ -47,9 +44,8 @@
       "Cơ sở số 2 tập trung điều trị Methadone, còn cơ sở số 3 không.",
       "Cơ sở số 2 là cơ sở mới, còn cơ sở số 3 là cơ sở cũ nhất."
     ],
-    "answer": 1,
-    "difficulty": "hard",
-    "score": 30
+    "answer": 2,
+    "difficulty": "hard"
   },
   {
     "question_id": "hard_q5",
@@ -60,8 +56,7 @@
       "Sự đồng thuận, quyết tâm và hợp tác tích cực của chính người cai nghiện",
       "Mức độ hiện đại của cơ sở vật chất tại trung tâm"
     ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "answer": 3,
+    "difficulty": "hard"
   }
 ]

@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS1",
+            "mission_id": 4,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Ưu điểm nổi bật của phương pháp nhận biết bằng máy móc là gì?",
+                    "question_options": [
+                        "Giá thành thấp, dễ dùng",
+                        "Cho kết quả chính xác, nhanh và nhạy",
+                        "Không cần chuyên môn vận hành",
+                        "Không phụ thuộc môi trường"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Khi thử tiền chất Safrole với thuốc thử Gallic acid, màu sắc nào xuất hiện?",
+                    "question_options": [
+                        "Nâu chuyển thành tím xanh",
+                        "Đỏ tươi",
+                        "Xanh đậm thành tím đậm",
+                        "Vàng nhạt"
+                    ],
+                    "answer": 0,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Lysergic acid cho màu tím khi thử với thuốc thử nào?",
+                    "question_options": [
+                        "Mandelin",
+                        "Ehrlich",
+                        "Marquis",
+                        "Chen-Kao"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Acetone khi phản ứng với thuốc thử Nitroprussid trong NaOH cho màu gì?",
+                    "question_options": [
+                        "Màu nâu đỏ",
+                        "Màu đỏ da cam",
+                        "Màu xanh đậm",
+                        "Màu tím"
+                    ],
+                    "answer": 3,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Khi nhận biết bằng thuốc thử, nếu lượng mẫu quá ít, giải pháp an toàn nhất là gì?",
+                    "question_options": [
+                        "Pha loãng mẫu để thử nhiều lần",
+                        "Lấy toàn bộ mẫu và đưa về phòng giám định",
+                        "Sử dụng nhiều loại thuốc thử cùng lúc",
+                        "Đốt mẫu để nhận biết mùi"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

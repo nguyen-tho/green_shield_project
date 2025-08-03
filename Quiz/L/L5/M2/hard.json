@@ -8,9 +8,8 @@
         "Phải trả thật nhiều tiền.",
         "Chỉ cần bạn bè hoặc gia đình quyết định thay."
       ],
-      "answer": 1,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 2,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q2",
@@ -21,9 +20,8 @@
         "Để biết cơ sở đó có tổ chức tiệc sinh nhật không.",
         "Để chọn nơi có kiến trúc đẹp nhất."
       ],
-      "answer": 1,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 2,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q3",
@@ -34,9 +32,8 @@
         "Tỉnh Bình Phước.",
         "TP. Thủ Đức."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q4",
@@ -47,9 +44,8 @@
         "Các Trung tâm Y tế Quận/Huyện và các Bệnh viện được cấp phép.",
         "Các cửa hàng tạp hóa và siêu thị."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q5",
@@ -60,8 +56,7 @@
         "Chỉ cần đợi người khác đến giúp.",
         "Phải biết tất cả các địa chỉ của trung tâm."
       ],
-      "answer": 1,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 2,
+      "difficulty": "hard"
     }
 ]

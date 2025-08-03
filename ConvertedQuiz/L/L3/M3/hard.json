@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD3",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Trong các văn bản luật liên quan đến ma túy, văn bản nào giống như một cuốn sổ tay lớn hướng dẫn về cách xử phạt những hành vi chưa quá nghiêm trọng, bao gồm cả những vấn đề như an toàn xã hội hay phòng cháy chữa cháy?",
+                    "question_options": [
+                        "Luật xử lý vi phạm hành chính năm 2012, sửa đổi, bổ sung năm 2020",
+                        "Nghị định số 105/2021/NĐ-CP (về chi tiết Luật Phòng, chống ma túy)",
+                        "Nghị định số 144/2021/NĐ-CP (về xử phạt trong nhiều lĩnh vực như an ninh, trật tự, an toàn xã hội)",
+                        "Nghị định số 116/2021NĐ-CP (về cai nghiện ma túy)"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Để biết một người có nghiện ma túy hay không, cần có quy tắc và cách làm đúng. Vậy văn bản nào do Bộ Y tế ban hành, giúp các bác sĩ biết được dấu hiệu và quy trình cụ thể để xác định tình trạng nghiện?",
+                    "question_options": [
+                        "Nghị định số 109/2021NĐ-CP (về cơ sở và thủ tục xác định tình trạng nghiện)",
+                        "Thông tư 18/2021/TT-BYT (về tiêu chuẩn chẩn đoán và quy trình chuyên môn)",
+                        "Luật xử lý vi phạm hành chính năm 2012, sửa đổi, bổ sung năm 2020",
+                        "Quyết định 140/QĐ-TTg năm 2024 (về chương trình phòng, chống ma túy trong thanh, thiếu niên)"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Nếu một bạn trẻ từ 12 tuổi đến dưới 18 tuổi cần được đưa vào cơ sở cai nghiện bắt buộc, cơ quan nào có vai trò quan trọng nhất trong việc xem xét và ra quyết định cuối cùng?",
+                    "question_options": [
+                        "Thủ tướng Chính phủ",
+                        "Viện kiểm sát nhân dân tối cao",
+                        "Tòa án nhân dân",
+                        "Bộ Y tế"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Theo các quy định pháp luật, việc đưa ra các hình phạt hành chính (như phạt tiền, cảnh cáo) đối với các hành vi liên quan đến ma túy (chưa quá nặng để bị đi tù) có mục đích chính là gì?",
+                    "question_options": [
+                        "Để chính quyền có nhiều quyền lực hơn.",
+                        "Để mọi người sợ hãi và không dám làm sai nữa.",
+                        "Để ngăn chặn những hành vi xấu gây mất trật tự xã hội mà chưa đến mức phải bị coi là tội phạm nghiêm trọng.",
+                        "Để mọi người tự động đi cai nghiện mà không cần bắt buộc."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Quyết định 140/QĐ-TTg năm 2024 của Thủ tướng Chính phủ nói về chương trình phòng, chống ma túy cho thanh, thiếu niên đến năm 2030. Điều gì làm cho văn bản này khác biệt so với các Nghị định khác tập trung vào việc xử lý vi phạm hay cai nghiện?",
+                    "question_options": [
+                        "Quyết định này chỉ dùng để phạt tiền các bạn trẻ vi phạm.",
+                        "Quyết định này là một kế hoạch lớn, dài hạn để giúp thanh, thiếu niên tránh xa ma túy, thay vì chỉ là luật xử phạt hay quy trình cụ thể.",
+                        "Quyết định này do Bộ Y tế ban hành, không phải của Thủ tướng Chính phủ.",
+                        "Quyết định này thay thế tất cả các luật khác về ma túy."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

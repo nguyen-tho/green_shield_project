@@ -1,0 +1,110 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD4",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Theo Luật Phòng, chống ma túy năm 2021, một người được xác định là “người sử dụng trái phép chất ma túy” khi có hành vi sử dụng mà không được phép và có kết quả xét nghiệm như thế nào?",
+                    "question_options": [
+                        "Âm tính",
+                        "Dương tính",
+                        "Không xác định",
+                        "Tùy trường hợp"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Sự lệ thuộc vào ma túy được thể hiện ở hai mặt là thể chất và...?",
+                    "question_options": [
+                        "Kinh tế",
+                        "Tinh thần (tâm lý)",
+                        "Xã hội",
+                        "Gia đình"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Về mặt sinh học, nghiện ma túy được xem là một căn bệnh ở đâu?",
+                    "question_options": [
+                        "Ở tim",
+                        "Ở phổi",
+                        "Ở não",
+                        "Ở gan"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "“Cóng, nỏ” là tên gọi của dụng cụ nào liên quan đến việc sử dụng ma túy?",
+                    "question_options": [
+                        "Bơm kim tiêm",
+                        "Bình thủy tinh có ống hút",
+                        "Bật lửa ga",
+                        "Giấy bạc"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Sau 10-20 phút dùng heroin, đồng tử của người sử dụng sẽ có biểu hiện gì?",
+                    "question_options": [
+                        "Nở rộng",
+                        "Teo lại",
+                        "Không thay đổi",
+                        "Đổi màu"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Người sử dụng “hàng đá” thường không thèm ăn và có thể thức liên tục 3-4 đêm. Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Dùng “que chỉ thị ma” (que test) để nhận biết ma túy là dùng với mẫu gì?",
+                    "question_options": [
+                        "Mẫu máu",
+                        "Mẫu tóc",
+                        "Mẫu nước tiểu",
+                        "Mẫu mồ hôi"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

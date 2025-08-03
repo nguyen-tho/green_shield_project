@@ -21,9 +21,7 @@
       "Cha mẹ chúng dành nhiều thời gian hơn để dạy dỗ vì cảm thấy tội lỗi."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Trẻ em trong gia đình có người nghiện ma túy thường bị bỏ bê, không được quan tâm học hành, có thể phải bỏ học sớm và dễ bị bạn bè xấu lôi kéo vào các tệ nạn xã hội khác."
+    "difficulty": "hard"
   },
   {
     "question_id": "q2",
@@ -35,9 +33,7 @@
       "Nó giúp cảnh sát thư giãn vì có ít việc phải làm hơn."
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Người nghiện ma túy có thể vi phạm pháp luật như trộm cắp, cướp giật, lừa đảo, thậm chí là giết người để có tiền sử dụng ma túy, làm xã hội không còn an toàn."
+    "difficulty": "hard"
   },
   {
     "question_id": "q3",
@@ -49,9 +45,7 @@
       "Các nhà đầu tư nước ngoài có nhiều khả năng đầu tư hơn vì quốc gia đó đang giải quyết các vấn đề xã hội."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Tệ nạn ma túy khiến xã hội phải chi trả rất nhiều tiền cho công tác cai nghiện, điều trị bệnh và phòng chống, làm giảm nguồn lực và chất lượng lao động của đất nước, ảnh hưởng đến sự phát triển kinh tế bền vững."
+    "difficulty": "hard"
   },
   {
     "question_id": "q4",
@@ -63,8 +57,6 @@
       "Tội chiếm đoạt chất ma túy."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Hành vi ép buộc người khác sử dụng ma túy được quy định là Tội cưỡng bức người khác sử dụng trái phép chất ma túy trong Bộ luật Hình sự 2015, sửa đổi 2017."
+    "difficulty": "hard"
   }
 ]

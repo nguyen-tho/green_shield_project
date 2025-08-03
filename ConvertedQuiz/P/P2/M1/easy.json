@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS2",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Việc dùng ma túy quá liều có thể dẫn đến hậu quả nghiêm trọng nhất là gì?",
+                    "question_options": [
+                        "Gây buồn ngủ",
+                        "Gây đau đầu",
+                        "Dẫn đến cái chết",
+                        "Gây tăng cân"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Hành vi nào sau đây là con đường lây nhiễm HIV phổ biến nhất?",
+                    "question_options": [
+                        "Dùng chung đồ ăn",
+                        "Bắt tay người nghiện",
+                        "Tiêm chích ma túy dùng chung bơm kim tiêm",
+                        "Hít chung khói thuốc"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Khi bị lệ thuộc vào ma túy, nhu cầu chính yếu nhất của người nghiện là gì?",
+                    "question_options": [
+                        "Đồ ăn ngon",
+                        "Quần áo đẹp",
+                        "Có tiền mua ma túy",
+                        "Có nhiều bạn bè"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Bạn thấy tác hại của ma túy như thế nào?",
+                    "question_options": [
+                        "Rất khủng khiếp và cần phải tránh xa",
+                        "Không đáng sợ lắm",
+                        "Chỉ nguy hiểm khi dùng quá liều",
+                        "Có thể thử một lần cho biết"
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Tệ nạn ma túy có quan hệ trực tiếp đến việc lan truyền căn bệnh thế kỷ nào?",
+                    "question_options": [
+                        "Cúm mùa",
+                        "Ung thư",
+                        "HIV/AIDS",
+                        "Tiểu đường"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

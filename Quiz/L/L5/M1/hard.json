@@ -9,8 +9,7 @@
       "Chờ đợi vấn đề tự biến mất"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q6",
@@ -22,8 +21,7 @@
       "Rủ bạn ấy đi chơi game để quên đi mệt mỏi"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q10",
@@ -35,7 +33,6 @@
       "Phủ nhận mọi chuyện"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   }
 ]

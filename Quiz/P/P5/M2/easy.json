@@ -8,9 +8,8 @@
       "Cơ sở Cai nghiện ma túy Bố Lá",
       "Phân khu Bình Triệu"
     ],
-    "answer": 1,
-    "difficulty": "easy",
-    "score": 10
+    "answer": 2,
+    "difficulty": "easy"
   },
   {
     "question_id": "easy_q2",
@@ -21,9 +20,8 @@
       "Số 157 Pasteur, Phường Võ Thị Sáu, Quận 3",
       "Ấp Bố Lá, Xã Phước Hòa, Huyện Phú Giáo, Tỉnh Bình Dương"
     ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "answer": 3,
+    "difficulty": "easy"
   },
   {
     "question_id": "easy_q3",
@@ -34,9 +32,8 @@
       "Bình Phước",
       "Đồng Nai"
     ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "answer": 3,
+    "difficulty": "easy"
   },
   {
     "question_id": "easy_q4",
@@ -47,9 +44,8 @@
       "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
       "Phân khu Bình Triệu"
     ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "answer": 3,
+    "difficulty": "easy"
   },
   {
     "question_id": "easy_q5",
@@ -60,8 +56,7 @@
       "Khả năng tài chính của người bệnh",
       "Chương trình hỗ trợ sau cai nghiện"
     ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "answer": 3,
+    "difficulty": "easy"
   }
 ]

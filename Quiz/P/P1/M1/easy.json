@@ -9,8 +9,7 @@
       "Gây thay đổi chức năng cơ thể"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q2",
@@ -22,8 +21,7 @@
       "Dược chất"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q3",
@@ -35,8 +33,7 @@
       "Sản xuất tiền chất"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q5",
@@ -48,8 +45,7 @@
       "Methamphetamine"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q13",
@@ -59,8 +55,7 @@
       "Sai"
     ],
     "answer": 1,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q14",
@@ -72,8 +67,7 @@
       "Tiền chất ma túy"
     ],
     "answer": 3,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q17",
@@ -83,7 +77,6 @@
       "Sai"
     ],
     "answer": 1,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   }
 ]

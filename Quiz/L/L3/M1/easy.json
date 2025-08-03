@@ -2,7 +2,7 @@
   {
     "question_id": "q1",
     "question_text": "Việt Nam đã tham gia bao nhiêu Công ước của Liên hợp quốc về kiểm soát ma túy?",
-    "options": [
+    "question_options": [
       "1 Công ước",
       "2 Công ước",
       "3 Công ước",
@@ -14,7 +14,7 @@
   {
     "question_id": "q2",
     "question_text": "Công ước năm 1971 của Liên hợp quốc ra đời để kiểm soát các chất hướng thần. Đúng hay Sai?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -24,7 +24,7 @@
   {
     "question_id": "q3",
     "question_text": "Luật Phòng, chống ma túy mới nhất của Việt Nam được thông qua vào năm nào?",
-    "options": [
+    "question_options": [
       "Năm 2000",
       "Năm 2008",
       "Năm 2021",
@@ -36,7 +36,7 @@
   {
     "question_id": "q7",
     "question_text": "Hành vi nào sau đây bị nghiêm cấm theo Luật Phòng, chống ma túy năm 2021?",
-    "options": [
+    "question_options": [
       "Giúp đỡ người cai nghiện",
       "Tố giác tội phạm ma túy",
       "Quảng cáo, tiếp thị chất ma túy",
@@ -48,7 +48,7 @@
   {
     "question_id": "q14",
     "question_text": "Công ước quốc tế về chống buôn bán bất hợp pháp các chất ma túy và chất hướng thần được thông qua vào năm nào?",
-    "options": [
+    "question_options": [
       "1961",
       "1971",
       "1988",

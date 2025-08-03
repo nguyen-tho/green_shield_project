@@ -2,25 +2,25 @@
   {
     "question_id": "q10",
     "question_text": "Ở giai đoạn 5, giai đoạn nguy hiểm nhất của quá trình nghiện, người nghiện có biểu hiện chính là gì?",
-    "options": [
+    "question_options": [
       "Bắt đầu có ý định cai nghiện",
       "Tăng liều lượng sử dụng đột biến",
       "Khủng hoảng tinh thần trầm trọng, hủy hoại thể xác, hành vi thiếu lý trí",
       "Tìm mọi cách để có tiền mua ma túy"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "q11",
     "question_text": "Biểu hiện nào sau đây là đặc trưng của người sử dụng “hàng đá”?",
-    "options": [
+    "question_options": [
       "Mắt lim dim, sụp mí, ngồi một chỗ",
       "Hay ngáp vặt, người lừ đừ, mệt mỏi",
       "Mắt đảo qua đảo lại, đồng tử nở rộng, môi khô, hay liếm môi",
       "Chảy nước mắt, toát mồ hôi, ớn lạnh"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
@@ -33,9 +33,7 @@
       "Vì các loại ma túy như cần sa và amphetamine gây ra hội chứng cai nghiện thể chất quá dữ dội."
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Ma túy làm não bộ ngừng sản xuất morphin nội sinh và gây lệ thuộc cả về tinh thần. Ngay cả khi cơn vật vã thể chất qua đi, sự thèm muốn và nhớ về cảm giác khoái cảm do ma túy mang lại vẫn khiến người nghiện rất khó bỏ, dễ tái nghiện."
+    "difficulty": "hard"
   },
   {
     "question_id": "q2",
@@ -47,9 +45,7 @@
       "Không bị quản lý vì chưa có biểu hiện nghiện rõ ràng."
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Theo Luật phòng, chống ma túy 2021, người sử dụng trái phép chất ma túy (dương tính nhưng chưa bị lệ thuộc) sẽ phải chịu sự quản lý của Nhà nước nhằm phòng ngừa, giúp họ không tiếp tục sử dụng trái phép chất ma túy và tránh vi phạm pháp luật."
+    "difficulty": "hard"
   },
   {
     "question_id": "q3",
@@ -61,8 +57,6 @@
       "Vì ở giai đoạn này, người nghiện hoàn toàn mất đi khả năng cảm nhận niềm vui từ bất kỳ điều gì khác ngoài ma túy."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Giai đoạn 5 là giai đoạn mà người nghiện phải đối mặt với khủng hoảng tinh thần trầm trọng, thể xác bị hủy hoại, và rất dễ dẫn đến những hành vi thiếu lý trí, cực kỳ nguy hiểm, thậm chí có thể dẫn đến tử vong, do sự tàn phá toàn diện của ma túy."
+    "difficulty": "hard"
   }
 ]

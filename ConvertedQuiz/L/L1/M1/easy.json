@@ -1,0 +1,110 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD1",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Theo Luật phòng, chống ma túy năm 2021, ma túy là các chất gây nghiện và chất ....?",
+                    "question_options": [
+                        "Chất gây buồn ngủ",
+                        "Chất hướng thần",
+                        "Chất gây hưng phấn",
+                        "Chất hóa học"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Ma túy chỉ là những chất có nguồn gốc từ tự nhiên như cây thuốc phiện, cần sa.... Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Chất nào dưới đây được chiết xuất từ lá cây coca?",
+                    "question_options": [
+                        "Morphine",
+                        "Heroin",
+                        "Cocaine",
+                        "Cần sa"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Chất hóa học cần thiết để sản xuất ra ma túy được gọi là gì?",
+                    "question_options": [
+                        "Phụ gia",
+                        "Chất xúc tác",
+                        "Tiền chất",
+                        "Dung môi"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Heroin được tạo ra bằng cách lấy Morphine (từ tự nhiên) cho tác dụng với hóa chất. Cách này được gọi là sản xuất ma túy...?",
+                    "question_options": [
+                        "Tự nhiên",
+                        "Bán tổng hợp",
+                        "Tổng hợp toàn phần",
+                        "Tinh chế"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Theo Tổ chức Y tế Thế giới, ma túy là chất khi đưa vào cơ thể sẽ làm thay đổi...?",
+                    "question_options": [
+                        "Màu tóc",
+                        "Chiều cao",
+                        "Chức năng của cơ thể",
+                        "Sở thích ăn uống"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Morphine là một chất ma túy có nguồn gốc từ đâu?",
+                    "question_options": [
+                        "Từ lá cây coca",
+                        "Từ cây cần sa",
+                        "Từ nhựa cây thuốc phiện",
+                        "Được tổng hợp hoàn toàn từ hóa chất"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

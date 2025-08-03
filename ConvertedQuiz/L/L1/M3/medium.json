@@ -1,0 +1,112 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD1",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Ma túy “Nước vui” có thể gây ra tác hại đặc biệt nguy hiểm nào?",
+                    "question_options": [
+                        "Gây buồn ngủ",
+                        "Suy hô hấp, rối loạn nhịp tim và tử vong",
+                        "Khiến tóc bạc nhanh",
+                        "Gây đau dạ dày"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Tác hại nguy hiểm nhất của việc ăn kẹo dẻo, kẹo mút tẩm cần sa là gì?",
+                    "question_options": [
+                        "Gây sâu răng",
+                        "Gây nghiện và phải tăng liều dùng liên tục",
+                        "Gây tăng cân",
+                        "Gây mất ngủ tạm thời"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "GHB (ma túy nước biển) rất khó bị phát hiện khi hòa vào nước vì nó thường ở dạng nào?",
+                    "question_options": [
+                        "Dạng bột màu",
+                        "Dạng lá khô",
+                        "Dạng nước hoặc Siro không màu",
+                        "Dạng khói"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Tác hại đáng sợ nhất khi dùng GHB (ma túy nước biển) quá liều là gì?",
+                    "question_options": [
+                        "Gây hưng phấn",
+                        "Co giật, tử vong nếu không được cấp cứu kịp thời",
+                        "Gây chán ăn",
+                        "Mất ngủ"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Sử dụng “Bóng cười” quá nhiều và liên tục có thể gây ra bệnh gì nguy hiểm?",
+                    "question_options": [
+                        "Đau lưng",
+                        "Lãng tai",
+                        "Đột quỵ",
+                        "Mờ mắt"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Chất gây nghiện chính có trong dung dịch thuốc lá điện tử là gì?",
+                    "question_options": [
+                        "THC",
+                        "Formaldehyde",
+                        "Nicotine",
+                        "Propylen"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Ma túy “Nước biển” hay “Vitamin G” có tên viết tắt là gì?",
+                    "question_options": [
+                        "THC",
+                        "GHB",
+                        "N2O",
+                        "LSD"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

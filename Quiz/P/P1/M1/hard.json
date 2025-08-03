@@ -9,8 +9,7 @@
       "Để phục vụ công tác thống kê tội phạm"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q11",
@@ -22,8 +21,7 @@
       "Cocaine"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q16",
@@ -35,8 +33,7 @@
       "Methamphetamine"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q18",
@@ -48,8 +45,7 @@
       "Bay hơi sau khi phản ứng kết thúc"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q19",
@@ -61,8 +57,7 @@
       "Tùy thuộc vào liều lượng sử dụng."
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q20",
@@ -74,7 +69,6 @@
       "Chất dung môi không thuộc tiền chất"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   }
 ]

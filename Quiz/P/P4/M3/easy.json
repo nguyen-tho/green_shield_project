@@ -2,73 +2,73 @@
   {
     "question_id": "q1",
     "question_text": "Thủ đoạn “gán nợ bằng tài sản” của tội phạm ma túy nhắm vào đối tượng nào?",
-    "options": [
+    "question_options": [
       "Những người có điều kiện kinh tế tốt",
       "Những người đã lỡ dùng thử, bị lệ thuộc và không có tiền trả",
       "Những người có thành tích học tập xuất sắc",
       "Những người làm thêm tại các quán bar"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "q2",
     "question_text": "Việc tội phạm sử dụng các bạn trẻ đang nghiện để dụ dỗ lôi kéo dựa trên nguyên tắc tâm lý nào?",
-    "options": [
+    "question_options": [
       "Lợi dụng sự đồng cảm và dễ tin tưởng của người cùng trang lứa",
       "Lợi dụng sự sợ hãi",
       "Lợi dụng lòng tham",
       "Lợi dụng sự thiếu hiểu biết về pháp luật"
     ],
-    "correct_answer_index": 1,
+    "answer": 1,
     "difficulty": "easy"
   },
   {
     "question_id": "q9",
     "question_text": "Một người nghệ sĩ bị rủ rê sử dụng ma túy để tăng hưng phấn khi làm việc. Đây là một hình thức lôi kéo dựa trên yếu tố tâm lý nào?",
-    "options": [
+    "question_options": [
       "Lợi dụng áp lực và đặc thù nghề nghiệp để bình thường hóa hành vi sai trái",
       "Lợi dụng sự tò mò",
       "Lợi dụng bẫy tình cảm",
       "Lợi dụng sự thiếu hiểu biết"
     ],
-    "correct_answer_index": 1,
+    "answer": 1,
     "difficulty": "easy"
   },
   {
     "question_id": "q11",
     "question_text": "Đâu là thái độ đúng đắn mà mỗi cá nhân cần xác định để phòng tránh ma túy?",
-    "options": [
+    "question_options": [
       "Sống hưởng thụ, trải nghiệm tất cả mọi thứ",
       "Sống, cống hiến cho tương lai bản thân, gia đình và xã hội",
       "Sống khép kín, không giao tiếp với ai",
       "Sống bất cần, không quan tâm đến hậu quả"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "q14",
     "question_text": "Nếu phát hiện các hành vi liên quan đến tội phạm ma túy, chúng ta cần làm gì?",
-    "options": [
+    "question_options": [
       "Tự mình giải quyết",
       "Im lặng để tránh phiền phức",
       "Kịp thời thông báo cho cơ quan chức năng",
       "Quay video và đăng lên mạng xã hội"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "easy"
   },
   {
     "question_id": "q16",
     "question_text": "Kỹ năng quan trọng nhất để phòng tránh ma túy là gì?",
-    "options": [
+    "question_options": [
       "Chạy thật nhanh",
       "Luôn mang theo tiền",
       "Nắm vững kiến thức, tác hại và có bản lĩnh nói không với ma túy",
       "Luôn đi cùng người lớn"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "easy"
   }
 ]

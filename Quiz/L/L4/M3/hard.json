@@ -2,7 +2,7 @@
   {
     "question_id": "q12",
     "question_text": "Đâu là một kỹ năng quan trọng để phòng tránh ma túy?",
-    "options": [
+    "question_options": [
       "Luôn đi chơi một mình",
       "Xây dựng lối sống lành mạnh, an toàn và nói không với ma túy",
       "Cố gắng kết bạn với tất cả mọi người",
@@ -14,7 +14,7 @@
   {
     "question_id": "q13",
     "question_text": "Để xây dựng môi trường học tập lành mạnh, học sinh nên làm gì?",
-    "options": [
+    "question_options": [
       "Chỉ tập trung vào việc học, không tham gia hoạt động nào khác",
       "Không tụ tập với người xấu và tích cực tham gia các hoạt động ngoại khóa của nhà trường",
       "Luôn thể hiện mình là người chịu chơi",
@@ -33,9 +33,7 @@
       "Chỉ nhận nếu người lạ đó là người lớn tuổi."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Tài liệu khuyến cáo 'Cẩn thận với tiền và quà lạ: Không nhận tiền, quà từ người lạ mà không rõ lý do' và 'Cảnh giác với lời dụ dỗ: Hãy cẩn thận với những lời rủ rê, dụ dỗ hoặc ép buộc sử dụng ma túy.' Việc nhận biết và từ chối các đề nghị bất thường là rất quan trọng để tự bảo vệ bản thân."
+    "difficulty": "hard"
   },
   {
     "question_id": "q2",
@@ -47,9 +45,7 @@
       "Hứa với họ là sẽ thử ma túy vào một ngày khác."
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Tài liệu hướng dẫn 'Nói 'KHÔNG' một cách thông minh' bằng cách 'Chúng mình có thể đưa ra lý do, rủ họ chơi trò khác hoặc tìm cách rời đi.' Điều này thể hiện sự từ chối rõ ràng nhưng vẫn giữ an toàn cho bản thân."
+    "difficulty": "hard"
   },
   {
     "question_id": "q3",
@@ -61,8 +57,6 @@
       "Đợi đến khi người bạn đó tự nhận ra vấn đề và tìm sự giúp đỡ."
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 10,
-    "explanation": "Tài liệu khuyến khích 'Hỗ trợ bạn bè: Chúng mình hãy quan tâm đến bạn bè, không xa lánh khi thấy bạn có biểu hiện lạ. Hãy nói chuyện, chia sẻ với bạn và thông báo cho thầy cô, bố mẹ bạn nếu phát hiện bạn có liên quan đến ma túy'."
+    "difficulty": "hard"
   }
 ]

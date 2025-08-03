@@ -2,61 +2,61 @@
   {
     "question_id": "q2",
     "question_text": "Tại sao pháp luật hình sự Việt Nam lại phân biệt các hành vi (sản xuất, mua bán, tàng trữ, vận chuyển) thành các tội phạm riêng biệt?",
-    "options": [
+    "question_options": [
       "Để tăng số lượng điều luật trong Bộ luật Hình sự",
       "Để cá thể hóa trách nhiệm hình sự, xử lý chính xác theo từng hành vi phạm tội cụ thể",
       "Theo yêu cầu của Công ước quốc tế",
       "Để dễ dàng hơn cho công tác điều tra"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   },
   {
     "question_id": "q5",
     "question_text": "Điều 252 BLHS quy định về tội “Chiếm đoạt chất ma túy”. Hành vi nào sau đây KHÔNG được coi là chiếm đoạt?",
-    "options": [
+    "question_options": [
       "Cướp chất ma túy",
       "Trộm cắp chất ma túy",
       "Mua chất ma túy từ người bán",
       "Lừa đảo để có được chất ma túy"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q6",
     "question_text": "Tội danh nào sau đây được quy định tại Điều 253 của BLHS?",
-    "options": [
+    "question_options": [
       "Tội chiếm đoạt tiền chất",
       "Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma tuý",
       "Tội tàng trữ, vận chuyển, mua bán hoặc chiếm đoạt tiền chất dùng vào việc sản xuất trái phép chất ma túy",
       "Tội vi phạm quy định về quản lý tiền chất"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q9",
     "question_text": "Điều 248 và Điều 249 của BLHS lần lượt quy định về hai tội danh nào?",
-    "options": [
+    "question_options": [
       "Sản xuất và Vận chuyển",
       "Tàng trữ và Mua bán",
       "Sản xuất và Tàng trữ",
       "Trồng cây và Sản xuất"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q12",
     "question_text": "Điều nào trong Bộ luật Hình sự quy định về Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma tuý?",
-    "options": [
+    "question_options": [
       "Điều 253",
       "Điều 254",
       "Điều 255",
       "Điều 256"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   }
 ]

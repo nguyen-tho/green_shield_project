@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD4",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Đâu là một kỹ năng quan trọng để phòng tránh ma túy?",
+                    "question_options": [
+                        "Luôn đi chơi một mình",
+                        "Xây dựng lối sống lành mạnh, an toàn và nói không với ma túy",
+                        "Cố gắng kết bạn với tất cả mọi người",
+                        "Không bao giờ nhận quà từ người khác"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Để xây dựng môi trường học tập lành mạnh, học sinh nên làm gì?",
+                    "question_options": [
+                        "Chỉ tập trung vào việc học, không tham gia hoạt động nào khác",
+                        "Không tụ tập với người xấu và tích cực tham gia các hoạt động ngoại khóa của nhà trường",
+                        "Luôn thể hiện mình là người chịu chơi",
+                        "Cạnh tranh không lành mạnh với bạn bè"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Theo tài liệu, khi một người lạ đưa tiền hoặc quà mà không có lý do rõ ràng, điều gì là quan trọng nhất để bảo vệ bản thân khỏi ma túy?",
+                    "question_options": [
+                        "Nhanh chóng nhận lấy vì đó có thể là may mắn.",
+                        "Tìm cách hỏi xem người đó có đang dùng ma túy không.",
+                        "Không nhận tiền hoặc quà từ người lạ mà không rõ lý do và cảnh giác với lời dụ dỗ.",
+                        "Chỉ nhận nếu người lạ đó là người lớn tuổi."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Để xây dựng 'lá chắn xanh' bảo vệ bản thân khỏi ma túy, việc 'nói KHÔNG một cách thông minh' bao gồm những hành động nào?",
+                    "question_options": [
+                        "Chỉ cần nói 'KHÔNG' thật to và chạy đi thật nhanh.",
+                        "Đưa ra lý do, rủ họ chơi trò khác hoặc tìm cách rời đi.",
+                        "Nói 'KHÔNG' nhưng vẫn đứng lại xem họ làm gì.",
+                        "Hứa với họ là sẽ thử ma túy vào một ngày khác."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Theo tài liệu, nếu phát hiện một người bạn có những biểu hiện lạ liên quan đến ma túy, hành động phù hợp nhất mà một người bạn nên làm là gì?",
+                    "question_options": [
+                        "Xa lánh người bạn đó để không bị lây nhiễm.",
+                        "Tự mình tìm cách giúp đỡ mà không cho ai biết.",
+                        "Nói chuyện, chia sẻ với bạn và thông báo cho thầy cô, bố mẹ bạn nếu phát hiện bạn có liên quan đến ma túy.",
+                        "Đợi đến khi người bạn đó tự nhận ra vấn đề và tìm sự giúp đỡ."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

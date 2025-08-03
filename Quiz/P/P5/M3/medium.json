@@ -8,9 +8,8 @@
         "Tổng đài Quốc gia Bảo vệ Trẻ em (Tổng đài 111).",
         "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (Tổng đài 1900.9095)."
       ],
-      "answer": 3,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 4,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q2",
@@ -21,9 +20,8 @@
         "113 là số của Công an Thành phố, còn PC04 là số của Bộ Công an.",
         "113 chỉ hoạt động ban ngày, còn PC04 hoạt động 24/7."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q3",
@@ -34,9 +32,8 @@
         "Thắc mắc về tính bảo mật thông tin cá nhân.",
         "Mô tả chi tiết cảm xúc của bản thân về vụ việc."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q4",
@@ -47,9 +44,8 @@
         "Tổng đài Quốc gia Bảo vệ Trẻ em (Tổng đài 111).",
         "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (Tổng đài 1900.9095)."
       ],
-      "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 3,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q5",
@@ -60,8 +56,7 @@
         "Chỉ về các vấn đề an ninh trật tự.",
         "Các vấn đề pháp lý và luật pháp."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     }
 ]

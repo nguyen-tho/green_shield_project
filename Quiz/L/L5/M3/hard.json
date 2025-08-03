@@ -8,9 +8,8 @@
         "Tổng đài Cảnh sát 113 (Khẩn cấp về an ninh, trật tự)",
         "Số điện thoại trực ban hình sự (069.3187.200)."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q2",
@@ -21,9 +20,8 @@
         "Để họ biết bạn có đi học không.",
         "Để họ có thể gợi ý chỗ ăn ngon."
       ],
-      "answer": 1,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 2,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q3",
@@ -34,9 +32,8 @@
         "Số điện thoại trực ban hình sự",
         "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (1900.9095)"
       ],
-      "answer": 3,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 4,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q4",
@@ -47,9 +44,8 @@
         "Bạn phải trả tiền khi gọi đến tổng đài này",
         "Tổng đài cũng giúp đỡ những vấn đề liên quan đến ma túy ảnh hưởng đến trẻ em."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q5",
@@ -60,8 +56,7 @@
         "Để bạn yên tâm nói ra những chuyện quan trọng mà không sợ bị người khác biết tên",
         "Để số điện thoại của bạn không bị ghi lại."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     }
 ]

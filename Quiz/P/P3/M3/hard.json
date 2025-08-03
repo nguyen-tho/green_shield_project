@@ -2,61 +2,61 @@
   {
     "question_id": "hard_1",
     "question_text": "Dựa trên các văn bản luật được liệt kê, hãy xác định văn bản nào có phạm vi điều chỉnh rộng nhất, bao gồm cả các lĩnh vực an ninh, trật tự xã hội ngoài phòng, chống tệ nạn xã hội liên quan đến ma túy?",
-    "options": [
+    "question_options": [
       "Nghị định số 105/2021/NĐ-CP Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy.",
       "Nghị định số 144/2021/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội; phòng, chống tệ nạn xã hội; phòng cháy, chữa cháy; cứu nạn, cứu hộ; phòng, chống bạo lực gia đình.",
       "Luật xử lý vi phạm hành chính năm 2012, sửa đổi, bổ sung năm 2020.",
       "Nghị định số 116/2021NĐ-CP Quy định chi tiết một số điều của Luật Phòng, chống ma túy, Luật Xử lý vi phạm hành chính về cai nghiện ma tuý và quản lý sau cai nghiện."
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_2",
     "question_text": "Thông tư 18/2021/TT-BYT và Nghị định số 109/2021NĐ-CP đều liên quan đến việc xác định tình trạng nghiện ma túy. Điểm khác biệt cơ bản về vai trò giữa hai văn bản này là gì?",
-    "options": [
+    "question_options": [
       "Thông tư 18/2021/TT-BYT quy định về thủ tục hành chính, còn Nghị định 109/2021NĐ-CP quy định về cơ sở vật chất.",
       "Thông tư 18/2021/TT-BYT do Bộ Y tế ban hành tập trung vào tiêu chuẩn chẩn đoán và quy trình chuyên môn, trong khi Nghị định 109/2021NĐ-CP do Chính phủ ban hành quy định về cơ sở đủ điều kiện và hồ sơ, trình tự, thủ tục xác định.",
       "Thông tư 18/2021/TT-BYT áp dụng cho cá nhân, còn Nghị định 109/2021NĐ-CP áp dụng cho tổ chức.",
       "Thông tư 18/2021/TT-BYT quy định khung pháp lý chung, còn Nghị định 109/2021NĐ-CP quy định chi tiết hơn."
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_3",
     "question_text": "Việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc được quy định và giám sát bởi những văn bản nào, và vai trò của Tòa án nhân dân cũng như Viện kiểm sát nhân dân tối cao trong quá trình này là gì?",
-    "options": [
+    "question_options": [
       "Chủ yếu do Nghị định 116/2021NĐ-CP và Quyết định 140/QĐ-TTg năm 2024 quy định; Tòa án và Viện kiểm sát chỉ tham gia khi có tranh chấp.",
       "Pháp lệnh Trình tự, thủ tục Tòa án nhân dân xem xét, quyết định việc đưa người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc quy định trình tự tại Tòa án; Quyết định 255/QĐ-VKSTC năm 2023 của Viện trưởng Viện kiểm sát nhân dân tối cao quy định quy chế kiểm sát việc xem xét, quyết định này.",
       "Chỉ có Luật Xử lý vi phạm hành chính năm 2012, sửa đổi, bổ sung năm 2020 điều chỉnh toàn bộ quy trình này, các văn bản khác chỉ mang tính hướng dẫn.",
       "Quy trình này do Bộ Y tế và Bộ Công an phối hợp thực hiện, các văn bản của Tòa án và Viện kiểm sát chỉ mang tính tham khảo."
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_4",
     "question_text": "Tại sao Luật Hành chính có nhiều quy định về xử phạt vi phạm hành chính trong lĩnh vực ma túy, mà chưa đến mức phải truy cứu trách nhiệm hình sự?",
-    "options": [
+    "question_options": [
       "Để tăng cường quyền lực cho các cơ quan hành chính trong việc xử lý các vụ việc ma túy.",
       "Nhằm đơn giản hóa quy trình xử lý và giảm gánh nặng cho hệ thống tư pháp hình sự.",
       "Để ngăn chặn các hành vi liên quan đến ma túy gây mất trật tự, ổn định xã hội mà chưa đủ yếu tố cấu thành tội phạm hình sự.",
       "Để thay thế hoàn toàn việc truy cứu trách nhiệm hình sự đối với các vi phạm nhỏ về ma túy."
     ],
-    "correct_answer_index": 2,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_5",
     "question_text": "Quyết định 140/QĐ-TTg năm 2024 về Chương trình phòng, chống ma túy trong thanh, thiếu niên đến năm 2030 do Thủ tướng Chính phủ ban hành, và các Nghị định khác đều hướng đến mục tiêu phòng, chống ma túy. Điểm độc đáo của Quyết định 140/QĐ-TTg so với các Nghị định được liệt kê là gì?",
-    "options": [
+    "question_options": [
       "Quyết định 140/QĐ-TTg tập trung vào việc xử phạt vi phạm hành chính đối với thanh, thiếu niên liên quan đến ma túy một cách nghiêm khắc hơn.",
       "Quyết định 140/QĐ-TTg là một chương trình hành động chiến lược dài hạn, chuyên biệt cho đối tượng thanh, thiếu niên, thể hiện sự ưu tiên và định hướng rõ ràng cho công tác phòng ngừa.",
       "Quyết định 140/QĐ-TTg có thẩm quyền cao hơn và có thể bãi bỏ các Nghị định khác nếu có xung đột.",
       "Quyết định 140/QĐ-TTg chỉ tập trung vào việc cai nghiện bắt buộc cho thanh, thiếu niên, còn các Nghị định khác tập trung vào cai nghiện tự nguyện."
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   }
 ]

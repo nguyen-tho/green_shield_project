@@ -9,8 +9,7 @@
       "Không phụ thuộc môi trường"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q11",
@@ -22,8 +21,7 @@
       "Vàng nhạt"
     ],
     "answer": 1,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q12",
@@ -35,8 +33,7 @@
       "Chen-Kao"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q13",
@@ -48,8 +45,7 @@
       "Màu tím"
     ],
     "answer": 4,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q14",
@@ -61,7 +57,6 @@
       "Đốt mẫu để nhận biết mùi"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   }
 ]

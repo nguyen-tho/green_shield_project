@@ -9,8 +9,7 @@
       "Sự hỗ trợ từ bạn bè trên mạng"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q2",
@@ -22,8 +21,7 @@
       "Dành cho toàn bộ cộng đồng"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q6",
@@ -35,7 +33,6 @@
       "Họ cần thêm thời gian để tự suy nghĩ"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   }
 ]

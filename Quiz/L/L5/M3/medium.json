@@ -8,9 +8,8 @@
         "Tổng đài Quốc gia Bảo vệ Trẻ em 111.",
         "Tổng đài Tư vấn Sức khỏe Việt 1900.9095."
       ],
-      "answer": 3,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 4,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q2",
@@ -21,9 +20,8 @@
         "113 là số của Thành phố, còn PC04 là của cả nước.",
         "113 chỉ làm việc ban ngày, còn PC04 làm việc suốt đêm."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q3",
@@ -34,9 +32,8 @@
         "Để bạn biết tên của họ.",
         "Để bạn có thể kể thêm nhiều câu chuyện."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q4",
@@ -47,9 +44,8 @@
         "Tổng đài Quốc gia Bảo vệ Trẻ em 111",
         "Tổng đài Tư vấn Sức khỏe Việt 1900.9095"
       ],
-      "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 3,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q5",
@@ -60,8 +56,7 @@
         "Chỉ về cách chơi game.",
         "Cách sửa xe đạp."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     }
 ]

@@ -2,7 +2,7 @@
   {
     "question_id": "q1",
     "question_text": "Thủ đoạn “khích tướng” hay cho dùng thử ma túy miễn phí nhằm mục đích gì?",
-    "options": [
+    "question_options": [
       "Để thể hiện sự hào phóng",
       "Để kích thích tính tò mò, hiếu kỳ, tự ái của các bạn trẻ",
       "Để giúp các bạn học tốt hơn",
@@ -14,7 +14,7 @@
   {
     "question_id": "q2",
     "question_text": "Các đối tượng xấu thường đến khu vực trường học để quan sát và tìm cách lôi kéo những bạn trẻ chơi bời, con nhà giàu.",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -24,7 +24,7 @@
   {
     "question_id": "q4",
     "question_text": "Bóng cười và cỏ Mỹ có phải là ma túy không?",
-    "options": [
+    "question_options": [
       "Không, chỉ là chất kích thích nhẹ",
       "Có, chúng đều là những chất bị cấm và gây nghiện",
       "Chỉ cỏ Mỹ là ma túy",
@@ -36,7 +36,7 @@
   {
     "question_id": "q5",
     "question_text": "Một số người dụ dỗ học sinh dùng thuốc lắc và nói rằng nó sẽ giúp học tốt, tỉnh táo để ôn thi. Điều này là sự thật?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -46,7 +46,7 @@
   {
     "question_id": "q8",
     "question_text": "Nếu bạn đang thuê trọ và bạn cùng phòng mang ma túy về sử dụng, bạn không liên quan nên không cần phải làm gì cả.",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -56,7 +56,7 @@
   {
     "question_id": "q10",
     "question_text": "Trong các buổi tiệc, “kẹo” hay “nước vui” thực chất là tên lóng của loại ma túy nào?",
-    "options": [
+    "question_options": [
       "Heroin",
       "Ma túy tổng hợp như thuốc lắc",
       "Thuốc phiện",
@@ -68,7 +68,7 @@
   {
     "question_id": "q15",
     "question_text": "Gia đình và nhà trường đóng vai trò rất quan trọng trong việc giúp thanh thiếu niên phòng tránh ma túy.",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -78,7 +78,7 @@
   {
     "question_id": "q16",
     "question_text": "Nếu phát hiện các hành vi liên quan đến tội phạm ma túy, chúng ta cần làm gì?",
-    "options": [
+    "question_options": [
       "Tự mình giải quyết",
       "Im lặng để tránh phiền phức",
       "Kịp thời thông báo cho cơ quan chức năng",
@@ -90,7 +90,7 @@
   {
     "question_id": "q17",
     "question_text": "Kỹ năng quan trọng nhất để phòng tránh ma túy là gì?",
-    "options": [
+    "question_options": [
       "Chạy thật nhanh",
       "Luôn mang theo tiền",
       "Nắm vững kiến thức, tác hại và có bản lĩnh nói không với ma túy",

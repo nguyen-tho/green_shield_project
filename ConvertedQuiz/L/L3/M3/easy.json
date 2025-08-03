@@ -1,0 +1,82 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD3",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Pháp luật hành chính dùng để xử lý các hành vi liên quan đến ma túy ở mức độ nào?",
+                    "question_options": [
+                        "Chỉ xử lý các tội phạm rất nghiêm trọng",
+                        "Xử lý các hành vi chưa đến mức phải truy cứu trách nhiệm hình sự",
+                        "Chỉ xử lý các hành vi liên quan đến buôn bán",
+                        "Không xử lý các hành vi liên quan đến ma túy"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Việc xử phạt các hành vi vi phạm về ma túy chỉ được quy định trong Bộ luật Hình sự. Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Nghị định nào quy định về việc xử phạt vi phạm hành chính trong lĩnh vực an ninh, trật tự, an toàn xã hội?",
+                    "question_options": [
+                        "Nghị định 105/2021/NĐ-CP",
+                        "Nghị định 144/2021/NĐ-CP",
+                        "Nghị định 109/2021/NĐ-CP",
+                        "Nghị định 116/2021/NĐ-CP"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Luật Xử lý vi phạm hành chính dùng để làm gì?",
+                    "question_options": [
+                        "Chỉ để phạt tiền",
+                        "Để quy định các hình thức xử phạt và biện pháp xử lý các hành vi vi phạm pháp luật chưa phải là tội phạm",
+                        "Để bỏ tù người vi phạm",
+                        "Chỉ áp dụng cho người lớn"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Việc tìm hiểu về các văn bản pháp luật này giúp chúng ta điều gì?",
+                    "question_options": [
+                        "Trở thành luật sư",
+                        "Biết rằng mọi hành vi vi phạm liên quan đến ma túy đều có quy định để xử lý, từ đó nâng cao ý thức chấp hành",
+                        "Thấy pháp luật thật rắc rối",
+                        "Không có tác dụng gì"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

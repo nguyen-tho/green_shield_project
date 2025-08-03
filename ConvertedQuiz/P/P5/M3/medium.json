@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS5",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Để tìm hiểu về tư vấn và hỗ trợ cai nghiện ma túy, bạn nên gọi đến số điện thoại nào?",
+                    "question_options": [
+                        "Tổng đài Cảnh sát 113.",
+                        "Số điện thoại trực ban hình sự Công an TP. Hồ Chí Minh: 069.3187.200.",
+                        "Tổng đài Quốc gia Bảo vệ Trẻ em (Tổng đài 111).",
+                        "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (Tổng đài 1900.9095)."
+                    ],
+                    "answer": 3,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Điểm khác biệt chính giữa Tổng đài Cảnh sát 113 và Phòng Cảnh sát điều tra tội phạm về ma túy (PC04) - Công an Thành phố Hồ Chí Minh là gì?",
+                    "question_options": [
+                        "113 chỉ xử lý tội phạm hình sự, còn PC04 xử lý tất cả các loại tội phạm.",
+                        "113 là tổng đài chung tiếp nhận thông tin khẩn cấp về an ninh, trật tự, trong khi PC04 là đơn vị chuyên trách điều tra tội phạm về ma túy.",
+                        "113 là số của Công an Thành phố, còn PC04 là số của Bộ Công an.",
+                        "113 chỉ hoạt động ban ngày, còn PC04 hoạt động 24/7."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Trong trường hợp khẩn cấp liên quan đến an ninh trật tự, việc đầu tiên bạn nên làm khi gọi đến đường dây nóng là gì?",
+                    "question_options": [
+                        "Lập tức yêu cầu cán bộ trực tổng đài can thiệp ngay lập tức.",
+                        "Giữ bình tĩnh và cung cấp thông tin rõ ràng, chính xác về tình huống.",
+                        "Thắc mắc về tính bảo mật thông tin cá nhân.",
+                        "Mô tả chi tiết cảm xúc của bản thân về vụ việc."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Nếu bạn muốn báo cáo một trường hợp trẻ em có nguy cơ bị ảnh hưởng bởi các vấn đề tiêu cực trong xã hội liên quan đến ma túy, bạn nên liên hệ tổng đài nào để được tư vấn và can thiệp?",
+                    "question_options": [
+                        "Tổng đài Cảnh sát 113.",
+                        "Số điện thoại của Phòng Cảnh sát điều tra tội phạm về ma túy (PC04).",
+                        "Tổng đài Quốc gia Bảo vệ Trẻ em (Tổng đài 111).",
+                        "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (Tổng đài 1900.9095)."
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Tổng đài Tư vấn Sức khỏe Việt của Bộ Y tế cung cấp thông tin và tư vấn về những vấn đề gì, ngoài cai nghiện ma túy?",
+                    "question_options": [
+                        "Chỉ về các vấn đề liên quan đến ma túy.",
+                        "Nhiều vấn đề sức khỏe khác nhau.",
+                        "Chỉ về các vấn đề an ninh trật tự.",
+                        "Các vấn đề pháp lý và luật pháp."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

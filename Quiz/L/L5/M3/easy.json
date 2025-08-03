@@ -8,9 +8,8 @@
         "1900.9095",
         "069.3187.200"
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q2",
@@ -21,9 +20,8 @@
         "111",
         "028 39231168"
       ],
-      "answer": 2,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 3,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q3",
@@ -34,9 +32,8 @@
         "Hỏi xem họ có đang làm gì không.",
         "Kể một câu chuyện vui."
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q4",
@@ -47,9 +44,8 @@
         "16 giờ",
         "24 giờ"
       ],
-      "answer": 3,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 4,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q5",
@@ -60,8 +56,7 @@
         "Giữ bí mật.",
         "Viết lên bảng thông báo."
       ],
-      "answer": 2,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 3,
+      "difficulty": "easy"
     }
 ]

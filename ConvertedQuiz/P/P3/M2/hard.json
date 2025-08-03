@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS3",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Tội phạm về ma túy được Nhà nước ta xác định là một loại tội phạm nghiêm trọng. Việc này thể hiện điều gì?",
+                    "question_options": [
+                        "Tính nhân đạo của pháp luật",
+                        "Mức độ nguy hiểm cao cho xã hội của loại tội phạm này và sự quyết tâm đấu tranh của Nhà nước",
+                        "Sự tuân thủ tuyệt đối các Công ước quốc tế",
+                        "Sự phức tạp trong công tác điều tra"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Một người bị bắt vì hành vi vận chuyển trái phép 500g Heroin. Cùng lúc đó, trong nhà người này phát hiện thêm 200g Heroin đang cất giấu. Người này có thể bị truy cứu trách nhiệm hình sự về những tội danh nào?",
+                    "question_options": [
+                        "Chỉ Tội vận chuyển trái phép chất ma túy",
+                        "Chỉ Tội tàng trữ trái phép chất ma túy",
+                        "Cả Tội vận chuyển và Tội tàng trữ trái phép chất ma túy",
+                        "Tội mua bán trái phép chất ma túy"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Theo Bộ luật Hình sự 2015 (sửa đổi 2017) và các tác hại được nêu, tội 'Tổ chức sử dụng trái phép chất ma túy' (Điều 255) được đánh giá là đặc biệt nghiêm trọng. Ngoài việc gây mất an ninh trật tự, tội danh này còn ảnh hưởng nghiêm trọng đến nền kinh tế xã hội thông qua khía cạnh nào?",
+                    "question_options": [
+                        "Tạo ra việc làm mới trong ngành công nghiệp cai nghiện.",
+                        "Thúc đẩy đầu tư nước ngoài do nhu cầu phòng chống ma túy tăng cao.",
+                        "Làm suy giảm nguồn lực và chất lượng lao động, đồng thời khiến xã hội phải chi trả lớn cho công tác phòng chống, cai nghiện.",
+                        "Giúp tăng ngân sách nhà nước thông qua việc thu thuế từ các hoạt động liên quan đến ma túy."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Trong Bộ luật Hình sự 2015 (sửa đổi 2017), Điều 257 và Điều 258 đều liên quan đến việc khiến người khác sử dụng ma túy. Điểm khác biệt cốt lõi nào làm cho 'Tội cưỡng bức người khác sử dụng trái phép chất ma túy' (Điều 257) trở nên nghiêm trọng hơn so với 'Tội lôi kéo người khác sử dụng trái phép chất ma túy' (Điều 258)?",
+                    "question_options": [
+                        "Điều 257 áp dụng cho người chưa từng sử dụng, còn Điều 258 áp dụng cho người đã từng sử dụng.",
+                        "Điều 257 tập trung vào hành vi tổ chức một nhóm người sử dụng, còn Điều 258 chỉ liên quan đến một cá nhân.",
+                        "Điều 257 liên quan đến việc ép buộc bằng vũ lực hoặc đe dọa, trong khi Điều 258 liên quan đến dụ dỗ, kích động.",
+                        "Điều 257 chỉ áp dụng cho chất ma túy nặng, còn Điều 258 áp dụng cho mọi loại ma túy."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Một cá nhân bị phát hiện cất giấu một số lượng lớn bật lửa ga và ống hút tự chế, những dụng cụ này được xác định rõ là dùng để sản xuất hoặc sử dụng trái phép chất ma túy. Theo Bộ luật Hình sự 2015 (sửa đổi 2017), cá nhân này có thể bị truy cứu trách nhiệm hình sự về tội danh nào?",
+                    "question_options": [
+                        "Tội tàng trữ trái phép chất ma túy (Điều 249).",
+                        "Tội sản xuất trái phép chất ma túy (Điều 248).",
+                        "Tội sản xuất, tàng trữ, vận chuyển hoặc mua bán phương tiện, dụng cụ dùng vào việc sản xuất hoặc sử dụng trái phép chất ma túy (Điều 254).",
+                        "Tội chiếm đoạt chất ma túy (Điều 252)."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

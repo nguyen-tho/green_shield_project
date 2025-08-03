@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD4",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Theo kết quả khảo sát, biểu hiện nào sau đây xuất hiện ở 100% người nghiện khi lên cơn?",
+                    "question_options": [
+                        "Đau các cơ",
+                        "Sút cân",
+                        "Ngáp và chảy nước mắt",
+                        "Trầm cảm"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Việc nhận biết người nghiện ở giai đoạn nào là khó nhất?",
+                    "question_options": [
+                        "Khi mới bắt đầu sử dụng",
+                        "Khi đã nghiện nặng",
+                        "Khi đang lên cơn",
+                        "Khi đang cai nghiện"
+                    ],
+                    "answer": 0,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Theo tài liệu, điểm khác biệt quan trọng nhất giữa 'người sử dụng trái phép ma túy' và 'người nghiện ma túy' là gì?",
+                    "question_options": [
+                        "Người sử dụng trái phép ma túy chỉ dùng một lần duy nhất, còn người nghiện thì dùng nhiều lần.",
+                        "Người sử dụng trái phép ma túy chưa bị lệ thuộc hoàn toàn, còn người nghiện đã bị lệ thuộc cả về tâm lý và thể chất.",
+                        "Người sử dụng trái phép ma túy chỉ dùng ma túy để chữa bệnh, còn người nghiện thì không.",
+                        "Người sử dụng trái phép ma túy luôn bị cảnh sát quản lý, còn người nghiện thì không."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Khi một người nghiện ma túy bị 'cơn vật vã' (hội chứng cai nghiện), điều gì đang thực sự xảy ra với não bộ của họ theo cơ chế gây nghiện được giải thích trong tài liệu?",
+                    "question_options": [
+                        "Não bộ đang tự sản xuất quá nhiều 'morphin nội sinh' khiến cơ thể khó chịu.",
+                        "Não bộ đang cố gắng chống lại ma túy bằng cách tạo ra các tín hiệu đau đớn.",
+                        "Não bộ đã ngừng sản xuất 'morphin nội sinh' và đang thiếu hụt trầm trọng chất này do lệ thuộc vào ma túy từ bên ngoài.",
+                        "Não bộ bị ma túy làm cho hoạt động quá mức, gây ra các phản ứng thể chất mạnh."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Trong số các dấu hiệu sau, dấu hiệu nào có thể giúp nhận biết sớm một người có khả năng đang sử dụng 'hàng đá' (Methamphetamine)?",
+                    "question_options": [
+                        "Mắt đỏ, sụp mí, hay ngáp vặt và gãi liên tục.",
+                        "Hưng phấn thái quá, thích nhạc lớn, lắc lư quay cuồng, đồng tử giãn to.",
+                        "Thức trắng đêm, có ảo giác, nói lảm nhảm, mắt thâm quầng, môi khô.",
+                        "Đổ mồ hôi nhiều, ớn lạnh, đau nhức cơ thể, buồn nôn, tiêu chảy."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

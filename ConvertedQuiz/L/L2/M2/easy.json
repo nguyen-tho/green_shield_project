@@ -1,0 +1,66 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD2",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Phụ nữ có thai nghiện ma túy không ảnh hưởng gì đến em bé trong bụng. Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Tổ chức Y tế Thế giới (WHO) xếp nghiện ma túy là một loại bệnh tâm thần đặc biệt.",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 0,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Tệ nạn nghiện ma túy là nguyên nhân làm phát sinh ra các tệ nạn xã hội nào khác?",
+                    "question_options": [
+                        "Ô nhiễm môi trường",
+                        "Tắc đường",
+                        "Cờ bạc, mại dâm",
+                        "An toàn thực phẩm"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Người nghiện ma túy thường ở độ tuổi nào, gây khó khăn cho việc đào tạo lao động thay thế?",
+                    "question_options": [
+                        "Độ tuổi nghỉ hưu",
+                        "Độ tuổi lao động",
+                        "Độ tuổi thiếu nhi",
+                        "Mọi độ tuổi như nhau"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

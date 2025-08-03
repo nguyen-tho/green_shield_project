@@ -8,9 +8,8 @@
         "Tổng đài Cảnh sát 113.",
         "Số điện thoại trực ban hình sự Công an TP. Hồ Chí Minh."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q2",
@@ -21,9 +20,8 @@
         "Để cuộc gọi được ghi âm đầy đủ.",
         "Để kéo dài cuộc gọi, chờ đợi sự giúp đỡ đến nơi."
       ],
-      "answer": 1,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 2,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q3",
@@ -34,9 +32,8 @@
         "Số điện thoại trực ban hình sự Công an TP. Hồ Chí Minh.",
         "Tổng đài Tư vấn và Hỗ trợ điều trị nghiện ma túy của Bộ Y tế (Tổng đài 1900.9095)."
       ],
-      "answer": 3,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 4,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q4",
@@ -47,9 +44,8 @@
         "Có tính phí cuộc gọi để duy trì hoạt động.",
         "Cũng can thiệp đối với những vấn đề liên quan đến ma túy ảnh hưởng đến trẻ em."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     },
     {
       "question_id": "hard_q5",
@@ -60,8 +56,7 @@
         "Giúp người dân yên tâm cung cấp thông tin về các vụ việc nhạy cảm mà không lo bị lộ danh tính.",
         "Hạn chế số lượng cuộc gọi không cần thiết đến đường dây nóng."
       ],
-      "answer": 2,
-      "difficulty": "hard",
-      "score": 30
+      "answer": 3,
+      "difficulty": "hard"
     }
 ]

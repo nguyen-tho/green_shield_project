@@ -1,0 +1,98 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD4",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Khi một người nghiện luôn nhớ đến cảm giác phê pha, không có thì thấy nhạt nhẽo, thèm muốn... đó là biểu hiện của sự lệ thuộc về mặt nào?",
+                    "question_options": [
+                        "Lệ thuộc về thể chất",
+                        "Lệ thuộc về tinh thần (tâm lý)",
+                        "Lệ thuộc về tài chính",
+                        "Lệ thuộc về bạn bè"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Khi người nghiện phải liên tục tăng liều mới “phê” như lần trước, đó là biểu hiện của sự lệ thuộc về mặt nào?",
+                    "question_options": [
+                        "Lệ thuộc về thể chất",
+                        "Lệ thuộc về tinh thần",
+                        "Lệ thuộc về thói quen",
+                        "Lệ thuộc về cảm xúc"
+                    ],
+                    "answer": 0,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "“Hội chứng cai nghiện” là tên gọi khác của tình trạng nào?",
+                    "question_options": [
+                        "Bị nhiễm độc ma túy",
+                        "Bị lệ thuộc về mặt thể chất",
+                        "Bị rối loạn sản xuất morphin",
+                        "Bị ảo giác"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Ở giai đoạn nào của quá trình nghiện, người nghiện rơi vào tình trạng “cai không được - lại cai - lại cai không được”?",
+                    "question_options": [
+                        "Giai đoạn 1",
+                        "Giai đoạn 2",
+                        "Giai đoạn 3",
+                        "Giai đoạn 4"
+                    ],
+                    "answer": 3,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Một bạn học sinh bỗng dưng học sút đi, hay trốn học, ngồi trong lớp thì ngủ gật. Đây có thể là biểu hiện đáng ngờ của việc gì?",
+                    "question_options": [
+                        "Bạn ấy bị áp lực học tập",
+                        "Bạn ấy có chuyện buồn gia đình",
+                        "Có thể là biểu hiện của việc sử dụng ma túy",
+                        "Cả 3 đều có thể, cần quan tâm tìm hiểu thêm"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Cảm giác có sâu bọ bò dưới da, cào rách mặt mũi là biểu hiện đặc trưng khi lên cơn của người dùng loại ma túy nào?",
+                    "question_options": [
+                        "Thuốc lắc",
+                        "Heroin",
+                        "Hàng đá",
+                        "Cần sa"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

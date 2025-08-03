@@ -1,0 +1,112 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS1",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Hiệu ứng “lũy tiến” được đề cập trong tác hại của bánh kẹo tẩm cần sa có nghĩa là gì?",
+                    "question_options": [
+                        "Người dùng sẽ luôn có cảm giác “phê” như lần đầu.",
+                        "Người dùng buộc phải tăng liều lượng sử dụng ngày càng nhiều hơn để đạt hiệu quả.",
+                        "Tác hại sẽ giảm dần theo thời gian.",
+                        "Chỉ gây nghiện khi dùng cùng các chất khác."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Chất hóa học nào có trong một số loại thuốc lá điện tử là chất gây ung thư và dị tật bẩm sinh, đồng thời cũng là hoạt chất chính trong cần sa?",
+                    "question_options": [
+                        "Propylen",
+                        "Formaldehyde",
+                        "Tetrahydrocannabinol (THC)",
+                        "Diacetyl"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Nguy cơ ngộ độc cấp tính nicotine từ thuốc lá điện tử tăng cao là do đâu?",
+                    "question_options": [
+                        "Do thiết bị dễ phát nổ.",
+                        "Do các ống dung dịch thường không có định lượng nồng độ nicotine rõ ràng, khiến người dùng dễ tăng liều.",
+                        "Do hương liệu gây phản ứng phụ.",
+                        "Do pin của thiết bị quá nóng."
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Tác hại đáng sợ nhất khi dùng GHB (ma túy nước biển) quá liều là gì?",
+                    "question_options": [
+                        "Gây hưng phấn",
+                        "Co giật, tử vong nếu không được cấp cứu kịp thời",
+                        "Gây chán ăn",
+                        "Mất ngủ"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Theo Nghị định 113/2017/NĐ-CP, khí N2O (Dinitơ monoxit) thuộc danh mục nào?",
+                    "question_options": [
+                        "Hóa chất được kinh doanh tự do",
+                        "Hóa chất cấm sản xuất, kinh doanh",
+                        "Hóa chất hạn chế sản xuất, kinh doanh trong lĩnh vực công nghiệp",
+                        "Hóa chất cần được khai báo"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Tác động trực tiếp của khí N2O lên não bộ là gì?",
+                    "question_options": [
+                        "Kích thích vùng trí nhớ",
+                        "Kích thích vùng vận động",
+                        "Tác động đến điểm gây cười và ức chế não bộ ở liều cao",
+                        "Ức chế vùng cảm xúc"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Chất gây nghiện chính có trong Shisha, tương tự thuốc lá, là gì?",
+                    "question_options": [
+                        "THC",
+                        "N2O",
+                        "Nicotine",
+                        "Formaldehyde"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

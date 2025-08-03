@@ -9,8 +9,7 @@
       "Chỉ gây nghiện khi dùng cùng các chất khác."
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q6",
@@ -22,8 +21,7 @@
       "Diacetyl"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q8",
@@ -35,8 +33,7 @@
       "Do pin của thiết bị quá nóng."
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q10",
@@ -48,8 +45,7 @@
       "Mất ngủ"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q13",
@@ -61,8 +57,7 @@
       "Hóa chất cần được khai báo"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q14",
@@ -74,8 +69,7 @@
       "Ức chế vùng cảm xúc"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q16",
@@ -87,7 +81,6 @@
       "Formaldehyde"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   }
 ]

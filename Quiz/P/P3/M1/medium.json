@@ -2,85 +2,85 @@
   {
     "question_id": "q3",
     "question_text": "Đâu là lý do chính dẫn đến sự ra đời của Công ước về các chất hướng thần năm 1971?",
-    "options": [
+    "question_options": [
       "Do tình hình buôn bán chất hướng thần gia tăng đột biến",
       "Do vấn đề lạm dụng chất hướng thần (vốn được dùng trong y tế) trở thành vấn đề bức xúc toàn cầu",
       "Để thay thế cho Công ước năm 1961 đã lỗi thời",
       "Theo yêu cầu của các công ty dược phẩm"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   },
   {
     "question_id": "q5",
     "question_text": "So với Luật năm 2000, Luật 2021 đã bỏ chương nào sau đây?",
-    "options": [
+    "question_options": [
       "Chương về Hợp tác quốc tế",
       "Chương quy định về khen thưởng và xử lý vi phạm",
       "Chương về Trách nhiệm phòng, chống ma túy",
       "Chương về Quản lý nhà nước"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   },
   {
     "question_id": "q6",
     "question_text": "Việc bổ sung khái niệm “Thuốc thú y có chứa chất ma túy” vào Luật 2021 nhằm mục đích chính là gì?",
-    "options": [
+    "question_options": [
       "Để quản lý chặt chẽ hơn ngành thú y",
       "Để ngăn chặn hành vi lợi dụng việc sử dụng hợp pháp trong thú y vào mục đích bất hợp pháp",
       "Để tăng thuế đối với các sản phẩm thuốc thú y",
       "Để bảo vệ sức khỏe của vật nuôi"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   },
   {
     "question_id": "q8",
     "question_text": "Luật 2021 quy định rõ các cơ quan chuyên trách phòng, chống tội phạm về ma túy bao gồm Công an, Biên phòng, Cảnh sát biển và lực lượng nào nữa?",
-    "options": [
+    "question_options": [
       "Kiểm lâm",
       "Quản lý thị trường",
       "Hải quan",
       "Thanh tra Giao thông"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q12",
     "question_text": "Quy định về “Quản lý người sử dụng trái phép chất ma túy” là một điểm mới của Luật 2021, nằm ở chương nào?",
-    "options": [
+    "question_options": [
       "Chương II",
       "Chương III",
       "Chương IV",
       "Chương V"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q13",
     "question_text": "Trách nhiệm của cơ sở giáo dục trong phòng, chống ma túy được quy định tại Điều mấy của Luật 2021?",
-    "options": [
+    "question_options": [
       "Điều 6",
       "Điều 7",
       "Điều 8",
       "Điều 9"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   },
   {
     "question_id": "q15",
     "question_text": "Theo Luật 2021, mục đích chính của việc phân biệt người sử dụng trái phép chất ma túy với người nghiện là gì?",
-    "options": [
+    "question_options": [
       "Để xác định mức phạt tiền chính xác hơn",
       "Để xác định và áp dụng các biện pháp quản lý, hỗ trợ phù hợp với từng đối tượng",
       "Để phục vụ công tác thống kê",
       "Để quyết định có truy cứu trách nhiệm hình sự hay không"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   }
 ]

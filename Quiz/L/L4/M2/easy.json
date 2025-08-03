@@ -2,7 +2,7 @@
   {
     "question_id": "q1",
     "question_text": "Nguyên nhân nào sau đây khiến một người trẻ muốn thử ma túy dù không hiểu rõ về tác hại của nó?",
-    "options": [
+    "question_options": [
       "Vì muốn học giỏi hơn",
       "Do tò mò, muốn biết cảm giác sử dụng ma túy là gì",
       "Vì muốn có sức khỏe tốt",
@@ -14,7 +14,7 @@
   {
     "question_id": "q2",
     "question_text": "Việc bị bạn bè rủ rê, lôi kéo sử dụng ma túy thường xảy ra ở những đâu?",
-    "options": [
+    "question_options": [
       "Ở thư viện, lớp học thêm",
       "Ở nhà",
       "Trong các buổi tiệc sinh nhật, quán bar, vũ trường, karaoke",
@@ -26,7 +26,7 @@
   {
     "question_id": "q3",
     "question_text": "Việc muốn thể hiện đẳng cấp với bạn bè, đặc biệt ở các bạn có gia đình khá giả, cũng là một nguyên nhân dẫn đến sử dụng ma túy. Đúng hay Sai?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -36,7 +36,7 @@
   {
     "question_id": "q4",
     "question_text": "Môi trường nào có ảnh hưởng rất lớn đến sự hình thành tâm lý và nhân cách của một đứa trẻ?",
-    "options": [
+    "question_options": [
       "Môi trường mạng xã hội",
       "Môi trường trường học",
       "Môi trường gia đình",
@@ -48,7 +48,7 @@
   {
     "question_id": "q15",
     "question_text": "Cách tốt nhất để phòng tránh việc bị lôi kéo vào ma túy do thiếu hiểu biết là gì?",
-    "options": [
+    "question_options": [
       "Ở nhà, không giao tiếp với ai",
       "Chủ động tìm hiểu, trang bị kiến thức về tác hại của ma túy",
       "Chỉ chơi với những người giống mình",

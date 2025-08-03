@@ -9,8 +9,7 @@
       "LSD"
     ],
     "answer": 4,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q12",
@@ -22,8 +21,7 @@
       "Ấn Độ"
     ],
     "answer": 4,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q16",
@@ -35,8 +33,7 @@
       "Châu Âu"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q18",
@@ -48,8 +45,7 @@
       "Một loại thuốc lá"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q19",
@@ -61,8 +57,7 @@
       "Hydrochloric acid"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q20",
@@ -74,7 +69,6 @@
       "Acetic anhydride"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   }
 ]

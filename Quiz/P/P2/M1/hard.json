@@ -2,61 +2,61 @@
   {
     "question_id": "hard_1",
     "question_text": "Tác động của ma túy lên hệ hô hấp diễn ra theo cơ chế nào?",
-    "options": [
+    "question_options": [
       "Luôn gây ức chế hô hấp ngay từ đầu",
       "Kích thích gây tăng tần số thở ngắn hạn, sau đó gây ức chế hô hấp",
       "Chỉ gây viêm phổi, không ảnh hưởng đến nhịp thở",
       "Làm giãn phế quản, giúp thở dễ hơn"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_2",
     "question_text": "Tác động nào của ma túy lên hệ thần kinh có thể dẫn đến co giật, xuất huyết dưới nhện, hoặc đột quỵ?",
-    "options": [
+    "question_options": [
       "Tăng cường trí nhớ",
       "Kích thích hưng phấn và cải thiện khả năng tập trung",
       "Kích thích hưng phấn và gây các biến chứng mạch máu não",
       "Tăng chỉ số IQ"
     ],
-    "correct_answer_index": 2,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_3",
     "question_text": "Quan niệm “dùng ma túy tăng khả năng tình dục” là một lầm tưởng. Hậu quả thực tế trên hệ sinh dục của nữ giới nghiện ma túy là gì?",
-    "options": [
+    "question_options": [
       "Tăng khả năng thụ thai",
       "Chu kỳ kinh nguyệt đều đặn hơn",
       "Rối loạn chu kỳ kinh nguyệt, rong kinh, vô sinh",
       "Không có hậu quả đáng kể"
     ],
-    "correct_answer_index": 2,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_4",
     "question_text": "Cơ chế chính gây ra cơn đau thắt ngực và nhồi máu cơ tim ở người sử dụng ma túy là gì?",
-    "options": [
+    "question_options": [
       "Tăng nồng độ cholesterol trong máu",
       "Kích thích làm tăng nhịp tim và gây co thắt mạch vành",
       "Làm loãng máu, gây xuất huyết",
       "Gây hạ huyết áp đột ngột"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_5",
     "question_text": "Quan niệm “dùng ma túy tăng khả năng tình dục” là một lầm tưởng. Hậu quả thực tế đối với hệ sinh dục ở nam giới là gì?",
-    "options": [
+    "question_options": [
       "Tăng sản xuất testosterone",
       "Suy giảm khả năng tình dục, chứng vú to và bất lực",
       "Không có ảnh hưởng đáng kể",
       "Chỉ ảnh hưởng đến khả năng sinh sản"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "hard"
   }
 ]

@@ -1,0 +1,98 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS4",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Dưới góc độ xã hội, quá trình dẫn đến nghiện ma túy thường bắt nguồn từ đâu?",
+                    "question_options": [
+                        "Do di truyền",
+                        "Do ham thích cảm giác lạ, tụ tập trong các nhóm người xấu và bị lôi kéo",
+                        "Do chế độ dinh dưỡng không hợp lý",
+                        "Do áp lực công việc quá lớn"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Dưới góc độ sinh học, nghiện ma túy được xem là một căn bệnh do các tế bào thần kinh của não bị tổn thương và thay đổi...?",
+                    "question_options": [
+                        "Kích thước",
+                        "Chức năng",
+                        "Hình dạng",
+                        "Vị trí"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Sự lệ thuộc tâm lý được mô tả là nguy hiểm vì lý do chính nào?",
+                    "question_options": [
+                        "Vì nó gây ra các cơn vật vã đau đớn",
+                        "Vì nó khiến người dùng luôn phải tăng liều",
+                        "Vì ngay cả khi đã điều trị, người nghiện vẫn có xu hướng tái sử dụng do thèm muốn",
+                        "Vì nó chỉ xảy ra với các loại ma túy mạnh nhất"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Theo góc độ sinh học, nghiện ma túy được xem là một căn bệnh ở não. Cơ chế gây bệnh là gì?",
+                    "question_options": [
+                        "Ma túy làm teo nhỏ các tế bào não",
+                        "Ma túy làm tổn thương tế bào thần kinh và làm thay đổi chức năng của não",
+                        "Ma túy làm giảm lượng máu lên não",
+                        "Ma túy tạo ra các khối u trong não"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Cơ chế gây nghiện được giải thích là do việc sử dụng ma túy lặp lại đã làm cho cơ thể...?",
+                    "question_options": [
+                        "Tăng cường sản xuất morphin nội sinh",
+                        "Ngừng hoạt động sản xuất morphin nội sinh và hoàn toàn phụ thuộc vào ma túy từ bên ngoài",
+                        "Trở nên miễn nhiễm với morphin nội sinh",
+                        "Rối loạn hoạt động của các cơ quan khác"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Việc một người có nhu cầu tiêu tiền ngày một nhiều, không có lý do chính đáng và thường xuyên bán đồ đạc cá nhân là biểu hiện gián tiếp của vấn đề gì?",
+                    "question_options": [
+                        "Thói quen mua sắm quá độ",
+                        "Áp lực tài chính để duy trì việc sử dụng ma túy",
+                        "Đầu tư kinh doanh thua lỗ",
+                        "Chuẩn bị cho một kế hoạch lớn"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

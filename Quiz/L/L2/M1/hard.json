@@ -2,61 +2,61 @@
   {
     "question_id": "hard_child_1",
     "question_text": "Ma túy có thể làm gì với bộ não của người dùng, khiến họ không suy nghĩ đúng đắn hoặc nhìn thấy những thứ không có thật?",
-    "options": [
+    "question_options": [
       "Làm bộ não thông minh hơn",
       "Làm bộ não bị hỏng, gây ảo giác và không thể kiểm soát suy nghĩ",
       "Không ảnh hưởng gì đến bộ não",
       "Giúp bộ não tập trung tốt hơn"
     ],
-    "answer": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_child_2",
     "question_text": "Người nghiện ma túy có thể bị co giật hoặc đột quỵ (bệnh liên quan đến não) vì ma túy ảnh hưởng đến điều gì trong cơ thể họ?",
-    "options": [
+    "question_options": [
       "Làm da dẻ đẹp hơn",
       "Làm cho máu trong mạch máu co thắt và không đến được não hoặc tim",
       "Làm xương chắc khỏe hơn",
       "Làm họ cảm thấy vui vẻ hơn"
     ],
-    "answer": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_child_3",
     "question_text": "Người ta thường nghĩ ma túy giúp họ 'mạnh hơn' trong chuyện người lớn, nhưng thực tế ma túy làm hại sức khỏe của cả nam và nữ như thế nào?",
-    "options": [
+    "question_options": [
       "Giúp họ có nhiều em bé hơn",
       "Làm cho họ khó có em bé hoặc không thể có em bé",
       "Không ảnh hưởng đến chuyện này",
       "Giúp họ khỏe mạnh hơn"
     ],
-    "answer": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_child_4",
     "question_text": "Tại sao người nghiện ma túy lại có nguy cơ cao thực hiện những việc xấu như trộm cắp, cướp giật?",
-    "options": [
+    "question_options": [
       "Vì họ thích làm việc xấu",
       "Vì họ rất cần tiền để mua ma túy và không nghĩ đến hậu quả",
       "Vì ma túy làm họ mạnh hơn",
       "Vì họ muốn làm người hùng"
     ],
-    "answer": 1,
+    "answer": 2,
     "difficulty": "hard"
   },
   {
     "question_id": "hard_child_5",
     "question_text": "Ma túy có thể làm cho một người đột nhiên rất hưng phấn, nhưng sau đó thì sao?",
-    "options": [
+    "question_options": [
       "Họ sẽ mãi mãi vui vẻ",
       "Họ sẽ cảm thấy rất mệt mỏi, buồn bã và muốn dùng thêm ma túy",
       "Họ sẽ ngủ rất ngon",
       "Họ sẽ trở nên thông minh hơn"
     ],
-    "answer": 1,
+    "answer": 2,
     "difficulty": "hard"
   }
 ]

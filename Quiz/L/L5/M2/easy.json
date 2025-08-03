@@ -8,9 +8,8 @@
         "Cơ sở Cai nghiện ma túy Bố Lá",
         "Phân khu Bình Triệu"
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q2",
@@ -21,9 +20,8 @@
         "Tỉnh Bình Dương",
         "TP. Thủ Đức"
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q3",
@@ -34,9 +32,8 @@
         "Quận 5",
         "Quận 10"
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q4",
@@ -47,9 +44,8 @@
         "Tỉnh Bình Dương",
         "Tỉnh Đồng Nai"
       ],
-      "answer": 2,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 3,
+      "difficulty": "easy"
     },
     {
       "question_id": "easy_q5",
@@ -60,8 +56,7 @@
         "Số lượng cây xanh trong sân.",
         "Lịch sử của tòa nhà."
       ],
-      "answer": 1,
-      "difficulty": "easy",
-      "score": 10
+      "answer": 2,
+      "difficulty": "easy"
     }
 ]

@@ -1,0 +1,70 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD2",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Khi lên cơn nghiện và mất hết lý trí, người nghiện có thể gây ra hành vi nguy hiểm nào đối với người thân?",
+                    "question_options": [
+                        "Nấu ăn ngon hơn",
+                        "Kể chuyện cười",
+                        "Đánh đập, chửi bới, thậm chí là chém giết người thân",
+                        "Dọn dẹp nhà cửa"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Con cái có bố hoặc mẹ nghiện ma túy thường phải đối mặt với nguy cơ nào?",
+                    "question_options": [
+                        "Được đi du học",
+                        "Phải bỏ học và dễ sa vào các tệ nạn xã hội",
+                        "Trở thành học sinh giỏi",
+                        "Được nuông chiều hơn"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "“Hành vi lệch chuẩn” của người nghiện có nghĩa là gì?",
+                    "question_options": [
+                        "Họ có phong cách ăn mặc khác người",
+                        "Cách hành xử, đối xử của họ với người thân, bạn bè không còn đúng mực",
+                        "Họ có những sở thích kỳ lạ",
+                        "Họ thích đi du lịch một mình"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Việc suy giảm lực lượng lao động do nghiện ma túy ảnh hưởng trực tiếp đến cái gì?",
+                    "question_options": [
+                        "Giá cả thực phẩm",
+                        "Thu nhập và sự phát triển kinh tế",
+                        "Chất lượng không khí",
+                        "Giao thông vận tải"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

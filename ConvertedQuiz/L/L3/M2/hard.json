@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD3",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Một người shipper được thuê chở một thùng hàng mà không biết bên trong có ma túy. Khi bị bắt, hành vi của người đó được xét xử dựa trên yếu tố nào?",
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": "",
+                    "question_options": [
+                        "Số lượng ma túy",
+                        "Yếu tố chủ quan, tức là có biết đó là ma túy hay không",
+                        "Loại xe mà người đó sử dụng",
+                        "Quãng đường đã vận chuyển"
+                    ]
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Điều gì có thể xảy ra về lâu dài với trẻ em trong một gia đình có người thân nghiện ma túy, ngay cả khi đứa trẻ không trực tiếp sử dụng ma túy?",
+                    "question_options": [
+                        "Chúng trở nên rất giỏi quản lý tài chính gia đình.",
+                        "Chúng luôn vui vẻ và vô tư vì cha mẹ không quan tâm đến chúng.",
+                        "Chúng có thể phải bỏ học sớm và dễ bị bạn bè xấu lôi kéo vào các tệ nạn xã hội khác.",
+                        "Cha mẹ chúng dành nhiều thời gian hơn để dạy dỗ vì cảm thấy tội lỗi."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Việc nghiện ma túy trong cộng đồng ảnh hưởng đến an toàn công cộng như thế nào, ngay cả đối với những người không sử dụng ma túy?",
+                    "question_options": [
+                        "Nó làm cho cộng đồng trở nên yên bình hơn vì mọi người quá mất tập trung để tranh cãi.",
+                        "Nó có thể dẫn đến gia tăng các tội phạm như trộm cắp hoặc cướp giật để có tiền mua ma túy.",
+                        "Nó khuyến khích nhiều khách du lịch đến thăm hơn vì tỷ lệ tội phạm thấp hơn.",
+                        "Nó giúp cảnh sát thư giãn vì có ít việc phải làm hơn."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Nếu một quốc gia phải chi rất nhiều tiền cho các chương trình cai nghiện và phòng chống ma túy, điều gì có thể là tác động tiêu cực đến sự phát triển kinh tế tổng thể của quốc gia đó?",
+                    "question_options": [
+                        "Quốc gia đó kiếm được nhiều tiền hơn vì người dân đóng thuế cho các dịch vụ liên quan đến ma túy.",
+                        "Nó làm cho lực lượng lao động của quốc gia mạnh hơn và năng suất hơn.",
+                        "Nó chuyển hướng các quỹ có thể được sử dụng cho các lĩnh vực quan trọng khác như giáo dục hoặc cơ sở hạ tầng, làm suy yếu nền kinh tế.",
+                        "Các nhà đầu tư nước ngoài có nhiều khả năng đầu tư hơn vì quốc gia đó đang giải quyết các vấn đề xã hội."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Bạn C ép buộc bạn D (bằng cách đe dọa hoặc dùng vũ lực) phải sử dụng ma túy dù bạn D không muốn. Hành vi của bạn C có thể bị coi là tội gì?",
+                    "question_options": [
+                        "Tội lôi kéo người khác sử dụng trái phép chất ma túy.",
+                        "Tội tổ chức sử dụng trái phép chất ma túy.",
+                        "Tội cưỡng bức người khác sử dụng trái phép chất ma túy.",
+                        "Tội chiếm đoạt chất ma túy."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

@@ -2,7 +2,7 @@
   {
     "question_id": "q1",
     "question_text": "Theo Luật Phòng, chống ma túy năm 2021, một người được xác định là “người sử dụng trái phép chất ma túy” khi có hành vi sử dụng mà không được phép và có kết quả xét nghiệm như thế nào?",
-    "options": [
+    "question_options": [
       "Âm tính",
       "Dương tính",
       "Không xác định",
@@ -14,7 +14,7 @@
   {
     "question_id": "q2",
     "question_text": "Sự lệ thuộc vào ma túy được thể hiện ở hai mặt là thể chất và...?",
-    "options": [
+    "question_options": [
       "Kinh tế",
       "Tinh thần (tâm lý)",
       "Xã hội",
@@ -26,7 +26,7 @@
   {
     "question_id": "q6",
     "question_text": "Về mặt sinh học, nghiện ma túy được xem là một căn bệnh ở đâu?",
-    "options": [
+    "question_options": [
       "Ở tim",
       "Ở phổi",
       "Ở não",
@@ -38,7 +38,7 @@
   {
     "question_id": "q9",
     "question_text": "“Cóng, nỏ” là tên gọi của dụng cụ nào liên quan đến việc sử dụng ma túy?",
-    "options": [
+    "question_options": [
       "Bơm kim tiêm",
       "Bình thủy tinh có ống hút",
       "Bật lửa ga",
@@ -50,7 +50,7 @@
   {
     "question_id": "q10",
     "question_text": "Sau 10-20 phút dùng heroin, đồng tử của người sử dụng sẽ có biểu hiện gì?",
-    "options": [
+    "question_options": [
       "Nở rộng",
       "Teo lại",
       "Không thay đổi",
@@ -62,7 +62,7 @@
   {
     "question_id": "q11",
     "question_text": "Người sử dụng “hàng đá” thường không thèm ăn và có thể thức liên tục 3-4 đêm. Đúng hay Sai?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
@@ -72,7 +72,7 @@
   {
     "question_id": "q14",
     "question_text": "Dùng “que chỉ thị ma” (que test) để nhận biết ma túy là dùng với mẫu gì?",
-    "options": [
+    "question_options": [
       "Mẫu máu",
       "Mẫu tóc",
       "Mẫu nước tiểu",

@@ -1,0 +1,80 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS2",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Khi lên cơn nghiện và mất hết lý trí, người nghiện có thể gây ra hành vi nguy hiểm nào đối với người thân?",
+                    "question_options": [
+                        "Tự làm hại bản thân",
+                        "Đập phá tài sản, gây tổn thương thể chất, thậm chí là sát hại người thân",
+                        "Chỉ nói những lời lẽ xúc phạm",
+                        "Không có hành vi nguy hiểm nào"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Phụ nữ có thai nghiện ma túy không ảnh hưởng gì đến em bé trong bụng. Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Nguyên nhân sâu xa khiến người nghiện có thể thực hiện các hành vi bạo lực tột cùng như chém giết người thân là gì?",
+                    "question_options": [
+                        "Họ muốn trả thù người thân",
+                        "Do ảo giác, hoang tưởng, mất kiểm soát hành vi dưới tác động của ma túy",
+                        "Họ bị kích động bởi các yếu tố bên ngoài",
+                        "Do bệnh lý tâm thần không liên quan đến ma túy"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Ma túy chỉ gây hại cho sức khỏe người dùng, không ảnh hưởng đến gia đình và xã hội. Đúng hay Sai?",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Tệ nạn nghiện ma túy là nguyên nhân làm phát sinh ra các tệ nạn xã hội nào khác?",
+                    "question_options": [
+                        "Tăng cường đoàn kết cộng đồng",
+                        "Trộm cắp, cướp giật, mại dâm, lừa đảo, buôn bán người...",
+                        "Giảm tỷ lệ thất nghiệp",
+                        "Nâng cao trình độ dân trí"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

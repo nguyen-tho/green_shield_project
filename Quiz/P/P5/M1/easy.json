@@ -9,8 +9,7 @@
       "Hiện tượng ngộ độc"
     ],
     "answer": 1,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q4",
@@ -22,8 +21,7 @@
       "Bắt đầu nói dối"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q5",
@@ -33,8 +31,7 @@
       "Sai"
     ],
     "answer": 1,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   },
   {
     "question_id": "q7",
@@ -46,7 +43,6 @@
       "Một thí nghiệm khoa học tại nhà"
     ],
     "answer": 2,
-    "difficulty": "easy",
-    "score": 10
+    "difficulty": "easy"
   }
 ]

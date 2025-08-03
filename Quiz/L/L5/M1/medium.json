@@ -9,8 +9,7 @@
         "Dấu hiệu bình thường"
       ],
       "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "difficulty": "medium"
     },
     {
       "question_id": "q3",
@@ -22,8 +21,7 @@
         "Không có gì đáng lo ngại"
       ],
       "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "difficulty": "medium"
     },
     {
       "question_id": "q9",
@@ -35,7 +33,6 @@
         "Chỉ sử dụng một lượng nhỏ"
       ],
       "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "difficulty": "medium"
     }
   ]

@@ -2,61 +2,61 @@
   {
     "question_id": "q7",
     "question_text": "Khi một người trẻ nói rằng họ dùng ma túy vì muốn tỏ ra độc lập, muốn thuộc về một nhóm nào đó, đây là nguyên nhân xuất phát từ...?",
-    "options": [
+    "question_options": [
       "Gia đình",
       "Xã hội",
       "Chính suy nghĩ và tâm lý của bản thân người đó",
       "Bạn bè ép buộc"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "q9",
     "question_text": "Theo thống kê, 100% số người nghiện có đặc điểm gì chung về bạn bè?",
-    "options": [
+    "question_options": [
       "Có nhóm bạn rất giàu có",
       "Không có bạn bè",
       "Có nhóm bạn cũng là người nghiện hoặc có tiền án, tiền sự",
       "Có nhóm bạn học rất giỏi"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "q11",
     "question_text": "Nếu bố mẹ trong gia đình có lối sống buông thả, sử dụng ma túy, con cái sẽ có nguy cơ nào?",
-    "options": [
+    "question_options": [
       "Sẽ ghét ma túy hơn",
       "Sẽ không bị ảnh hưởng",
       "Có thể bắt chước sử dụng và nghiện theo",
       "Sẽ được bạn bè bảo vệ"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "q12",
     "question_text": "Việc sử dụng ma túy để “siêu thoát” với hiện tại, tận hưởng sự khoái lạc là biểu hiện của nguyên nhân nào?",
-    "options": [
+    "question_options": [
       "Do tò mò",
       "Do bị bạn bè ép buộc",
       "Do lối sống buông thả hoặc gặp bế tắc, chán nản",
       "Do muốn thể hiện đẳng cấp"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "hard"
   },
   {
     "question_id": "q13",
     "question_text": "Khi bị bạn bè rủ rê, lôi kéo, nguyên nhân chính khiến một người thử ma túy là gì?",
-    "options": [
+    "question_options": [
       "Do áp lực từ gia đình",
       "Do ảnh hưởng từ môi trường bạn bè",
       "Do áp lực học tập",
       "Do tò mò"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "hard"
   }
 ]

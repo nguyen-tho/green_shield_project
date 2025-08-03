@@ -9,8 +9,7 @@
       "Không áp dụng được với ma túy tổng hợp"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q4",
@@ -22,8 +21,7 @@
       "Chó nghiệp vụ có thể phân biệt chính xác từng loại ma túy"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q6",
@@ -33,8 +31,7 @@
       "Sai"
     ],
     "answer": 1,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q8",
@@ -46,8 +43,7 @@
       "Pha loãng mẫu rồi thử lại"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q9",
@@ -59,7 +55,6 @@
       "Chỉ dùng được trong không gian kín"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   }
 ]

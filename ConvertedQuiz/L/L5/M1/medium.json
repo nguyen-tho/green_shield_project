@@ -1,0 +1,56 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD5",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Khi một người cảm thấy mình phải dùng liều lượng ma túy ngày càng tăng để có cảm giác như trước, đó là dấu hiệu gì?",
+                    "question_options": [
+                        "Dấu hiệu sức khỏe tốt",
+                        "Dấu hiệu mất kiểm soát và lệ thuộc",
+                        "Dấu hiệu sắp cai nghiện thành công",
+                        "Dấu hiệu bình thường"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Nếu việc sử dụng một chất gì đó bắt đầu gây ra rắc rối ở trường học hoặc với gia đình, đó là dấu hiệu...?",
+                    "question_options": [
+                        "Ảnh hưởng tiêu cực đến cuộc sống và cần tìm sự giúp đỡ",
+                        "Cho thấy bạn đang trưởng thành",
+                        "Cần phải sử dụng nhiều hơn để quên đi rắc rối",
+                        "Không có gì đáng lo ngại"
+                    ],
+                    "answer": 0,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Dấu hiệu mất kiểm soát nghĩa là gì?",
+                    "question_options": [
+                        "Có thể ngừng sử dụng bất cứ lúc nào",
+                        "Không thể ngừng sử dụng dù đã cố gắng nhiều lần",
+                        "Chỉ sử dụng vào cuối tuần",
+                        "Chỉ sử dụng một lượng nhỏ"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

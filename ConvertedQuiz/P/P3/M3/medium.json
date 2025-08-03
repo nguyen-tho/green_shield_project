@@ -1,0 +1,56 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS3",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Cơ quan nào có thẩm quyền cuối cùng ra quyết định việc đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc?",
+                    "question_options": [
+                        "Viện kiểm sát nhân dân",
+                        "Công an",
+                        "Ủy ban nhân dân",
+                        "Tòa án Nhân dân"
+                    ],
+                    "answer": 3,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Vai trò của Viện kiểm sát nhân dân tối cao trong việc đưa người nghiện dưới 18 tuổi vào cơ sở cai nghiện bắt buộc là gì?",
+                    "question_options": [
+                        "Ra quyết định cuối cùng",
+                        "Ban hành quy chế kiểm sát việc xem xét, quyết định",
+                        "Cung cấp cơ sở vật chất",
+                        "Chẩn đoán tình trạng nghiện"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Pháp lệnh về trình tự, thủ tục của Tòa án có hiệu lực pháp lý như thế nào so với Luật?",
+                    "question_options": [
+                        "Cao hơn Luật",
+                        "Ngang bằng với Luật",
+                        "Thấp hơn Luật",
+                        "Tương đương Nghị định"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

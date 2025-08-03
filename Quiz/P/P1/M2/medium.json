@@ -9,8 +9,7 @@
       "Danh mục IV"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q7",
@@ -22,8 +21,7 @@
       "Toluene"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q9",
@@ -35,8 +33,7 @@
       "Có màu xanh nhạt, mùi ngọt"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q20",
@@ -48,8 +45,7 @@
       "Không thuộc danh mục nào"
     ],
     "answer": 1,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q13",
@@ -61,8 +57,7 @@
       "Anh"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q14",
@@ -74,8 +69,7 @@
       "Heroin"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q17",
@@ -87,7 +81,6 @@
       "A phiến"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   }
 ]

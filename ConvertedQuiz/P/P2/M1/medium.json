@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS2",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Ma túy gây ra những rối loạn điển hình nhất ở các hệ cơ quan nào trong cơ thể?",
+                    "question_options": [
+                        "Chỉ ở hệ thần kinh",
+                        "Hệ tiêu hóa, hệ tuần hoàn và hệ thần kinh",
+                        "Chỉ ở hệ hô hấp",
+                        "Chỉ ở da và tóc"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Ma túy có thể gây di hại cho con cái từ khi nào?",
+                    "question_options": [
+                        "Khi con được 10 tuổi",
+                        "Khi con bắt đầu đi học",
+                        "Ngay từ trong bào thai",
+                        "Không gây di hại"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Khi một người bị lệ thuộc vào ma túy, họ sẽ dễ bị người khác lợi dụng và việc học tập/làm việc sẽ...?",
+                    "question_options": [
+                        "Tốt hơn do thông minh hơn",
+                        "Giảm sút hoặc bỏ học/bỏ việc",
+                        "Không bị ảnh hưởng",
+                        "Chỉ giảm sút một chút"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Tại sao nói tệ nạn ma túy làm “suy thoái nòi giống”?",
+                    "question_options": [
+                        "Vì nó chỉ ảnh hưởng đến một nhóm người nhất định",
+                        "Vì nó gây di hại cho con cái từ trong bào thai và ảnh hưởng đến sức khỏe sinh sản",
+                        "Vì nó làm giảm dân số",
+                        "Vì nó gây ra các bệnh di truyền"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Ngoài lây nhiễm HIV, việc tiêm chích ma túy chung kim tiêm còn dẫn đến nguy cơ lây nhiễm loại virus nào?",
+                    "question_options": [
+                        "Virus cúm A",
+                        "Virus Herpes",
+                        "Viêm gan vi rút B và C",
+                        "Virus Ebola"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

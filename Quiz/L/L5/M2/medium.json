@@ -8,9 +8,8 @@
         "Cơ sở Cai nghiện ma túy Bố Lá và Nhị Xuân.",
         "Cơ sở cai nghiện ma túy Thanh thiếu niên 2 và Phân khu Bình Triệu."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q2",
@@ -21,9 +20,8 @@
         "Sửa chữa đồ điện tử.",
         "Tổ chức các buổi hòa nhạc."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q3",
@@ -34,9 +32,8 @@
         "Vì chúng có nhiều đồ chơi hơn.",
         "Để có thể gặp gỡ nhiều bạn bè mới."
       ],
-      "answer": 1,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 2,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q4",
@@ -47,9 +44,8 @@
         "TP. Thủ Đức.",
         "Tỉnh Bình Phước."
       ],
-      "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 3,
+      "difficulty": "medium"
     },
     {
       "question_id": "medium_q5",
@@ -60,8 +56,7 @@
         "Trung tâm trợ giúp pháp lý nhà nước Thành phố Hồ Chí Minh.",
         "Các Trung tâm Y tế Quận/Huyện."
       ],
-      "answer": 2,
-      "difficulty": "medium",
-      "score": 20
+      "answer": 3,
+      "difficulty": "medium"
     }
 ]

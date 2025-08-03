@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD5",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Việc điều trị nghiện tự nguyện đòi hỏi điều gì từ người được giúp đỡ?",
+                    "question_options": [
+                        "Chỉ cần đến cơ sở mà không cần làm gì thêm.",
+                        "Sự đồng ý, quyết tâm và hợp tác tích cực của họ.",
+                        "Phải trả thật nhiều tiền.",
+                        "Chỉ cần bạn bè hoặc gia đình quyết định thay."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Tại sao việc tìm hiểu kỹ về 'phương pháp điều trị' và 'chương trình hỗ trợ sau cai nghiện' lại quan trọng khi chọn cơ sở giúp đỡ?",
+                    "question_options": [
+                        "Để biết có thể chơi những trò gì ở đó.",
+                        "Để đảm bảo cách giúp đỡ phù hợp và có kế hoạch để người đó tiếp tục khỏe mạnh sau này.",
+                        "Để biết cơ sở đó có tổ chức tiệc sinh nhật không.",
+                        "Để chọn nơi có kiến trúc đẹp nhất."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Bệnh viện Nhân Ái, một nơi điều trị nghiện bằng thuốc thay thế, có địa chỉ cơ sở chính ở tỉnh nào?",
+                    "question_options": [
+                        "TP. Hồ Chí Minh.",
+                        "Tỉnh Bình Dương.",
+                        "Tỉnh Bình Phước.",
+                        "TP. Thủ Đức."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Ngoài các cơ sở cai nghiện chính, hệ thống điều trị nghiện còn bao gồm những nơi nào khác trên địa bàn TP. Hồ Chí Minh?",
+                    "question_options": [
+                        "Các nhà văn hóa và công viên.",
+                        "Các trường học và thư viện.",
+                        "Các Trung tâm Y tế Quận/Huyện và các Bệnh viện được cấp phép.",
+                        "Các cửa hàng tạp hóa và siêu thị."
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Nếu một người lớn muốn được giúp đỡ để cai nghiện, họ cần thể hiện điều gì để việc hỗ trợ có hiệu quả?",
+                    "question_options": [
+                        "Phải hứa sẽ mua quà cho mọi người.",
+                        "Phải có sự đồng thuận và quyết tâm của chính bản thân họ.",
+                        "Chỉ cần đợi người khác đến giúp.",
+                        "Phải biết tất cả các địa chỉ của trung tâm."
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

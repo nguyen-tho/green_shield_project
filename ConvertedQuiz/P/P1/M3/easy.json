@@ -1,0 +1,112 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS1",
+            "mission_id": 3,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Thành phần chính gây nghiện trong ma túy “trà sữa” là Amphetamine và chất nào sau đây?",
+                    "question_options": [
+                        "Ketamine",
+                        "GHB",
+                        "Methamphetamine",
+                        "Nicotine"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "“Nước vui” thường chứa Methamphetamine và Ketamine, nó có xuất xứ từ đâu?",
+                    "question_options": [
+                        "Việt Nam",
+                        "Thái Lan",
+                        "Mỹ",
+                        "Trung Quốc"
+                    ],
+                    "answer": 3,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Ma túy “Nước vui” có thể gây ra tác hại đặc biệt nguy hiểm nào?",
+                    "question_options": [
+                        "Gây buồn ngủ",
+                        "Suy hô hấp, rối loạn nhịp tim và tử vong",
+                        "Khiến tóc bạc nhanh",
+                        "Gây đau dạ dày"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Tên viết tắt của hệ thống phân phối Nicotine điện tử (Thuốc lá điện tử) là gì?",
+                    "question_options": [
+                        "VAPE",
+                        "THC",
+                        "ENDS (Electronic Nicotine Delivery Systems)",
+                        "E-Juice"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Thuốc lá điện tử hay Vape hiện đã được phép bán chính thức ở Việt Nam chưa?",
+                    "question_options": [
+                        "Bán ở mọi nơi",
+                        "Bị cấm lưu hành tại Việt Nam",
+                        "Chỉ bán cho người trên 21 tuổi",
+                        "Chỉ bán ở các cửa hàng chuyên dụng"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Ma túy “Nước biển” hay “Vitamin G” là tên gọi khác của hợp chất nào?",
+                    "question_options": [
+                        "Nitơ Oxit (N2O)",
+                        "Gamma Hydroxybutyrate (GHB)",
+                        "Methamphetamine",
+                        "Tetrahydrocannabinol (THC)"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Hợp chất hóa học có trong “Bóng cười” là gì?",
+                    "question_options": [
+                        "Oxy (O2)",
+                        "Carbon Dioxit (CO2)",
+                        "Nitơ Oxit (N2O)",
+                        "Hydro (H2)"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

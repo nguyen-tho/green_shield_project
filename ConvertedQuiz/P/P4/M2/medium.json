@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS4",
+            "mission_id": 2,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Việc một số người giàu có sử dụng ma túy như một “thú vui tiêu khiển” phản ánh vấn đề gì về nhân cách của họ?",
+                    "question_options": [
+                        "Thiếu kỹ năng quản lý tài chính",
+                        "Đạo đức suy thoái, tha hóa về nhân cách",
+                        "Mong muốn tìm kiếm sự đồng cảm",
+                        "Áp lực phải duy trì sự giàu có"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Việc thanh thiếu niên có trình độ học vấn thấp, không có nghề nghiệp ổn định dẫn đến cảm giác thua thiệt về tâm lý. Cảm giác này có thể trực tiếp dẫn đến hậu quả nào?",
+                    "question_options": [
+                        "Chăm chỉ học tập hơn",
+                        "Dễ sinh chán chường, bất mãn và tìm đến ma túy",
+                        "Tích cực tham gia hoạt động xã hội",
+                        "Tìm kiếm sự giúp đỡ từ gia đình"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Thiếu sân chơi lành mạnh được xác định là một nguyên nhân xã hội khiến học sinh dễ bị lôi kéo. Điều này cho thấy tầm quan trọng của yếu tố nào?",
+                    "question_options": [
+                        "Việc tăng cường kiểm tra, giám sát của công an",
+                        "Việc xây dựng một môi trường xã hội và giải trí tích cực cho giới trẻ",
+                        "Việc tăng cường các bài kiểm tra ở trường",
+                        "Việc giới hạn thời gian sử dụng internet"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Hành vi giao du, chơi bời quá trớn của con em các gia đình khá giả là hệ quả trực tiếp của nguyên nhân nào?",
+                    "question_options": [
+                        "Bố mẹ kỳ vọng quá cao",
+                        "Bố mẹ nuông chiều thái quá",
+                        "Áp lực từ bạn bè cùng trang lứa",
+                        "Do bản tính thích mạo hiểm"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Theo bạn, tại sao việc tiếp xúc với nhóm bạn xấu lại có tác động tiêu cực mạnh mẽ đến thanh thiếu niên?",
+                    "question_options": [
+                        "Vì thanh thiếu niên dễ học theo các hành vi xấu để được chấp nhận trong nhóm",
+                        "Vì nhóm bạn xấu thường có nhiều tiền",
+                        "Vì nhóm bạn xấu thường học giỏi hơn",
+                        "Vì thanh thiếu niên không có chính kiến"
+                    ],
+                    "answer": 0,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

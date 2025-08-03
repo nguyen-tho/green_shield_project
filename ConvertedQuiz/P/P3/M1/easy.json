@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS3",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Việt Nam chính thức tham gia 3 Công ước của Liên hợp quốc về kiểm soát ma túy vào ngày tháng năm nào?",
+                    "question_options": [
+                        "30/03/1961",
+                        "21/02/1971",
+                        "09/12/2000",
+                        "01/09/1997"
+                    ],
+                    "answer": 3,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Công ước Thống nhất về các chất ma túy năm 1961 được thông qua tại thành phố nào?",
+                    "question_options": [
+                        "Viên, Áo",
+                        "Paris, Pháp",
+                        "New York, Hoa Kỳ",
+                        "Geneva, Thụy Sĩ"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Luật Phòng, chống ma túy năm 2021 có bao nhiêu chương, bao nhiêu điều?",
+                    "question_options": [
+                        "8 Chương, 56 Điều",
+                        "8 Chương, 55 Điều",
+                        "9 Chương, 56 Điều",
+                        "9 Chương, 55 Điều"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Theo định nghĩa trong Luật 2021, “Cai nghiện ma túy” là một quá trình hỗ trợ về y tế, tâm lý và...?",
+                    "question_options": [
+                        "Pháp luật",
+                        "Tài chính",
+                        "Xã hội",
+                        "Giáo dục"
+                    ],
+                    "answer": 2,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Việc bổ sung quy định cấm “kỳ thị” người cai nghiện trong luật mới thể hiện điều gì?",
+                    "question_options": [
+                        "Sự nghiêm khắc của pháp luật",
+                        "Tính nhân văn, nhằm bảo vệ quyền con người và giúp họ tái hòa nhập",
+                        "Sự phức tạp của tội phạm ma túy",
+                        "Yêu cầu của các tổ chức quốc tế"
+                    ],
+                    "answer": 1,
+                    "difficulty": "easy",
+                    "score": 10,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

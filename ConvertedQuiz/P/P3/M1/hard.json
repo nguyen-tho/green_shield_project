@@ -1,0 +1,56 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS3",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Quy trình cai nghiện ma túy bắt buộc gồm bao nhiêu giai đoạn?",
+                    "question_options": [
+                        "3 giai đoạn",
+                        "4 giai đoạn",
+                        "5 giai đoạn",
+                        "6 giai đoạn"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Đối với cai nghiện tự nguyện, người nghiện phải đảm bảo hoàn thành đủ bao nhiêu giai đoạn đầu tiên của quy trình?",
+                    "question_options": [
+                        "1 giai đoạn (Tiếp nhận)",
+                        "2 giai đoạn (Tiếp nhận và Điều trị cắt cơn)",
+                        "3 giai đoạn (Tiếp nhận, Điều trị cắt cơn và Giáo dục, tư vấn)",
+                        "Phải hoàn thành cả 5 giai đoạn"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Một người nghiện từ đủ 18 tuổi trở lên, đang trong thời hạn quản lý sau cai nghiện mà bị phát hiện tái nghiện, sẽ bị áp dụng biện pháp nào?",
+                    "question_options": [
+                        "Bị phạt tiền và cảnh cáo",
+                        "Bị đưa vào cơ sở cai nghiện bắt buộc",
+                        "Bị truy cứu trách nhiệm hình sự",
+                        "Tiếp tục quản lý tại nơi cư trú thêm 1 năm"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

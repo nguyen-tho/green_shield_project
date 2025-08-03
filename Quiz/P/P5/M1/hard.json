@@ -9,8 +9,7 @@
       "Tự tìm cách giải quyết"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q9",
@@ -22,8 +21,7 @@
       "Lảng tránh, không can thiệp"
     ],
     "answer": 3,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   },
   {
     "question_id": "q10",
@@ -35,7 +33,6 @@
       "Để có lý do chính đáng để chấm dứt mối quan hệ"
     ],
     "answer": 2,
-    "difficulty": "hard",
-    "score": 30
+    "difficulty": "hard"
   }
 ]

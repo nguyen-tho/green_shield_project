@@ -1,0 +1,84 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "VD1",
+            "mission_id": 4,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Safrole khi thử với thuốc thử Gallic acid sẽ chuyển từ màu nâu sang màu gì?",
+                    "question_options": [
+                        "Màu hồng tím",
+                        "Màu vàng nhạt",
+                        "Màu tím xanh",
+                        "Màu xanh lá cây"
+                    ],
+                    "answer": 2,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Lysergic acid khi thử với thuốc thử Ehrlich sẽ cho màu đặc trưng nào?",
+                    "question_options": [
+                        "Màu xanh lục",
+                        "Màu tím",
+                        "Màu đỏ tươi",
+                        "Màu nâu sẫm"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Ưu điểm nổi bật của phương pháp nhận biết bằng máy móc so với các phương pháp khác là gì?",
+                    "question_options": [
+                        "Dễ sử dụng và giá rẻ",
+                        "Cho kết quả nhanh, chính xác và nhạy",
+                        "Không cần chuyên môn cao",
+                        "Không bị ảnh hưởng bởi môi trường"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Khi dùng phương pháp cảm quan, cần chú ý điều gì quan trọng nhất để đảm bảo an toàn?",
+                    "question_options": [
+                        "Chỉ ngửi ma túy, không được chạm vào",
+                        "Tuyệt đối không nếm thử, vì ma túy rất độc",
+                        "Không sử dụng găng tay khi tiếp xúc",
+                        "Đeo kính hiển vi để quan sát"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Khi nhận biết bằng thuốc thử, nếu lượng mẫu quá ít, giải pháp an toàn nhất là gì?",
+                    "question_options": [
+                        "Pha loãng mẫu để thử nhiều lần",
+                        "Lấy toàn bộ mẫu và đưa về phòng giám định",
+                        "Sử dụng nhiều loại thuốc thử cùng lúc",
+                        "Đốt mẫu để nhận biết mùi"
+                    ],
+                    "answer": 1,
+                    "difficulty": "hard",
+                    "score": 30,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

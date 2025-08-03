@@ -2,57 +2,57 @@
   {
     "question_id": "easy_1",
     "question_text": "Khi lên cơn nghiện và mất hết lý trí, người nghiện có thể gây ra hành vi nguy hiểm nào đối với người thân?",
-    "options": [
+    "question_options": [
       "Tự làm hại bản thân",
       "Đập phá tài sản, gây tổn thương thể chất, thậm chí là sát hại người thân",
       "Chỉ nói những lời lẽ xúc phạm",
       "Không có hành vi nguy hiểm nào"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "easy_2",
     "question_text": "Phụ nữ có thai nghiện ma túy không ảnh hưởng gì đến em bé trong bụng. Đúng hay Sai?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "easy_3",
     "question_text": "Nguyên nhân sâu xa khiến người nghiện có thể thực hiện các hành vi bạo lực tột cùng như chém giết người thân là gì?",
-    "options": [
+    "question_options": [
       "Họ muốn trả thù người thân",
       "Do ảo giác, hoang tưởng, mất kiểm soát hành vi dưới tác động của ma túy",
       "Họ bị kích động bởi các yếu tố bên ngoài",
       "Do bệnh lý tâm thần không liên quan đến ma túy"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "easy_4",
     "question_text": "Ma túy chỉ gây hại cho sức khỏe người dùng, không ảnh hưởng đến gia đình và xã hội. Đúng hay Sai?",
-    "options": [
+    "question_options": [
       "Đúng",
       "Sai"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "easy"
   },
   {
     "question_id": "easy_5",
     "question_text": "Tệ nạn nghiện ma túy là nguyên nhân làm phát sinh ra các tệ nạn xã hội nào khác?",
-    "options": [
+    "question_options": [
       "Tăng cường đoàn kết cộng đồng",
       "Trộm cắp, cướp giật, mại dâm, lừa đảo, buôn bán người...",
       "Giảm tỷ lệ thất nghiệp",
       "Nâng cao trình độ dân trí"
     ],
-    "correct_answer_index": 1,
+    "answer": 2,
     "difficulty": "easy"
   }
 ]

@@ -2,37 +2,37 @@
   {
     "question_id": "q4",
     "question_text": "Cơ quan nào có thẩm quyền cuối cùng ra quyết định việc đưa người nghiện ma túy vào cơ sở cai nghiện bắt buộc?",
-    "options": [
+    "question_options": [
       "Viện kiểm sát nhân dân",
       "Công an",
       "Ủy ban nhân dân",
       "Tòa án Nhân dân"
     ],
-    "correct_answer_index": 4,
+    "answer": 4,
     "difficulty": "medium"
   },
   {
     "question_id": "q5",
     "question_text": "Vai trò của Viện kiểm sát nhân dân tối cao trong việc đưa người nghiện dưới 18 tuổi vào cơ sở cai nghiện bắt buộc là gì?",
-    "options": [
+    "question_options": [
       "Ra quyết định cuối cùng",
       "Ban hành quy chế kiểm sát việc xem xét, quyết định",
       "Cung cấp cơ sở vật chất",
       "Chẩn đoán tình trạng nghiện"
     ],
-    "correct_answer_index": 2,
+    "answer": 2,
     "difficulty": "medium"
   },
   {
     "question_id": "q7",
     "question_text": "Pháp lệnh về trình tự, thủ tục của Tòa án có hiệu lực pháp lý như thế nào so với Luật?",
-    "options": [
+    "question_options": [
       "Cao hơn Luật",
       "Ngang bằng với Luật",
       "Thấp hơn Luật",
       "Tương đương Nghị định"
     ],
-    "correct_answer_index": 3,
+    "answer": 3,
     "difficulty": "medium"
   }
 ]

@@ -1,0 +1,110 @@
+{
+    "appName": "Lá chắn xanh",
+    "appVersion": "1.0.0",
+    "appDescription": "",
+    "appAuthor": "",
+    "contents": [
+        {
+            "profile_id": "HS1",
+            "mission_id": 1,
+            "questions": [
+                {
+                    "question_id": "q1",
+                    "question_text": "Việc phân loại ma túy dựa trên “triệu chứng lâm sàng khi chất ma túy xâm nhập vào cơ thể” thuộc phương pháp phân loại nào?",
+                    "question_options": [
+                        "Dựa vào nguồn gốc sản xuất",
+                        "Dựa vào tác dụng đối với tâm sinh lý con người",
+                        "Dựa vào đặc điểm cấu trúc hóa học",
+                        "Dựa vào mức độ gây nghiện"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Cách phân loại ma túy nào ít được sử dụng trong đời sống xã hội nhưng lại được các nhà khoa học, hóa học và dược sĩ rất quan tâm nghiên cứu?",
+                    "question_options": [
+                        "Theo nguồn gốc",
+                        "Theo tác dụng tâm sinh lý",
+                        "Theo mức độ gây nghiện",
+                        "Theo đặc điểm cấu trúc hóa học"
+                    ],
+                    "answer": 3,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Theo Luật Phòng, chống ma túy năm 2021, “tiền chất” được định nghĩa là các hóa chất không thể thiếu trong quá trình điều chế, sản xuất ma túy và được quy định trong danh mục do ai ban hành?",
+                    "question_options": [
+                        "Tổ chức Y tế Thế giới",
+                        "Liên Hợp Quốc",
+                        "Chính phủ",
+                        "Bộ Công an"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q4",
+                    "question_text": "Dựa trên định nghĩa pháp lý tại Việt Nam, một chất chỉ được coi là ma túy khi nó đồng thời là chất gây nghiện và chất hướng thần.",
+                    "question_options": [
+                        "Đúng",
+                        "Sai"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q5",
+                    "question_text": "Dựa trên hai hệ thống phân loại trong bài, Ecstasy (MDMA) thuộc nhóm nào?",
+                    "question_options": [
+                        "Nhóm gây cảm giác êm dịu, đê mê",
+                        "Nhóm gây kích thích",
+                        "Nhóm gây ngủ",
+                        "Nhóm gây an thần"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q6",
+                    "question_text": "Theo định nghĩa về chất ma túy, ma túy khi xâm nhập vào cơ thể sẽ làm thay đổi trạng thái ý thức và...?",
+                    "question_options": [
+                        "Cấu trúc DNA",
+                        "Chức năng sinh lý",
+                        "Nhóm máu",
+                        "Thói quen hàng ngày"
+                    ],
+                    "answer": 1,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                },
+                {
+                    "question_id": "q7",
+                    "question_text": "Các chất ma túy có nguồn gốc tự nhiên là những ancaloit của một số loài thực vật như cây thuốc phiện, cây coca và...?",
+                    "question_options": [
+                        "Cây nấm",
+                        "Cây anh túc",
+                        "Cây cần sa",
+                        "Cây ma hoàng"
+                    ],
+                    "answer": 2,
+                    "difficulty": "medium",
+                    "score": 20,
+                    "explanation": ""
+                }
+            ]
+        }
+    ]
+}

@@ -9,8 +9,7 @@
       "Dựa vào mức độ gây nghiện"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q6",
@@ -22,8 +21,7 @@
       "Theo đặc điểm cấu trúc hóa học"
     ],
     "answer": 4,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q7",
@@ -35,8 +33,7 @@
       "Bộ Công an"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q8",
@@ -46,8 +43,7 @@
       "Sai"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q9",
@@ -59,8 +55,7 @@
       "Nhóm gây an thần"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q12",
@@ -72,8 +67,7 @@
       "Thói quen hàng ngày"
     ],
     "answer": 2,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   },
   {
     "question_id": "q15",
@@ -85,7 +79,6 @@
       "Cây ma hoàng"
     ],
     "answer": 3,
-    "difficulty": "medium",
-    "score": 20
+    "difficulty": "medium"
   }
 ]
