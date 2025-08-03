@@ -22,5 +22,47 @@
     ],
     "answer": 1,
     "difficulty": "general"
+  },
+  {
+    "question_id": "q1",
+    "question_text": "Theo tài liệu, điểm khác biệt quan trọng nhất giữa 'người sử dụng trái phép ma túy' và 'người nghiện ma túy' là gì?",
+    "question_options": [
+      "Người sử dụng trái phép ma túy chỉ dùng một lần duy nhất, còn người nghiện thì dùng nhiều lần.",
+      "Người sử dụng trái phép ma túy chưa bị lệ thuộc hoàn toàn, còn người nghiện đã bị lệ thuộc cả về tâm lý và thể chất.",
+      "Người sử dụng trái phép ma túy chỉ dùng ma túy để chữa bệnh, còn người nghiện thì không.",
+      "Người sử dụng trái phép ma túy luôn bị cảnh sát quản lý, còn người nghiện thì không."
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Điểm khác biệt lớn nhất giữa người sử dụng trái phép ma túy và người nghiện ma túy là người sử dụng trái phép ma túy chưa bị 'nghiện' hoàn toàn, tức là chưa bị lệ thuộc vào ma túy đến mức khó bỏ. Trong khi đó, người nghiện ma túy là người đã bị lệ thuộc vào ma túy cả về tâm lý (luôn thèm muốn, khó bỏ) và thể chất (cơ thể vật vã, đau đớn khi thiếu thuốc)."
+  },
+  {
+    "question_id": "q2",
+    "question_text": "Khi một người nghiện ma túy bị 'cơn vật vã' (hội chứng cai nghiện), điều gì đang thực sự xảy ra với não bộ của họ theo cơ chế gây nghiện được giải thích trong tài liệu?",
+    "question_options": [
+      "Não bộ đang tự sản xuất quá nhiều 'morphin nội sinh' khiến cơ thể khó chịu.",
+      "Não bộ đang cố gắng chống lại ma túy bằng cách tạo ra các tín hiệu đau đớn.",
+      "Não bộ đã ngừng sản xuất 'morphin nội sinh' và đang thiếu hụt trầm trọng chất này do lệ thuộc vào ma túy từ bên ngoài.",
+      "Não bộ bị ma túy làm cho hoạt động quá mức, gây ra các phản ứng thể chất mạnh."
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Khi một người dùng ma túy liên tục, não bộ sẽ 'ngừng sản xuất' hoàn toàn chất 'morphin nội sinh' (endorphin) mà phụ thuộc hoàn toàn vào ma túy từ bên ngoài. Chính vì vậy, khi không có ma túy, người nghiện sẽ rơi vào 'trạng thái thiếu ma túy' hay 'hội chứng cai nghiện' với những cơn vật vã, đau đớn không thể chịu nổi."
+  },
+  {
+    "question_id": "q3",
+    "question_text": "Trong số các dấu hiệu sau, dấu hiệu nào có thể giúp nhận biết sớm một người có khả năng đang sử dụng 'hàng đá' (Methamphetamine)?",
+    "question_options": [
+      "Mắt đỏ, sụp mí, hay ngáp vặt và gãi liên tục.",
+      "Hưng phấn thái quá, thích nhạc lớn, lắc lư quay cuồng, đồng tử giãn to.",
+      "Thức trắng đêm, có ảo giác, nói lảm nhảm, mắt thâm quầng, môi khô.",
+      "Đổ mồ hôi nhiều, ớn lạnh, đau nhức cơ thể, buồn nôn, tiêu chảy."
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Các biểu hiện đặc trưng khi dùng 'hàng đá' bao gồm: gây ảo giác, hưng phấn cực độ, không thèm ăn, hoạt động thể chất liên tục, có thể thức 3-4 đêm, nói năng lảm nhảm, mắt thâm quầng, đỏ, long lanh, mọng nước hoặc hơi trợn ngược, môi khô, hay liếm môi."
   }
 ]

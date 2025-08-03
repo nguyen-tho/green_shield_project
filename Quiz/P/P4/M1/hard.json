@@ -22,5 +22,47 @@
     ],
     "correct_answer_index": 3,
     "difficulty": "hard"
+  },
+  {
+    "question_id": "q1",
+    "question_text": "Theo cơ chế gây nghiện được mô tả, tại sao việc điều trị cai nghiện ma túy lại khó khăn đến vậy, đặc biệt đối với sự lệ thuộc về tinh thần?",
+    "question_options": [
+      "Vì não bộ đã hoàn toàn mất khả năng sản xuất morphin nội sinh và không thể hồi phục chức năng này.",
+      "Vì người nghiện luôn nhớ đến cảm giác 'lên tiên' và thèm muốn mãnh liệt, khiến họ tái sử dụng dù không còn vật vã thể chất.",
+      "Vì cơ thể người nghiện cần liều lượng ma túy ngày càng tăng lên, vượt quá khả năng cung cấp hợp pháp.",
+      "Vì các loại ma túy như cần sa và amphetamine gây ra hội chứng cai nghiện thể chất quá dữ dội."
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Ma túy làm não bộ ngừng sản xuất morphin nội sinh và gây lệ thuộc cả về tinh thần. Ngay cả khi cơn vật vã thể chất qua đi, sự thèm muốn và nhớ về cảm giác khoái cảm do ma túy mang lại vẫn khiến người nghiện rất khó bỏ, dễ tái nghiện."
+  },
+  {
+    "question_id": "q2",
+    "question_text": "Một người có kết quả xét nghiệm dương tính với ma túy nhưng chưa có biểu hiện vật vã hay lệ thuộc rõ rệt về thể chất. Theo Luật phòng, chống ma túy 2021, đối tượng này sẽ được quản lý như thế nào để phòng ngừa tệ nạn?",
+    "question_options": [
+      "Bắt buộc phải đi cai nghiện tập trung ngay lập tức.",
+      "Bị xử phạt hành chính và được quản lý tại cộng đồng để ngăn ngừa tiếp tục sử dụng.",
+      "Được coi là người nghiện và phải trải qua quá trình điều trị y tế chuyên sâu.",
+      "Không bị quản lý vì chưa có biểu hiện nghiện rõ ràng."
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Theo Luật phòng, chống ma túy 2021, người sử dụng trái phép chất ma túy (dương tính nhưng chưa bị lệ thuộc) sẽ phải chịu sự quản lý của Nhà nước nhằm phòng ngừa, giúp họ không tiếp tục sử dụng trái phép chất ma túy và tránh vi phạm pháp luật."
+  },
+  {
+    "question_id": "q3",
+    "question_text": "Trong các giai đoạn nghiện ma túy, tại sao 'Giai đoạn 5: Nguy hiểm cực độ' lại được xem là đỉnh điểm của sự hủy hoại, không chỉ về thể chất mà còn về hành vi và tinh thần?",
+    "question_options": [
+      "Vì ở giai đoạn này, người nghiện chỉ còn quan tâm đến việc tìm kiếm ma túy và không còn tương tác với xã hội.",
+      "Vì đây là giai đoạn mà các bệnh tật thể chất do ma túy gây ra trở nên trầm trọng nhất, đe dọa trực tiếp tính mạng.",
+      "Vì người nghiện phải đối mặt với khủng hoảng tinh thần trầm trọng, thể xác bị hủy hoại, và rất dễ dẫn đến những hành vi thiếu lý trí, cực kỳ nguy hiểm, thậm chí tử vong.",
+      "Vì ở giai đoạn này, người nghiện hoàn toàn mất đi khả năng cảm nhận niềm vui từ bất kỳ điều gì khác ngoài ma túy."
+    ],
+    "answer": 3,
+    "difficulty": "hard",
+    "score": 10,
+    "explanation": "Giai đoạn 5 là giai đoạn mà người nghiện phải đối mặt với khủng hoảng tinh thần trầm trọng, thể xác bị hủy hoại, và rất dễ dẫn đến những hành vi thiếu lý trí, cực kỳ nguy hiểm, thậm chí có thể dẫn đến tử vong, do sự tàn phá toàn diện của ma túy."
   }
 ]
