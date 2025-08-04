@@ -1,38 +1,38 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Yếu tố nào sau đây được xem là quan trọng nhất để giảm thiểu tác hại của ma túy và có cơ hội phục hồi?",
-    "question_options": [
-      "Có thật nhiều tiền",
-      "Giấu kín không cho ai biết",
-      "Nhận diện sớm dấu hiệu và chủ động tìm kiếm sự giúp đỡ",
-      "Chờ đợi vấn đề tự biến mất"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Bạn thân của bạn dạo này hay nghỉ học, trông gầy và mệt mỏi. Bạn nên làm gì?",
-    "question_options": [
-      "Mặc kệ vì đó là chuyện riêng của bạn ấy",
-      "Lắng nghe, quan tâm và tìm cách nói chuyện với người lớn tin cậy (thầy cô, bố mẹ bạn) để giúp đỡ",
-      "Chê bai ngoại hình của bạn ấy",
-      "Rủ bạn ấy đi chơi game để quên đi mệt mỏi"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q10",
-    "question_text": "“Sự tự ý thức và trách nhiệm” được thể hiện qua hành động nào?",
-    "question_options": [
-      "Giấu giếm vấn đề của mình",
-      "Đổ lỗi cho người khác",
-      "Chủ động tìm kiếm sự giúp đỡ khi nhận ra vấn đề",
-      "Phủ nhận mọi chuyện"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Yếu tố nào sau đây được xem là quan trọng nhất để giảm thiểu tác hại của ma túy và có cơ hội phục hồi?",
+        "question_options": [
+            "Có thật nhiều tiền",
+            "Giấu kín không cho ai biết",
+            "Nhận diện sớm dấu hiệu và chủ động tìm kiếm sự giúp đỡ",
+            "Chờ đợi vấn đề tự biến mất"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Bạn thân của bạn dạo này hay nghỉ học, trông gầy và mệt mỏi. Bạn nên làm gì?",
+        "question_options": [
+            "Mặc kệ vì đó là chuyện riêng của bạn ấy",
+            "Lắng nghe, quan tâm và tìm cách nói chuyện với người lớn tin cậy (thầy cô, bố mẹ bạn) để giúp đỡ",
+            "Chê bai ngoại hình của bạn ấy",
+            "Rủ bạn ấy đi chơi game để quên đi mệt mỏi"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q10",
+        "question_text": "“Sự tự ý thức và trách nhiệm” được thể hiện qua hành động nào?",
+        "question_options": [
+            "Giấu giếm vấn đề của mình",
+            "Đổ lỗi cho người khác",
+            "Chủ động tìm kiếm sự giúp đỡ khi nhận ra vấn đề",
+            "Phủ nhận mọi chuyện"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    }
 ]

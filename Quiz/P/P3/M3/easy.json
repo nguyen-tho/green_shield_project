@@ -1,84 +1,84 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Luật Xử lý vi phạm hành chính hiện hành được ban hành năm 2012 và được sửa đổi, bổ sung vào năm nào?",
-    "question_options": [
-      "2018",
-      "2019",
-      "2020",
-      "2021"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Nghị định nào sau đây quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy?",
-    "question_options": [
-      "Nghị định 105/2021/NĐ-CP",
-      "Nghị định 144/2021/NĐ-CP",
-      "Nghị định 109/2021/NĐ-CP",
-      "Nghị định 116/2021/NĐ-CP"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q3",
-    "question_text": "Mục tiêu của Chương trình phòng, chống ma túy theo Quyết định 140/QĐ-TTg kéo dài đến năm nào?",
-    "question_options": [
-      "2025",
-      "2030",
-      "2035",
-      "2045"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Mục đích chính của pháp luật hành chính trong lĩnh vực phòng, chống ma túy là gì?",
-    "question_options": [
-      "Xử phạt, thu tiền phạt cho nhà nước",
-      "Xử lý tất cả người liên quan đến ma túy",
-      "Ngăn chặn các hành vi gây mất trật tự, ổn định xã hội",
-      "Giáo dục người phạm tội"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q8",
-    "question_text": "Quyết định 255/QĐ-VKSTC và Pháp lệnh của Tòa án nhân dân đều quy định về cùng một đối tượng: người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Luật Xử lý vi phạm hành chính dùng để làm gì?",
-    "question_options": [
-      "Chỉ để phạt tiền",
-      "Để quy định các hình thức xử phạt và biện pháp xử lý các hành vi vi phạm pháp luật chưa phải là tội phạm",
-      "Để bỏ tù người vi phạm",
-      "Chỉ áp dụng cho người lớn"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Việc tìm hiểu về các văn bản pháp luật này giúp chúng ta điều gì?",
-    "question_options": [
-      "Trở thành luật sư",
-      "Biết rằng mọi hành vi vi phạm liên quan đến ma túy đều có quy định để xử lý, từ đó nâng cao ý thức chấp hành",
-      "Thấy pháp luật thật rắc rối",
-      "Không có tác dụng gì"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Luật Xử lý vi phạm hành chính hiện hành được ban hành năm 2012 và được sửa đổi, bổ sung vào năm nào?",
+        "question_options": [
+            "2018",
+            "2019",
+            "2020",
+            "2021"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Nghị định nào sau đây quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng, chống ma túy?",
+        "question_options": [
+            "Nghị định 105/2021/NĐ-CP",
+            "Nghị định 144/2021/NĐ-CP",
+            "Nghị định 109/2021/NĐ-CP",
+            "Nghị định 116/2021/NĐ-CP"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q3",
+        "question_text": "Mục tiêu của Chương trình phòng, chống ma túy theo Quyết định 140/QĐ-TTg kéo dài đến năm nào?",
+        "question_options": [
+            "2025",
+            "2030",
+            "2035",
+            "2045"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Mục đích chính của pháp luật hành chính trong lĩnh vực phòng, chống ma túy là gì?",
+        "question_options": [
+            "Xử phạt, thu tiền phạt cho nhà nước",
+            "Xử lý tất cả người liên quan đến ma túy",
+            "Ngăn chặn các hành vi gây mất trật tự, ổn định xã hội",
+            "Giáo dục người phạm tội"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q8",
+        "question_text": "Quyết định 255/QĐ-VKSTC và Pháp lệnh của Tòa án nhân dân đều quy định về cùng một đối tượng: người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Luật Xử lý vi phạm hành chính dùng để làm gì?",
+        "question_options": [
+            "Chỉ để phạt tiền",
+            "Để quy định các hình thức xử phạt và biện pháp xử lý các hành vi vi phạm pháp luật chưa phải là tội phạm",
+            "Để bỏ tù người vi phạm",
+            "Chỉ áp dụng cho người lớn"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Việc tìm hiểu về các văn bản pháp luật này giúp chúng ta điều gì?",
+        "question_options": [
+            "Trở thành luật sư",
+            "Biết rằng mọi hành vi vi phạm liên quan đến ma túy đều có quy định để xử lý, từ đó nâng cao ý thức chấp hành",
+            "Thấy pháp luật thật rắc rối",
+            "Không có tác dụng gì"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    }
 ]

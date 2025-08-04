@@ -1,38 +1,38 @@
 [
-  {
-    "question_id": "q8",
-    "question_text": "Lực lượng nào sau đây KHÔNG thuộc cơ quan chuyên trách phòng, chống tội phạm về ma túy của Việt Nam?",
-    "question_options": [
-      "Công an nhân dân",
-      "Bộ đội Biên phòng",
-      "Cảnh sát biển",
-      "Dân quân tự vệ"
-    ],
-    "answer": 4,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q13",
-    "question_text": "Theo Luật, trách nhiệm phòng, chống ma túy thuộc về ai?",
-    "question_options": [
-      "Chỉ thuộc về Công an",
-      "Chỉ thuộc về cá nhân và gia đình",
-      "Là trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức và toàn xã hội",
-      "Chỉ thuộc về nhà trường"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q15",
-    "question_text": "Việc bổ sung quy định cấm “kỳ thị” người cai nghiện trong luật mới thể hiện điều gì?",
-    "question_options": [
-      "Sự nghiêm khắc của pháp luật",
-      "Tính nhân văn, nhằm bảo vệ quyền con người và giúp họ tái hòa nhập",
-      "Sự phức tạp của tội phạm ma túy",
-      "Yêu cầu của các tổ chức quốc tế"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "q8",
+        "question_text": "Lực lượng nào sau đây KHÔNG thuộc cơ quan chuyên trách phòng, chống tội phạm về ma túy của Việt Nam?",
+        "question_options": [
+            "Công an nhân dân",
+            "Bộ đội Biên phòng",
+            "Cảnh sát biển",
+            "Dân quân tự vệ"
+        ],
+        "answer": 4,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q13",
+        "question_text": "Theo Luật, trách nhiệm phòng, chống ma túy thuộc về ai?",
+        "question_options": [
+            "Chỉ thuộc về Công an",
+            "Chỉ thuộc về cá nhân và gia đình",
+            "Là trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức và toàn xã hội",
+            "Chỉ thuộc về nhà trường"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q15",
+        "question_text": "Việc bổ sung quy định cấm “kỳ thị” người cai nghiện trong luật mới thể hiện điều gì?",
+        "question_options": [
+            "Sự nghiêm khắc của pháp luật",
+            "Tính nhân văn, nhằm bảo vệ quyền con người và giúp họ tái hòa nhập",
+            "Sự phức tạp của tội phạm ma túy",
+            "Yêu cầu của các tổ chức quốc tế"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    }
 ]

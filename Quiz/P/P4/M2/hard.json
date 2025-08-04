@@ -1,50 +1,50 @@
 [
-  {
-    "question_id": "q9",
-    "question_text": "Khi một người trẻ nói rằng họ dùng ma túy vì muốn tỏ ra độc lập, muốn thuộc về một nhóm nào đó, đây là nguyên nhân xuất phát từ...?",
-    "question_options": [
-      "Gia đình",
-      "Xã hội",
-      "Chính suy nghĩ và tâm lý của bản thân người đó",
-      "Bạn bè ép buộc"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q11",
-    "question_text": "Khi một người trẻ nói rằng họ dùng ma túy vì muốn tỏ ra độc lập, muốn thuộc về một nhóm nào đó, đây là nguyên nhân xuất phát từ...?",
-    "question_options": [
-      "Gia đình",
-      "Xã hội",
-      "Chính suy nghĩ và tâm lý của bản thân người đó",
-      "Bạn bè ép buộc"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q12",
-    "question_text": "Đặc điểm tâm lý nào của lứa tuổi trẻ khiến họ đặc biệt nhạy cảm với những thứ được cho là mới lạ, khác biệt?",
-    "question_options": [
-      "Sự trưởng thành và chín chắn trong suy nghĩ",
-      "Tính bảo thủ, ngại thay đổi",
-      "Suy nghĩ còn non nớt và tâm lý tò mò, khám phá",
-      "Khả năng tự chủ cao"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q15",
-    "question_text": "Giải pháp nào được coi là nền tảng để ngăn chặn thành viên trong gia đình nghiện ma túy?",
-    "question_options": [
-      "Cho con cái thật nhiều tiền",
-      "Kiểm soát mọi hoạt động của con cái",
-      "Xây dựng một gia đình hạnh phúc, mọi thành viên yêu thương, chăm sóc nhau",
-      "Chuyển đến một nơi khác sinh sống"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "q9",
+        "question_text": "Khi một người trẻ nói rằng họ dùng ma túy vì muốn tỏ ra độc lập, muốn thuộc về một nhóm nào đó, đây là nguyên nhân xuất phát từ...?",
+        "question_options": [
+            "Gia đình",
+            "Xã hội",
+            "Chính suy nghĩ và tâm lý của bản thân người đó",
+            "Bạn bè ép buộc"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q11",
+        "question_text": "Khi một người trẻ nói rằng họ dùng ma túy vì muốn tỏ ra độc lập, muốn thuộc về một nhóm nào đó, đây là nguyên nhân xuất phát từ...?",
+        "question_options": [
+            "Gia đình",
+            "Xã hội",
+            "Chính suy nghĩ và tâm lý của bản thân người đó",
+            "Bạn bè ép buộc"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q12",
+        "question_text": "Đặc điểm tâm lý nào của lứa tuổi trẻ khiến họ đặc biệt nhạy cảm với những thứ được cho là mới lạ, khác biệt?",
+        "question_options": [
+            "Sự trưởng thành và chín chắn trong suy nghĩ",
+            "Tính bảo thủ, ngại thay đổi",
+            "Suy nghĩ còn non nớt và tâm lý tò mò, khám phá",
+            "Khả năng tự chủ cao"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q15",
+        "question_text": "Giải pháp nào được coi là nền tảng để ngăn chặn thành viên trong gia đình nghiện ma túy?",
+        "question_options": [
+            "Cho con cái thật nhiều tiền",
+            "Kiểm soát mọi hoạt động của con cái",
+            "Xây dựng một gia đình hạnh phúc, mọi thành viên yêu thương, chăm sóc nhau",
+            "Chuyển đến một nơi khác sinh sống"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    }
 ]

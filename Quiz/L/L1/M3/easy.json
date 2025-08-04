@@ -1,89 +1,89 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Ma túy “trà sữa” thường có dạng gì và mùi gì để ngụy trang?",
-    "question_options": [
-      "Dạng lỏng, mùi trà xanh",
-      "Dạng bột, mùi hương sữa",
-      "Dạng kẹo, mùi trái cây",
-      "Dạng lá khô, mùi thảo mộc"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Thành phần chính của ma túy “trà sữa” là ma túy “đá”, nên nó cũng gây hại y như ma túy “đá”. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q3",
-    "question_text": "Ma túy “Nước vui” thường được đựng trong các lọ nhỏ khoảng bao nhiêu ml?",
-    "question_options": [
-      "Lọ 500ml như chai nước suối",
-      "Lọ 10-15ml rất nhỏ",
-      "Lọ 100ml",
-      "Không có dạng lỏng"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q5",
-    "question_text": "“Bánh lười” có tẩm cần sa thường có mùi rất khó chịu. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Thuốc lá điện tử hay Vape hiện đã được phép bán chính thức ở Việt Nam chưa?",
-    "question_options": [
-      "Bán ở mọi nơi",
-      "Bị cấm lưu hành tại Việt Nam",
-      "Chỉ bán cho người trên 21 tuổi",
-      "Chỉ bán ở các cửa hàng chuyên dụng"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Hợp chất hóa học có trong “Bóng cười” là gì?",
-    "question_options": [
-      "Oxy (O2)",
-      "Carbon Dioxit (CO2)",
-      "Nitơ Oxit (N2O)",
-      "Hydro (H2)"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q13",
-    "question_text": "Thành phần chính của Shisha là gì?",
-    "question_options": [
-      "Ma túy tổng hợp",
-      "Cần sa",
-      "Lá cây, mật ong, rễ cây tẩm hương liệu",
-      "Thuốc phiện"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Ma túy “trà sữa” thường có dạng gì và mùi gì để ngụy trang?",
+        "question_options": [
+            "Dạng lỏng, mùi trà xanh",
+            "Dạng bột, mùi hương sữa",
+            "Dạng kẹo, mùi trái cây",
+            "Dạng lá khô, mùi thảo mộc"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Thành phần chính của ma túy “trà sữa” là ma túy “đá”, nên nó cũng gây hại y như ma túy “đá”. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q3",
+        "question_text": "Ma túy “Nước vui” thường được đựng trong các lọ nhỏ khoảng bao nhiêu ml?",
+        "question_options": [
+            "Lọ 500ml như chai nước suối",
+            "Lọ 10-15ml rất nhỏ",
+            "Lọ 100ml",
+            "Không có dạng lỏng"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q5",
+        "question_text": "“Bánh lười” có tẩm cần sa thường có mùi rất khó chịu. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Thuốc lá điện tử hay Vape hiện đã được phép bán chính thức ở Việt Nam chưa?",
+        "question_options": [
+            "Bán ở mọi nơi",
+            "Bị cấm lưu hành tại Việt Nam",
+            "Chỉ bán cho người trên 21 tuổi",
+            "Chỉ bán ở các cửa hàng chuyên dụng"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Hợp chất hóa học có trong “Bóng cười” là gì?",
+        "question_options": [
+            "Oxy (O2)",
+            "Carbon Dioxit (CO2)",
+            "Nitơ Oxit (N2O)",
+            "Hydro (H2)"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q13",
+        "question_text": "Thành phần chính của Shisha là gì?",
+        "question_options": [
+            "Ma túy tổng hợp",
+            "Cần sa",
+            "Lá cây, mật ong, rễ cây tẩm hương liệu",
+            "Thuốc phiện"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    }
 ]

@@ -1,93 +1,93 @@
 [
-  {
-    "question_id": "q9",
-    "question_text": "Nếu một người sử dụng chất gì đó và nhìn thấy những thứ không có thật, họ có thể đã dùng chất thuộc nhóm nào?",
-    "question_options": [
-      "Nhóm gây ảo giác",
-      "Nhóm gây an thần",
-      "Nhóm gây kích thích",
-      "Nhóm gây ngủ"
-    ],
-    "answer": 0,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q11",
-    "question_text": "“Tiền chất thiết yếu” là loại hóa chất có đặc điểm gì quan trọng?",
-    "question_options": [
-      "Chỉ làm phản ứng nhanh hơn",
-      "Có thể có hoặc không cũng được",
-      "Không thể thiếu và thành phần của nó nằm trong cấu trúc ma túy mới",
-      "Rất hiếm và đắt tiền"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q14",
-    "question_text": "Ma túy tổng hợp và bán tổng hợp thường được gọi chung là gì?",
-    "question_options": [
-      "Ma túy hạng nặng",
-      "Ma túy tổng hợp",
-      "Ma túy hóa học",
-      "Ma túy nhân tạo"
-    ],
-    "answer": 1,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q15",
-    "question_text": "Tiền chất cơ bản có vai trò gì?",
-    "question_options": [
-      "Là thành phần chính của ma túy",
-      "Giúp xúc tác, thúc đẩy phản ứng hoặc tạo môi trường",
-      "Làm cho ma túy có mùi thơm",
-      "Hoàn toàn vô hại"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q17",
-    "question_text": "Dựa vào đâu mà người ta phân loại ma túy thành các nhóm gây kích thích, gây ảo giác, gây ngủ...?",
-    "question_options": [
-      "Dựa vào màu sắc của chúng",
-      "Dựa vào tác dụng của chúng đối với tâm sinh lý con người",
-      "Dựa vào giá tiền của chúng",
-      "Dựa vào nguồn gốc của chúng"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q19",
-    "question_text": "Khi phân loại theo mức độ nguy hiểm, Heroin và Cocaine được xếp vào nhóm nào?",
-    "question_options": [
-      "Hiệu lực thấp",
-      "Hiệu lực trung bình",
-      "Hiệu lực cao",
-      "Không nguy hiểm"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q20",
-    "question_text": "Loại ma túy nào sau đây có tác dụng chính là gây cảm giác êm dịu, đê mê?",
-    "question_options": [
-      "Ecstasy (Thuốc lắc)",
-      "Cocaine",
-      "Thuốc phiện",
-      "LSD (Tem giấy)"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  }
+    {
+        "question_id": "q9",
+        "question_text": "Nếu một người sử dụng chất gì đó và nhìn thấy những thứ không có thật, họ có thể đã dùng chất thuộc nhóm nào?",
+        "question_options": [
+            "Nhóm gây ảo giác",
+            "Nhóm gây an thần",
+            "Nhóm gây kích thích",
+            "Nhóm gây ngủ"
+        ],
+        "answer": 0,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q11",
+        "question_text": "“Tiền chất thiết yếu” là loại hóa chất có đặc điểm gì quan trọng?",
+        "question_options": [
+            "Chỉ làm phản ứng nhanh hơn",
+            "Có thể có hoặc không cũng được",
+            "Không thể thiếu và thành phần của nó nằm trong cấu trúc ma túy mới",
+            "Rất hiếm và đắt tiền"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q14",
+        "question_text": "Ma túy tổng hợp và bán tổng hợp thường được gọi chung là gì?",
+        "question_options": [
+            "Ma túy hạng nặng",
+            "Ma túy tổng hợp",
+            "Ma túy hóa học",
+            "Ma túy nhân tạo"
+        ],
+        "answer": 1,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q15",
+        "question_text": "Tiền chất cơ bản có vai trò gì?",
+        "question_options": [
+            "Là thành phần chính của ma túy",
+            "Giúp xúc tác, thúc đẩy phản ứng hoặc tạo môi trường",
+            "Làm cho ma túy có mùi thơm",
+            "Hoàn toàn vô hại"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q17",
+        "question_text": "Dựa vào đâu mà người ta phân loại ma túy thành các nhóm gây kích thích, gây ảo giác, gây ngủ...?",
+        "question_options": [
+            "Dựa vào màu sắc của chúng",
+            "Dựa vào tác dụng của chúng đối với tâm sinh lý con người",
+            "Dựa vào giá tiền của chúng",
+            "Dựa vào nguồn gốc của chúng"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q19",
+        "question_text": "Khi phân loại theo mức độ nguy hiểm, Heroin và Cocaine được xếp vào nhóm nào?",
+        "question_options": [
+            "Hiệu lực thấp",
+            "Hiệu lực trung bình",
+            "Hiệu lực cao",
+            "Không nguy hiểm"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q20",
+        "question_text": "Loại ma túy nào sau đây có tác dụng chính là gây cảm giác êm dịu, đê mê?",
+        "question_options": [
+            "Ecstasy (Thuốc lắc)",
+            "Cocaine",
+            "Thuốc phiện",
+            "LSD (Tem giấy)"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    }
 ]

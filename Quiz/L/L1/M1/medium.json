@@ -1,78 +1,78 @@
 [
-  {
-    "question_id": "q4",
-    "question_text": "Dựa theo nguồn gốc sản xuất ra các chất ma túy, Heroin thuộc nhóm nào sau đây?",
-    "question_options": [
-      "Ma túy tự nhiên",
-      "Ma túy bán tổng hợp",
-      "Ma túy tổng hợp toàn phần",
-      "Ma túy thảo dược"
-    ],
-    "answer": 2,
-    "difficulty": "medium",
-    "score": 20
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma túy bán tổng hợp. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "medium",
-    "score": 20
-  },
-  {
-    "question_id": "q8",
-    "question_text": "Cocaine được xếp vào nhóm gây ra tác dụng chính nào?",
-    "question_options": [
-      "Gây cảm giác êm dịu, đê mê",
-      "Gây kích thích",
-      "Gây ảo giác",
-      "Gây ngủ"
-    ],
-    "answer": 2,
-    "difficulty": "medium",
-    "score": 20
-  },
-  {
-    "question_id": "q20",
-    "question_text": "Các loại thuốc an thần như Diazepam thuộc nhóm ma túy có hiệu lực thế nào?",
-    "question_options": [
-      "Hiệu lực cao",
-      "Hiệu lực thấp",
-      "Hiệu lực cực mạnh",
-      "Không có hiệu lực"
-    ],
-    "answer": 2,
-    "difficulty": "medium",
-    "score": 20
-  },
-  {
-    "question_id": "q12",
-    "question_text": "Chất nào dưới đây có nguồn gốc hoàn toàn tự nhiên?",
-    "question_options": [
-      "Heroin",
-      "Methamphetamine",
-      "Cocaine",
-      "LSD"
-    ],
-    "answer": 3,
-    "difficulty": "medium",
-    "score": 20
-  },
-  {
-    "question_id": "q16",
-    "question_text": "Ma túy gây cảm giác êm dịu, đê mê thường là sản phẩm của cây gì?",
-    "question_options": [
-      "Cây coca",
-      "Cây cần sa",
-      "Cây thuốc phiện",
-      "Cây nấm"
-    ],
-    "answer": 3,
-    "difficulty": "medium",
-    "score": 20
-  }
+    {
+        "question_id": "q4",
+        "question_text": "Dựa theo nguồn gốc sản xuất ra các chất ma túy, Heroin thuộc nhóm nào sau đây?",
+        "question_options": [
+            "Ma túy tự nhiên",
+            "Ma túy bán tổng hợp",
+            "Ma túy tổng hợp toàn phần",
+            "Ma túy thảo dược"
+        ],
+        "answer": 2,
+        "difficulty": "medium",
+        "score": 20
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Ma túy tổng hợp toàn phần có tác dụng nhanh và mạnh hơn ma túy bán tổng hợp. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "medium",
+        "score": 20
+    },
+    {
+        "question_id": "q8",
+        "question_text": "Cocaine được xếp vào nhóm gây ra tác dụng chính nào?",
+        "question_options": [
+            "Gây cảm giác êm dịu, đê mê",
+            "Gây kích thích",
+            "Gây ảo giác",
+            "Gây ngủ"
+        ],
+        "answer": 2,
+        "difficulty": "medium",
+        "score": 20
+    },
+    {
+        "question_id": "q20",
+        "question_text": "Các loại thuốc an thần như Diazepam thuộc nhóm ma túy có hiệu lực thế nào?",
+        "question_options": [
+            "Hiệu lực cao",
+            "Hiệu lực thấp",
+            "Hiệu lực cực mạnh",
+            "Không có hiệu lực"
+        ],
+        "answer": 2,
+        "difficulty": "medium",
+        "score": 20
+    },
+    {
+        "question_id": "q12",
+        "question_text": "Chất nào dưới đây có nguồn gốc hoàn toàn tự nhiên?",
+        "question_options": [
+            "Heroin",
+            "Methamphetamine",
+            "Cocaine",
+            "LSD"
+        ],
+        "answer": 3,
+        "difficulty": "medium",
+        "score": 20
+    },
+    {
+        "question_id": "q16",
+        "question_text": "Ma túy gây cảm giác êm dịu, đê mê thường là sản phẩm của cây gì?",
+        "question_options": [
+            "Cây coca",
+            "Cây cần sa",
+            "Cây thuốc phiện",
+            "Cây nấm"
+        ],
+        "answer": 3,
+        "difficulty": "medium",
+        "score": 20
+    }
 ]

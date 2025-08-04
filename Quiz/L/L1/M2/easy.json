@@ -1,76 +1,76 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Nhựa thuốc phiện được lấy từ bộ phận nào của cây thuốc phiện?",
-    "question_options": [
-      "Từ rễ cây",
-      "Từ lá cây",
-      "Từ quả chưa chín",
-      "Từ hoa"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Chất Morphine chiếm hàm lượng nhiều nhất trong nhựa cây thuốc phiện. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q4",
-    "question_text": "Heroin còn có tên gọi khác rất phổ biến là gì?",
-    "question_options": [
-      "Hàng đá",
-      "Bạch phiến (hàng trắng)",
-      "Cỏ Mỹ",
-      "Kẹo"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Cây cần sa còn có tên gọi nào khác?",
-    "question_options": [
-      "Cây phù dung",
-      "Cây anh túc",
-      "Cây bồ đà",
-      "Cây ma hoàng"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Sử dụng cần sa liều cao có thể gây ra ảo giác và hoang tưởng. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Hoạt chất Cocaine được chiết xuất từ lá của cây gì?",
-    "question_options": [
-      "Cây thuốc phiện",
-      "Cây cần sa",
-      "Cây coca",
-      "Cây ma hoàng"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Nhựa thuốc phiện được lấy từ bộ phận nào của cây thuốc phiện?",
+        "question_options": [
+            "Từ rễ cây",
+            "Từ lá cây",
+            "Từ quả chưa chín",
+            "Từ hoa"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Chất Morphine chiếm hàm lượng nhiều nhất trong nhựa cây thuốc phiện. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q4",
+        "question_text": "Heroin còn có tên gọi khác rất phổ biến là gì?",
+        "question_options": [
+            "Hàng đá",
+            "Bạch phiến (hàng trắng)",
+            "Cỏ Mỹ",
+            "Kẹo"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Cây cần sa còn có tên gọi nào khác?",
+        "question_options": [
+            "Cây phù dung",
+            "Cây anh túc",
+            "Cây bồ đà",
+            "Cây ma hoàng"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Sử dụng cần sa liều cao có thể gây ra ảo giác và hoang tưởng. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Hoạt chất Cocaine được chiết xuất từ lá của cây gì?",
+        "question_options": [
+            "Cây thuốc phiện",
+            "Cây cần sa",
+            "Cây coca",
+            "Cây ma hoàng"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    }
 ]

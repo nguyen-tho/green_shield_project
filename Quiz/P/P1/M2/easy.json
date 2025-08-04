@@ -1,86 +1,86 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Trong 5 hoạt chất cơ bản của nhựa thuốc phiện, chất nào chiếm hàm lượng cao nhất, trung bình khoảng 10%?",
-    "question_options": [
-      "Codeine",
-      "Thebain",
-      "Narcotine",
-      "Morphine"
-    ],
-    "answer": 4,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Thuốc phiện y tế khác với thuốc phiện sống chủ yếu ở điểm nào?",
-    "question_options": [
-      "Có màu sắc khác nhau",
-      "Đã qua quá trình chiết suất, sấy khô và có hàm lượng morphine được kiểm soát (9,5-10%)",
-      "Được trồng ở khu vực khác",
-      "Chỉ dùng để hút, không dùng làm thuốc"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q3",
-    "question_text": "Heroin là một chất bán tổng hợp, được tạo thành từ phản ứng giữa Morphine và hóa chất nào?",
-    "question_options": [
-      "Sulfuric acid",
-      "Acetone",
-      "Anhydric axetic (Acetic anhydride)",
-      "Hydrochloric acid"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Ketamine thường được sử dụng phổ biến nhất bằng cách nào?",
-    "question_options": [
-      "Uống",
-      "Hút",
-      "Tiêm",
-      "Hít hoặc ngậm dưới lưỡi"
-    ],
-    "answer": 4,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Việc người nghiện các loại thuốc ngủ như Methaqualone có biểu hiện nói líu nhíu, đi loạng choạng tương tự như người say rượu là do tác động của chất này lên đâu?",
-    "question_options": [
-      "Hệ tim mạch",
-      "Hệ hô hấp",
-      "Hệ thần kinh trung ương",
-      "Hệ tiêu hóa"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q11",
-    "question_text": "Tên khoa học của cây cần sa là gì?",
-    "question_options": [
-      "Papaversomniferum-L",
-      "Canabis-Sativa L.",
-      "Erythroxylum coca",
-      "Lophophora williamsii"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q15",
-    "question_text": "Ở Việt Nam, cây thuốc phiện thường được trồng nhiều ở đâu?",
-    "question_options": [
-      "Đồng bằng sông Cửu Long",
-      "Duyên hải miền Trung",
-      "Các tỉnh miền núi phía Bắc và bắc miền Trung",
-      "Các đảo ngoài khơi"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Trong 5 hoạt chất cơ bản của nhựa thuốc phiện, chất nào chiếm hàm lượng cao nhất, trung bình khoảng 10%?",
+        "question_options": [
+            "Codeine",
+            "Thebain",
+            "Narcotine",
+            "Morphine"
+        ],
+        "answer": 4,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Thuốc phiện y tế khác với thuốc phiện sống chủ yếu ở điểm nào?",
+        "question_options": [
+            "Có màu sắc khác nhau",
+            "Đã qua quá trình chiết suất, sấy khô và có hàm lượng morphine được kiểm soát (9,5-10%)",
+            "Được trồng ở khu vực khác",
+            "Chỉ dùng để hút, không dùng làm thuốc"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q3",
+        "question_text": "Heroin là một chất bán tổng hợp, được tạo thành từ phản ứng giữa Morphine và hóa chất nào?",
+        "question_options": [
+            "Sulfuric acid",
+            "Acetone",
+            "Anhydric axetic (Acetic anhydride)",
+            "Hydrochloric acid"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Ketamine thường được sử dụng phổ biến nhất bằng cách nào?",
+        "question_options": [
+            "Uống",
+            "Hút",
+            "Tiêm",
+            "Hít hoặc ngậm dưới lưỡi"
+        ],
+        "answer": 4,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Việc người nghiện các loại thuốc ngủ như Methaqualone có biểu hiện nói líu nhíu, đi loạng choạng tương tự như người say rượu là do tác động của chất này lên đâu?",
+        "question_options": [
+            "Hệ tim mạch",
+            "Hệ hô hấp",
+            "Hệ thần kinh trung ương",
+            "Hệ tiêu hóa"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q11",
+        "question_text": "Tên khoa học của cây cần sa là gì?",
+        "question_options": [
+            "Papaversomniferum-L",
+            "Canabis-Sativa L.",
+            "Erythroxylum coca",
+            "Lophophora williamsii"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q15",
+        "question_text": "Ở Việt Nam, cây thuốc phiện thường được trồng nhiều ở đâu?",
+        "question_options": [
+            "Đồng bằng sông Cửu Long",
+            "Duyên hải miền Trung",
+            "Các tỉnh miền núi phía Bắc và bắc miền Trung",
+            "Các đảo ngoài khơi"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    }
 ]

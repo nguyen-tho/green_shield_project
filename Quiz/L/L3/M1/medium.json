@@ -1,84 +1,84 @@
 [
-  {
-    "question_id": "q4",
-    "question_text": "Luật Phòng, chống ma túy năm 2021 đã bổ sung thêm chương nào để quản lý chặt chẽ hơn?",
-    "question_options": [
-      "Chương về khen thưởng",
-      "Chương về hợp tác quốc tế",
-      "Chương “Quản lý người sử dụng trái phép chất ma túy”",
-      "Chương về các loại ma túy mới"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Theo luật, việc xét nghiệm chất ma túy trong cơ thể có thể được thực hiện qua mẫu nào sau đây?",
-    "question_options": [
-      "Chỉ qua mẫu máu",
-      "Chỉ qua mẫu nước tiểu",
-      "Qua mẫu máu, nước tiểu hoặc các mẫu vật khác của cơ thể",
-      "Chỉ qua mẫu tóc"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Chính sách của Nhà nước ta sẽ ưu tiên nguồn lực phòng, chống ma túy cho những vùng nào?",
-    "question_options": [
-      "Các thành phố lớn, đông dân cư",
-      "Vùng đồng bào dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới",
-      "Các khu công nghiệp",
-      "Các địa điểm du lịch"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Khi một người bị phát hiện sử dụng trái phép chất ma túy lần đầu, thời hạn quản lý tại địa phương đối với người đó là bao lâu?",
-    "question_options": [
-      "6 tháng",
-      "1 năm",
-      "2 năm",
-      "Vĩnh viễn"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Người sử dụng trái phép chất ma túy có trách nhiệm gì với cơ quan chức năng?",
-    "question_options": [
-      "Không cần cung cấp thông tin gì",
-      "Cung cấp đầy đủ, chính xác thông tin về hành vi sử dụng của mình",
-      "Chỉ cung cấp thông tin khi bị bắt buộc",
-      "Có thể cung cấp thông tin sai sự thật"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q11",
-    "question_text": "Người đã hoàn thành cai nghiện ma túy sẽ phải chịu sự quản lý nào sau đó?",
-    "question_options": [
-      "Không cần quản lý gì thêm",
-      "Phải chịu sự quản lý sau cai nghiện tại nơi cư trú",
-      "Phải đi nghĩa vụ quân sự ngay",
-      "Bị cấm ra khỏi địa phương"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q12",
-    "question_text": "Nhà nước chỉ hỗ trợ kinh phí cho việc cai nghiện bắt buộc, không hỗ trợ cai nghiện tự nguyện.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "q4",
+        "question_text": "Luật Phòng, chống ma túy năm 2021 đã bổ sung thêm chương nào để quản lý chặt chẽ hơn?",
+        "question_options": [
+            "Chương về khen thưởng",
+            "Chương về hợp tác quốc tế",
+            "Chương “Quản lý người sử dụng trái phép chất ma túy”",
+            "Chương về các loại ma túy mới"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Theo luật, việc xét nghiệm chất ma túy trong cơ thể có thể được thực hiện qua mẫu nào sau đây?",
+        "question_options": [
+            "Chỉ qua mẫu máu",
+            "Chỉ qua mẫu nước tiểu",
+            "Qua mẫu máu, nước tiểu hoặc các mẫu vật khác của cơ thể",
+            "Chỉ qua mẫu tóc"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Chính sách của Nhà nước ta sẽ ưu tiên nguồn lực phòng, chống ma túy cho những vùng nào?",
+        "question_options": [
+            "Các thành phố lớn, đông dân cư",
+            "Vùng đồng bào dân tộc thiểu số, miền núi, vùng sâu, vùng xa, biên giới",
+            "Các khu công nghiệp",
+            "Các địa điểm du lịch"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Khi một người bị phát hiện sử dụng trái phép chất ma túy lần đầu, thời hạn quản lý tại địa phương đối với người đó là bao lâu?",
+        "question_options": [
+            "6 tháng",
+            "1 năm",
+            "2 năm",
+            "Vĩnh viễn"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Người sử dụng trái phép chất ma túy có trách nhiệm gì với cơ quan chức năng?",
+        "question_options": [
+            "Không cần cung cấp thông tin gì",
+            "Cung cấp đầy đủ, chính xác thông tin về hành vi sử dụng của mình",
+            "Chỉ cung cấp thông tin khi bị bắt buộc",
+            "Có thể cung cấp thông tin sai sự thật"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q11",
+        "question_text": "Người đã hoàn thành cai nghiện ma túy sẽ phải chịu sự quản lý nào sau đó?",
+        "question_options": [
+            "Không cần quản lý gì thêm",
+            "Phải chịu sự quản lý sau cai nghiện tại nơi cư trú",
+            "Phải đi nghĩa vụ quân sự ngay",
+            "Bị cấm ra khỏi địa phương"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q12",
+        "question_text": "Nhà nước chỉ hỗ trợ kinh phí cho việc cai nghiện bắt buộc, không hỗ trợ cai nghiện tự nguyện.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    }
 ]

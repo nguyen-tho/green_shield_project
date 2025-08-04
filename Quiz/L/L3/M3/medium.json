@@ -1,60 +1,60 @@
 [
-  {
-    "question_id": "q4",
-    "question_text": "Để xác định một người có bị nghiện ma túy hay không, các cơ quan chức năng phải tuân theo tiêu chuẩn chẩn đoán và quy trình chuyên môn do cơ quan nào ban hành?",
-    "question_options": [
-      "Chính phủ",
-      "Bộ Công an",
-      "Bộ Y tế",
-      "Tòa án Nhân dân Tối cao"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Thủ tướng Chính phủ đã ban hành một Quyết định về Chương trình phòng, chống ma túy đặc biệt dành cho đối tượng nào?",
-    "question_options": [
-      "Người cao tuổi",
-      "Cán bộ, công chức",
-      "Thanh, thiếu niên",
-      "Người lao động tại các khu công nghiệp"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Việc đưa một bạn từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc phải được cơ quan nào xem xét, quyết định?",
-    "question_options": [
-      "Công an phường",
-      "Ủy ban Nhân dân quận",
-      "Viện kiểm sát",
-      "Tòa án Nhân dân"
-    ],
-    "answer": 4,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q8",
-    "question_text": "Việc xác định tình trạng nghiện ma túy có thể được thực hiện ở bất kỳ bệnh viện nào.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Mục đích chính của pháp luật hành chính trong lĩnh vực phòng, chống ma túy là gì?",
-    "question_options": [
-      "Xử phạt, thu tiền phạt cho nhà nước",
-      "Xử lý tất cả người liên quan đến ma túy",
-      "Ngăn chặn các hành vi gây mất trật tự, ổn định xã hội",
-      "Giáo dục người phạm tội"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "q4",
+        "question_text": "Để xác định một người có bị nghiện ma túy hay không, các cơ quan chức năng phải tuân theo tiêu chuẩn chẩn đoán và quy trình chuyên môn do cơ quan nào ban hành?",
+        "question_options": [
+            "Chính phủ",
+            "Bộ Công an",
+            "Bộ Y tế",
+            "Tòa án Nhân dân Tối cao"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Thủ tướng Chính phủ đã ban hành một Quyết định về Chương trình phòng, chống ma túy đặc biệt dành cho đối tượng nào?",
+        "question_options": [
+            "Người cao tuổi",
+            "Cán bộ, công chức",
+            "Thanh, thiếu niên",
+            "Người lao động tại các khu công nghiệp"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Việc đưa một bạn từ đủ 12 tuổi đến dưới 18 tuổi vào cơ sở cai nghiện bắt buộc phải được cơ quan nào xem xét, quyết định?",
+        "question_options": [
+            "Công an phường",
+            "Ủy ban Nhân dân quận",
+            "Viện kiểm sát",
+            "Tòa án Nhân dân"
+        ],
+        "answer": 4,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q8",
+        "question_text": "Việc xác định tình trạng nghiện ma túy có thể được thực hiện ở bất kỳ bệnh viện nào.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Mục đích chính của pháp luật hành chính trong lĩnh vực phòng, chống ma túy là gì?",
+        "question_options": [
+            "Xử phạt, thu tiền phạt cho nhà nước",
+            "Xử lý tất cả người liên quan đến ma túy",
+            "Ngăn chặn các hành vi gây mất trật tự, ổn định xã hội",
+            "Giáo dục người phạm tội"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    }
 ]

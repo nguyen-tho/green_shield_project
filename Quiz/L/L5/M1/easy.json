@@ -1,46 +1,46 @@
 [
-  {
-    "question_id": "q4",
-    "question_text": "Cảm giác mệt mỏi, sụt cân, lo lắng, trầm cảm có thể là dấu hiệu cho thấy sức khỏe đang suy giảm do ma túy.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Cảm giác bồn chồn, khó chịu và luôn nghĩ về ma túy khi không có nó được gọi là gì?",
-    "question_options": [
-      "Cảm giác đói bụng",
-      "Cảm giác thèm nhớ mãnh liệt",
-      "Cảm giác vui vẻ",
-      "Cảm giác bình thường"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Biểu hiện vật vã, cáu gắt, mệt mỏi khi không có ma túy được gọi là gì?",
-    "question_options": [
-      "Hội chứng cai",
-      "Hội chứng mệt mỏi",
-      "Dấu hiệu của việc học quá nhiều",
-      "Dấu hiệu của việc thiếu ngủ"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q8",
-    "question_text": "Việc tìm kiếm sự giúp đỡ khi gặp vấn đề với ma túy là một biểu hiện của sự yếu đuối.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q4",
+        "question_text": "Cảm giác mệt mỏi, sụt cân, lo lắng, trầm cảm có thể là dấu hiệu cho thấy sức khỏe đang suy giảm do ma túy.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Cảm giác bồn chồn, khó chịu và luôn nghĩ về ma túy khi không có nó được gọi là gì?",
+        "question_options": [
+            "Cảm giác đói bụng",
+            "Cảm giác thèm nhớ mãnh liệt",
+            "Cảm giác vui vẻ",
+            "Cảm giác bình thường"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Biểu hiện vật vã, cáu gắt, mệt mỏi khi không có ma túy được gọi là gì?",
+        "question_options": [
+            "Hội chứng cai",
+            "Hội chứng mệt mỏi",
+            "Dấu hiệu của việc học quá nhiều",
+            "Dấu hiệu của việc thiếu ngủ"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q8",
+        "question_text": "Việc tìm kiếm sự giúp đỡ khi gặp vấn đề với ma túy là một biểu hiện của sự yếu đuối.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    }
 ]

@@ -1,62 +1,62 @@
 [
-  {
-    "question_id": "medium_1",
-    "question_text": "Con cái có bố hoặc mẹ nghiện ma túy thường phải đối mặt với nguy cơ nào?",
-    "question_options": [
-      "Được chăm sóc tốt hơn do gia đình quan tâm đặc biệt",
-      "Thiếu sự chăm sóc, bị bỏ bê, dễ bị lạm dụng và có nguy cơ nghiện ngập theo",
-      "Có môi trường sống ổn định hơn",
-      "Phát triển tâm lý bình thường như những đứa trẻ khác"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_2",
-    "question_text": "Tác động chính của người nghiện ma túy lên gia đình là gì, đặc biệt khi họ là trụ cột?",
-    "question_options": [
-      "Mang lại nguồn thu nhập ổn định hơn cho gia đình",
-      "Gây ra gánh nặng kinh tế, phá vỡ cấu trúc gia đình, tạo ra mâu thuẫn và bạo lực",
-      "Gia đình trở nên gắn kết hơn để giúp đỡ người nghiện",
-      "Không có tác động đáng kể nào nếu họ vẫn có việc làm"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_3",
-    "question_text": "Tại sao các nhà đầu tư nước ngoài lại ngại đầu tư vào những nước có tỷ lệ người nghiện cao?",
-    "question_options": [
-      "Vì họ không thích văn hóa của những nước đó",
-      "Vì lo ngại về an ninh xã hội, suy giảm năng suất lao động và môi trường kinh doanh không ổn định",
-      "Vì giá nhân công ở đó quá cao",
-      "Vì thị trường tiêu thụ không đủ lớn"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_4",
-    "question_text": "Việc suy giảm lực lượng lao động do nghiện ma túy ảnh hưởng trực tiếp đến cái gì?",
-    "question_options": [
-      "Nâng cao chất lượng cuộc sống",
-      "Tăng trưởng kinh tế và năng suất quốc gia",
-      "Giảm chi phí sản xuất",
-      "Tăng cường sức khỏe cộng đồng"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_5",
-    "question_text": "Nhà nước phải chịu những gánh nặng chi phí nào do tệ nạn ma túy gây ra?",
-    "question_options": [
-      "Chỉ chi phí giáo dục",
-      "Chi phí điều trị, cai nghiện, phòng chống tội phạm ma túy, an ninh quốc phòng...",
-      "Chỉ chi phí xây dựng cơ sở hạ tầng",
-      "Không có gánh nặng chi phí nào đáng kể"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "medium_1",
+        "question_text": "Con cái có bố hoặc mẹ nghiện ma túy thường phải đối mặt với nguy cơ nào?",
+        "question_options": [
+            "Được chăm sóc tốt hơn do gia đình quan tâm đặc biệt",
+            "Thiếu sự chăm sóc, bị bỏ bê, dễ bị lạm dụng và có nguy cơ nghiện ngập theo",
+            "Có môi trường sống ổn định hơn",
+            "Phát triển tâm lý bình thường như những đứa trẻ khác"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_2",
+        "question_text": "Tác động chính của người nghiện ma túy lên gia đình là gì, đặc biệt khi họ là trụ cột?",
+        "question_options": [
+            "Mang lại nguồn thu nhập ổn định hơn cho gia đình",
+            "Gây ra gánh nặng kinh tế, phá vỡ cấu trúc gia đình, tạo ra mâu thuẫn và bạo lực",
+            "Gia đình trở nên gắn kết hơn để giúp đỡ người nghiện",
+            "Không có tác động đáng kể nào nếu họ vẫn có việc làm"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_3",
+        "question_text": "Tại sao các nhà đầu tư nước ngoài lại ngại đầu tư vào những nước có tỷ lệ người nghiện cao?",
+        "question_options": [
+            "Vì họ không thích văn hóa của những nước đó",
+            "Vì lo ngại về an ninh xã hội, suy giảm năng suất lao động và môi trường kinh doanh không ổn định",
+            "Vì giá nhân công ở đó quá cao",
+            "Vì thị trường tiêu thụ không đủ lớn"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_4",
+        "question_text": "Việc suy giảm lực lượng lao động do nghiện ma túy ảnh hưởng trực tiếp đến cái gì?",
+        "question_options": [
+            "Nâng cao chất lượng cuộc sống",
+            "Tăng trưởng kinh tế và năng suất quốc gia",
+            "Giảm chi phí sản xuất",
+            "Tăng cường sức khỏe cộng đồng"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_5",
+        "question_text": "Nhà nước phải chịu những gánh nặng chi phí nào do tệ nạn ma túy gây ra?",
+        "question_options": [
+            "Chỉ chi phí giáo dục",
+            "Chi phí điều trị, cai nghiện, phòng chống tội phạm ma túy, an ninh quốc phòng...",
+            "Chỉ chi phí xây dựng cơ sở hạ tầng",
+            "Không có gánh nặng chi phí nào đáng kể"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    }
 ]

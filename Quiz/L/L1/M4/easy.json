@@ -1,65 +1,65 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Phương pháp dùng mắt, mũi để nhận biết ma túy qua màu sắc, mùi vị được gọi là gì?",
-    "question_options": [
-      "Phương pháp dùng thuốc thử",
-      "Phương pháp dùng máy móc",
-      "Phương pháp nhận biết bằng cảm quan",
-      "Phương pháp dùng động vật"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Khi dùng phương pháp cảm quan, chúng ta nên nếm thử một ít để biết chắc đó có phải ma túy không. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q3",
-    "question_text": "Phương pháp dùng động vật để phát hiện ma túy thường sử dụng loài vật nào nhất?",
-    "question_options": [
-      "Chim bồ câu",
-      "Chuột bạch",
-      "Chó nghiệp vụ",
-      "Mèo"
-    ],
-    "answer": 3,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q4",
-    "question_text": "Phương pháp nhận biết bằng máy móc có ưu điểm gì nổi bật?",
-    "question_options": [
-      "Dễ sử dụng và giá rẻ",
-      "Cho kết quả nhanh, chính xác và nhạy",
-      "Không cần chuyên môn cao",
-      "Không bị ảnh hưởng bởi môi trường"
-    ],
-    "answer": 2,
-    "difficulty": "easy",
-    "score": 10
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Động vật nào được sử dụng phổ biến nhất để phát hiện ma túy nhờ khứu giác nhạy bén?",
-    "question_options": [
-      "Chó nghiệp vụ",
-      "Mèo",
-      "Chim bồ câu",
-      "Chuột bạch"
-    ],
-    "answer": 1,
-    "difficulty": "easy",
-    "score": 10
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Phương pháp dùng mắt, mũi để nhận biết ma túy qua màu sắc, mùi vị được gọi là gì?",
+        "question_options": [
+            "Phương pháp dùng thuốc thử",
+            "Phương pháp dùng máy móc",
+            "Phương pháp nhận biết bằng cảm quan",
+            "Phương pháp dùng động vật"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Khi dùng phương pháp cảm quan, chúng ta nên nếm thử một ít để biết chắc đó có phải ma túy không. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q3",
+        "question_text": "Phương pháp dùng động vật để phát hiện ma túy thường sử dụng loài vật nào nhất?",
+        "question_options": [
+            "Chim bồ câu",
+            "Chuột bạch",
+            "Chó nghiệp vụ",
+            "Mèo"
+        ],
+        "answer": 3,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q4",
+        "question_text": "Phương pháp nhận biết bằng máy móc có ưu điểm gì nổi bật?",
+        "question_options": [
+            "Dễ sử dụng và giá rẻ",
+            "Cho kết quả nhanh, chính xác và nhạy",
+            "Không cần chuyên môn cao",
+            "Không bị ảnh hưởng bởi môi trường"
+        ],
+        "answer": 2,
+        "difficulty": "easy",
+        "score": 10
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Động vật nào được sử dụng phổ biến nhất để phát hiện ma túy nhờ khứu giác nhạy bén?",
+        "question_options": [
+            "Chó nghiệp vụ",
+            "Mèo",
+            "Chim bồ câu",
+            "Chuột bạch"
+        ],
+        "answer": 1,
+        "difficulty": "easy",
+        "score": 10
+    }
 ]

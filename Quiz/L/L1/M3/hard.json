@@ -1,74 +1,74 @@
 [
-  {
-    "question_id": "q11",
-    "question_text": "“Bóng cười” không phải là ma túy nên dùng bao nhiêu cũng không sao. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q14",
-    "question_text": "Sử dụng Shisha an toàn hơn hút thuốc lá. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q17",
-    "question_text": "Shisha là một loại cỏ có xuất xứ từ đâu?",
-    "question_options": [
-      "Việt Nam",
-      "Trung Quốc",
-      "Ả Rập",
-      "Mỹ"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q18",
-    "question_text": "Nguy hiểm nhất là khi một bộ phận giới trẻ hút shisha có chứa chất gì?",
-    "question_options": [
-      "Hương liệu trái cây",
-      "Mật ong",
-      "Chất ma túy",
-      "Đường"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q19",
-    "question_text": "Rất nhiều học sinh, sinh viên đã bị ngộ độc, phải đi cấp cứu sau khi hút thuốc lá điện tử. Nguyên nhân chính là do đâu?",
-    "question_options": [
-      "Do hút quá nhiều nicotine",
-      "Do pin của thiết bị quá nóng",
-      "Do tội phạm trộn ma túy vào dung dịch thuốc lá điện tử",
-      "Do bị dị ứng hương liệu"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q20",
-    "question_text": "Kẹo mút, kẹo dẻo chỉ có một lượng rất nhỏ cần sa nên sẽ không gây nghiện. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  }
+    {
+        "question_id": "q11",
+        "question_text": "“Bóng cười” không phải là ma túy nên dùng bao nhiêu cũng không sao. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q14",
+        "question_text": "Sử dụng Shisha an toàn hơn hút thuốc lá. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q17",
+        "question_text": "Shisha là một loại cỏ có xuất xứ từ đâu?",
+        "question_options": [
+            "Việt Nam",
+            "Trung Quốc",
+            "Ả Rập",
+            "Mỹ"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q18",
+        "question_text": "Nguy hiểm nhất là khi một bộ phận giới trẻ hút shisha có chứa chất gì?",
+        "question_options": [
+            "Hương liệu trái cây",
+            "Mật ong",
+            "Chất ma túy",
+            "Đường"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q19",
+        "question_text": "Rất nhiều học sinh, sinh viên đã bị ngộ độc, phải đi cấp cứu sau khi hút thuốc lá điện tử. Nguyên nhân chính là do đâu?",
+        "question_options": [
+            "Do hút quá nhiều nicotine",
+            "Do pin của thiết bị quá nóng",
+            "Do tội phạm trộn ma túy vào dung dịch thuốc lá điện tử",
+            "Do bị dị ứng hương liệu"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q20",
+        "question_text": "Kẹo mút, kẹo dẻo chỉ có một lượng rất nhỏ cần sa nên sẽ không gây nghiện. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    }
 ]

@@ -1,38 +1,38 @@
 [
-  {
-    "question_id": "q8",
-    "question_text": "Cảm giác lo lắng và bất lực của người thân khi đối mặt với vấn đề ma túy của gia đình là một tín hiệu cho thấy họ cũng là đối tượng cần...?",
-    "question_options": [
-      "Bị khiển trách vì không quản lý tốt",
-      "Được tư vấn và hỗ trợ về mặt tâm lý, kiến thức",
-      "Bị cách ly khỏi người nghiện",
-      "Tự tìm cách giải quyết"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Một nhân viên xuất sắc đột nhiên sa sút hiệu suất, hay đi muộn, tính cách thay đổi từ hòa đồng sang cáu gắt. Với tư cách là một người quản lý hoặc đồng nghiệp có trách nhiệm, bạn nên làm gì đầu tiên?",
-    "question_options": [
-      "Báo cáo ngay cho cấp trên để sa thải",
-      "Lan truyền tin đồn trong công ty",
-      "Có một cuộc trao đổi riêng tư, thể hiện sự quan tâm và gợi ý về các nguồn lực hỗ trợ của công ty (nếu có)",
-      "Lảng tránh, không can thiệp"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Tại sao việc gia đình và bạn bè nhận diện sớm các dấu hiệu lại quan trọng?",
-    "question_options": [
-      "Để có bằng chứng buộc tội người đó",
-      "Để can thiệp sớm, giảm thiểu tác hại và tăng cơ hội phục hồi thành công",
-      "Để kiểm soát tài chính của người đó",
-      "Để có lý do chính đáng để chấm dứt mối quan hệ"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "q8",
+        "question_text": "Cảm giác lo lắng và bất lực của người thân khi đối mặt với vấn đề ma túy của gia đình là một tín hiệu cho thấy họ cũng là đối tượng cần...?",
+        "question_options": [
+            "Bị khiển trách vì không quản lý tốt",
+            "Được tư vấn và hỗ trợ về mặt tâm lý, kiến thức",
+            "Bị cách ly khỏi người nghiện",
+            "Tự tìm cách giải quyết"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Một nhân viên xuất sắc đột nhiên sa sút hiệu suất, hay đi muộn, tính cách thay đổi từ hòa đồng sang cáu gắt. Với tư cách là một người quản lý hoặc đồng nghiệp có trách nhiệm, bạn nên làm gì đầu tiên?",
+        "question_options": [
+            "Báo cáo ngay cho cấp trên để sa thải",
+            "Lan truyền tin đồn trong công ty",
+            "Có một cuộc trao đổi riêng tư, thể hiện sự quan tâm và gợi ý về các nguồn lực hỗ trợ của công ty (nếu có)",
+            "Lảng tránh, không can thiệp"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Tại sao việc gia đình và bạn bè nhận diện sớm các dấu hiệu lại quan trọng?",
+        "question_options": [
+            "Để có bằng chứng buộc tội người đó",
+            "Để can thiệp sớm, giảm thiểu tác hại và tăng cơ hội phục hồi thành công",
+            "Để kiểm soát tài chính của người đó",
+            "Để có lý do chính đáng để chấm dứt mối quan hệ"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    }
 ]

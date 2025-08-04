@@ -1,48 +1,48 @@
 [
-  {
-    "question_id": "q3",
-    "question_text": "Một người nhận thấy mình phải tăng liều lượng sử dụng một chất gây nghiện để đạt được hiệu ứng như ban đầu. Hiện tượng này trong y học gọi là gì?",
-    "question_options": [
-      "Hiện tượng lờn thuốc",
-      "Hiện tượng cai",
-      "Hiện tượng sốc thuốc",
-      "Hiện tượng ngộ độc"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q4",
-    "question_text": "Dấu hiệu nào cho thấy sự lệ thuộc về mặt thể chất đã hình thành?",
-    "question_options": [
-      "Cảm thấy thèm nhớ",
-      "Xuất hiện hội chứng cai khi ngưng sử dụng",
-      "Cảm thấy tội lỗi sau khi sử dụng",
-      "Bắt đầu nói dối"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Thay đổi tiêu cực về sức khỏe tinh thần do ma túy gây ra có thể bao gồm lo âu, trầm cảm và hoang tưởng.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Khi phát hiện các dụng cụ đáng ngờ như giấy bạc, ống hút, nỏ tự chế trong phòng của một người thân, đây là một dấu hiệu cảnh báo trực tiếp về...?",
-    "question_options": [
-      "Thói quen sinh hoạt không gọn gàng",
-      "Hành vi sử dụng ma túy",
-      "Sở thích sưu tầm đồ vật lạ",
-      "Một thí nghiệm khoa học tại nhà"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q3",
+        "question_text": "Một người nhận thấy mình phải tăng liều lượng sử dụng một chất gây nghiện để đạt được hiệu ứng như ban đầu. Hiện tượng này trong y học gọi là gì?",
+        "question_options": [
+            "Hiện tượng lờn thuốc",
+            "Hiện tượng cai",
+            "Hiện tượng sốc thuốc",
+            "Hiện tượng ngộ độc"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q4",
+        "question_text": "Dấu hiệu nào cho thấy sự lệ thuộc về mặt thể chất đã hình thành?",
+        "question_options": [
+            "Cảm thấy thèm nhớ",
+            "Xuất hiện hội chứng cai khi ngưng sử dụng",
+            "Cảm thấy tội lỗi sau khi sử dụng",
+            "Bắt đầu nói dối"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Thay đổi tiêu cực về sức khỏe tinh thần do ma túy gây ra có thể bao gồm lo âu, trầm cảm và hoang tưởng.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Khi phát hiện các dụng cụ đáng ngờ như giấy bạc, ống hút, nỏ tự chế trong phòng của một người thân, đây là một dấu hiệu cảnh báo trực tiếp về...?",
+        "question_options": [
+            "Thói quen sinh hoạt không gọn gàng",
+            "Hành vi sử dụng ma túy",
+            "Sở thích sưu tầm đồ vật lạ",
+            "Một thí nghiệm khoa học tại nhà"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    }
 ]

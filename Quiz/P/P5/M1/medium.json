@@ -1,38 +1,38 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Yếu tố nào sau đây được xem là quan trọng nhất nhằm giảm thiểu tác hại của ma túy và mở ra cơ hội phục hồi?",
-    "question_options": [
-      "Điều kiện kinh tế vững chắc",
-      "Ý chí cá nhân phi thường",
-      "Sự can thiệp chuyên môn được thực hiện sớm",
-      "Sự hỗ trợ từ bạn bè trên mạng"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Sự hỗ trợ trong phòng, chống ma túy được nhấn mạnh là dành cho người sử dụng ma túy và đối tượng nào nữa?",
-    "question_options": [
-      "Chỉ dành cho cơ quan chức năng",
-      "Cả thân nhân của họ (gia đình, bạn bè)",
-      "Chỉ dành cho các tổ chức xã hội",
-      "Dành cho toàn bộ cộng đồng"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Tình trạng một người nhận thức được tác hại và mong muốn từ bỏ nhưng không thể thực hiện được cho thấy điều gì?",
-    "question_options": [
-      "Họ thiếu quyết tâm một cách đơn thuần",
-      "Sự lệ thuộc đã vượt qua khả năng kiểm soát của ý chí và họ cần sự hỗ trợ chuyên nghiệp",
-      "Họ đang nói dối về mong muốn của mình",
-      "Họ cần thêm thời gian để tự suy nghĩ"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Yếu tố nào sau đây được xem là quan trọng nhất nhằm giảm thiểu tác hại của ma túy và mở ra cơ hội phục hồi?",
+        "question_options": [
+            "Điều kiện kinh tế vững chắc",
+            "Ý chí cá nhân phi thường",
+            "Sự can thiệp chuyên môn được thực hiện sớm",
+            "Sự hỗ trợ từ bạn bè trên mạng"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Sự hỗ trợ trong phòng, chống ma túy được nhấn mạnh là dành cho người sử dụng ma túy và đối tượng nào nữa?",
+        "question_options": [
+            "Chỉ dành cho cơ quan chức năng",
+            "Cả thân nhân của họ (gia đình, bạn bè)",
+            "Chỉ dành cho các tổ chức xã hội",
+            "Dành cho toàn bộ cộng đồng"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Tình trạng một người nhận thức được tác hại và mong muốn từ bỏ nhưng không thể thực hiện được cho thấy điều gì?",
+        "question_options": [
+            "Họ thiếu quyết tâm một cách đơn thuần",
+            "Sự lệ thuộc đã vượt qua khả năng kiểm soát của ý chí và họ cần sự hỗ trợ chuyên nghiệp",
+            "Họ đang nói dối về mong muốn của mình",
+            "Họ cần thêm thời gian để tự suy nghĩ"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    }
 ]

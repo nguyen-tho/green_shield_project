@@ -1,38 +1,38 @@
 [
-  {
-    "question_id": "hard_1",
-    "question_text": "Tại sao nói ma túy làm suy thoái nòi giống?",
-    "question_options": [
-      "Vì người nghiện ít kết hôn và sinh con",
-      "Vì ma túy gây ảnh hưởng đến sức khỏe sinh sản, di truyền các vấn đề sức khỏe cho thế hệ sau",
-      "Vì người nghiện thường không quan tâm đến việc nuôi dạy con cái",
-      "Vì ma túy chỉ ảnh hưởng đến sức khỏe cá nhân, không tác động đến thế hệ sau"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_2",
-    "question_text": "Việc người nghiện hầu hết ở độ tuổi lao động gây ra vấn đề gì cho nền kinh tế?",
-    "question_options": [
-      "Tạo ra một lực lượng lao động trẻ dồi dào",
-      "Giảm năng suất lao động, tăng gánh nặng y tế và an sinh xã hội, ảnh hưởng đến phát triển kinh tế bền vững",
-      "Thúc đẩy đổi mới công nghệ",
-      "Tăng cường khả năng cạnh tranh quốc tế"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_3",
-    "question_text": "Tại sao nói rằng tệ nạn ma túy có quan hệ trực tiếp đến việc tăng nhanh các tệ nạn xã hội khác?",
-    "question_options": [
-      "Vì người nghiện có nhiều thời gian rảnh rỗi hơn để tham gia các hoạt động xã hội",
-      "Vì nhu cầu tài chính để mua ma túy đẩy người nghiện vào con đường phạm tội (trộm cắp, cướp giật...), đồng thời làm phát sinh các tệ nạn như mại dâm, HIV/AIDS",
-      "Vì ma túy giúp người nghiện hòa nhập tốt hơn với cộng đồng",
-      "Vì ma túy làm giảm tỷ lệ tội phạm"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "hard_1",
+        "question_text": "Tại sao nói ma túy làm suy thoái nòi giống?",
+        "question_options": [
+            "Vì người nghiện ít kết hôn và sinh con",
+            "Vì ma túy gây ảnh hưởng đến sức khỏe sinh sản, di truyền các vấn đề sức khỏe cho thế hệ sau",
+            "Vì người nghiện thường không quan tâm đến việc nuôi dạy con cái",
+            "Vì ma túy chỉ ảnh hưởng đến sức khỏe cá nhân, không tác động đến thế hệ sau"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_2",
+        "question_text": "Việc người nghiện hầu hết ở độ tuổi lao động gây ra vấn đề gì cho nền kinh tế?",
+        "question_options": [
+            "Tạo ra một lực lượng lao động trẻ dồi dào",
+            "Giảm năng suất lao động, tăng gánh nặng y tế và an sinh xã hội, ảnh hưởng đến phát triển kinh tế bền vững",
+            "Thúc đẩy đổi mới công nghệ",
+            "Tăng cường khả năng cạnh tranh quốc tế"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_3",
+        "question_text": "Tại sao nói rằng tệ nạn ma túy có quan hệ trực tiếp đến việc tăng nhanh các tệ nạn xã hội khác?",
+        "question_options": [
+            "Vì người nghiện có nhiều thời gian rảnh rỗi hơn để tham gia các hoạt động xã hội",
+            "Vì nhu cầu tài chính để mua ma túy đẩy người nghiện vào con đường phạm tội (trộm cắp, cướp giật...), đồng thời làm phát sinh các tệ nạn như mại dâm, HIV/AIDS",
+            "Vì ma túy giúp người nghiện hòa nhập tốt hơn với cộng đồng",
+            "Vì ma túy làm giảm tỷ lệ tội phạm"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    }
 ]

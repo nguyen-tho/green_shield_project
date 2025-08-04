@@ -1,62 +1,62 @@
 [
-  {
-    "question_id": "hard_q1",
-    "question_text": "Giả sử bạn cần tìm một cơ sở cai nghiện ở Huyện Củ Chi. Theo tài liệu, bạn nên ưu tiên tìm hiểu về cơ sở nào?",
-    "question_options": [
-      "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
-      "Cơ sở Cai nghiện ma túy số 2 TP. Hồ Chí Minh",
-      "Phân khu Bình Triệu",
-      "Trụ sở Bố Lá"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_q2",
-    "question_text": "Một người đang tìm kiếm thông tin về quy trình can thiệp tại một cơ sở cai nghiện. Theo tài liệu, họ cần lưu ý điều gì?",
-    "question_options": [
-      "Chỉ cần tìm hiểu chi phí điều trị",
-      "Chỉ cần tìm hiểu cơ sở vật chất",
-      "Cần tìm hiểu kỹ về phương pháp điều trị, quy trình can thiệp, cơ sở vật chất, chi phí và chương trình hỗ trợ sau cai nghiện",
-      "Chỉ cần đảm bảo cơ sở được cấp phép"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_q3",
-    "question_text": "Nếu một gia đình ở Quận 3, TP. Hồ Chí Minh muốn tìm một trung tâm tư vấn pháp luật và hỗ trợ tâm lý uy tín gần nhất, họ có thể cân nhắc cơ sở nào dựa trên tài liệu?",
-    "question_options": [
-      "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
-      "Trung tâm trợ giúp pháp lý nhà nước Thành phố Hồ Chí Minh",
-      "Bệnh viện Nhân Ái",
-      "Phân khu Bình Triệu"
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_q4",
-    "question_text": "Điểm khác biệt chính giữa Cơ sở Cai nghiện ma túy số 2 và Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh theo thông tin được cung cấp là gì?",
-    "question_options": [
-      "Cơ sở số 2 chỉ cai nghiện cho thanh thiếu niên, còn cơ sở số 3 cho mọi lứa tuổi.",
-      "Cơ sở số 2 có một địa điểm duy nhất, trong khi cơ sở số 3 có nhiều trụ sở/phân khu, bao gồm một trụ sở nằm ngoài TP. Hồ Chí Minh.",
-      "Cơ sở số 2 tập trung điều trị Methadone, còn cơ sở số 3 không.",
-      "Cơ sở số 2 là cơ sở mới, còn cơ sở số 3 là cơ sở cũ nhất."
-    ],
-    "answer": 2,
-    "difficulty": "hard"
-  },
-  {
-    "question_id": "hard_q5",
-    "question_text": "Dựa trên các lưu ý quan trọng, nếu một cá nhân muốn cai nghiện tự nguyện, yếu tố nào dưới đây là QUAN TRỌNG NHẤT đối với SỰ THÀNH CÔNG của quá trình cai nghiện?",
-    "question_options": [
-      "Sự giàu có của gia đình để chi trả chi phí điều trị",
-      "Kinh nghiệm lâu năm của đội ngũ y bác sĩ tại cơ sở",
-      "Sự đồng thuận, quyết tâm và hợp tác tích cực của chính người cai nghiện",
-      "Mức độ hiện đại của cơ sở vật chất tại trung tâm"
-    ],
-    "answer": 3,
-    "difficulty": "hard"
-  }
+    {
+        "question_id": "hard_q1",
+        "question_text": "Giả sử bạn cần tìm một cơ sở cai nghiện ở Huyện Củ Chi. Theo tài liệu, bạn nên ưu tiên tìm hiểu về cơ sở nào?",
+        "question_options": [
+            "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
+            "Cơ sở Cai nghiện ma túy số 2 TP. Hồ Chí Minh",
+            "Phân khu Bình Triệu",
+            "Trụ sở Bố Lá"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_q2",
+        "question_text": "Một người đang tìm kiếm thông tin về quy trình can thiệp tại một cơ sở cai nghiện. Theo tài liệu, họ cần lưu ý điều gì?",
+        "question_options": [
+            "Chỉ cần tìm hiểu chi phí điều trị",
+            "Chỉ cần tìm hiểu cơ sở vật chất",
+            "Cần tìm hiểu kỹ về phương pháp điều trị, quy trình can thiệp, cơ sở vật chất, chi phí và chương trình hỗ trợ sau cai nghiện",
+            "Chỉ cần đảm bảo cơ sở được cấp phép"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_q3",
+        "question_text": "Nếu một gia đình ở Quận 3, TP. Hồ Chí Minh muốn tìm một trung tâm tư vấn pháp luật và hỗ trợ tâm lý uy tín gần nhất, họ có thể cân nhắc cơ sở nào dựa trên tài liệu?",
+        "question_options": [
+            "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
+            "Trung tâm trợ giúp pháp lý nhà nước Thành phố Hồ Chí Minh",
+            "Bệnh viện Nhân Ái",
+            "Phân khu Bình Triệu"
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_q4",
+        "question_text": "Điểm khác biệt chính giữa Cơ sở Cai nghiện ma túy số 2 và Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh theo thông tin được cung cấp là gì?",
+        "question_options": [
+            "Cơ sở số 2 chỉ cai nghiện cho thanh thiếu niên, còn cơ sở số 3 cho mọi lứa tuổi.",
+            "Cơ sở số 2 có một địa điểm duy nhất, trong khi cơ sở số 3 có nhiều trụ sở/phân khu, bao gồm một trụ sở nằm ngoài TP. Hồ Chí Minh.",
+            "Cơ sở số 2 tập trung điều trị Methadone, còn cơ sở số 3 không.",
+            "Cơ sở số 2 là cơ sở mới, còn cơ sở số 3 là cơ sở cũ nhất."
+        ],
+        "answer": 2,
+        "difficulty": "hard"
+    },
+    {
+        "question_id": "hard_q5",
+        "question_text": "Dựa trên các lưu ý quan trọng, nếu một cá nhân muốn cai nghiện tự nguyện, yếu tố nào dưới đây là QUAN TRỌNG NHẤT đối với SỰ THÀNH CÔNG của quá trình cai nghiện?",
+        "question_options": [
+            "Sự giàu có của gia đình để chi trả chi phí điều trị",
+            "Kinh nghiệm lâu năm của đội ngũ y bác sĩ tại cơ sở",
+            "Sự đồng thuận, quyết tâm và hợp tác tích cực của chính người cai nghiện",
+            "Mức độ hiện đại của cơ sở vật chất tại trung tâm"
+        ],
+        "answer": 3,
+        "difficulty": "hard"
+    }
 ]

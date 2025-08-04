@@ -1,60 +1,60 @@
 [
-  {
-    "question_id": "q2",
-    "question_text": "Yếu tố nào sau đây được xem là hạn chế mang tính chủ quan của phương pháp nhận biết bằng cảm quan?",
-    "question_options": [
-      "Đòi hỏi chi phí cao",
-      "Phụ thuộc vào kinh nghiệm và sự nhạy cảm của từng cán bộ",
-      "Mất nhiều thời gian để cho kết quả",
-      "Không áp dụng được với ma túy tổng hợp"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q4",
-    "question_text": "Ưu điểm chính của phương pháp nhận biết bằng động vật (chó nghiệp vụ) là gì?",
-    "question_options": [
-      "Chi phí huấn luyện và duy trì thấp",
-      "Hiệu quả cao do khứu giác nhạy cảm của động vật",
-      "Có thể áp dụng ở mọi quốc gia mà không cần thích nghi",
-      "Chó nghiệp vụ có thể phân biệt chính xác từng loại ma túy"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q6",
-    "question_text": "Tất cả các phương pháp nhận biết tại hiện trường (cảm quan, thuốc thử) đều chỉ cho kết luận tương đối. Kết luận cuối cùng phải dựa vào giám định tại phòng chuyên môn.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q8",
-    "question_text": "Khi thử với thuốc thử, nếu kết quả âm tính nhưng vẫn nghi ngờ có liên quan đến ma túy, cần làm gì?",
-    "question_options": [
-      "Kết luận không phải ma túy",
-      "Tiếp tục thử với nhiều thuốc thử khác",
-      "Thu toàn bộ mẫu để giám định tại phòng thí nghiệm",
-      "Pha loãng mẫu rồi thử lại"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Hạn chế lớn của việc sử dụng chó nghiệp vụ trong điều kiện Việt Nam là gì?",
-    "question_options": [
-      "Chó khó phân biệt ma túy tổng hợp",
-      "Chi phí huấn luyện và điều kiện khí hậu không phù hợp",
-      "Chó không đánh hơi được ma túy dạng bột",
-      "Chỉ dùng được trong không gian kín"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "q2",
+        "question_text": "Yếu tố nào sau đây được xem là hạn chế mang tính chủ quan của phương pháp nhận biết bằng cảm quan?",
+        "question_options": [
+            "Đòi hỏi chi phí cao",
+            "Phụ thuộc vào kinh nghiệm và sự nhạy cảm của từng cán bộ",
+            "Mất nhiều thời gian để cho kết quả",
+            "Không áp dụng được với ma túy tổng hợp"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q4",
+        "question_text": "Ưu điểm chính của phương pháp nhận biết bằng động vật (chó nghiệp vụ) là gì?",
+        "question_options": [
+            "Chi phí huấn luyện và duy trì thấp",
+            "Hiệu quả cao do khứu giác nhạy cảm của động vật",
+            "Có thể áp dụng ở mọi quốc gia mà không cần thích nghi",
+            "Chó nghiệp vụ có thể phân biệt chính xác từng loại ma túy"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q6",
+        "question_text": "Tất cả các phương pháp nhận biết tại hiện trường (cảm quan, thuốc thử) đều chỉ cho kết luận tương đối. Kết luận cuối cùng phải dựa vào giám định tại phòng chuyên môn.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q8",
+        "question_text": "Khi thử với thuốc thử, nếu kết quả âm tính nhưng vẫn nghi ngờ có liên quan đến ma túy, cần làm gì?",
+        "question_options": [
+            "Kết luận không phải ma túy",
+            "Tiếp tục thử với nhiều thuốc thử khác",
+            "Thu toàn bộ mẫu để giám định tại phòng thí nghiệm",
+            "Pha loãng mẫu rồi thử lại"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Hạn chế lớn của việc sử dụng chó nghiệp vụ trong điều kiện Việt Nam là gì?",
+        "question_options": [
+            "Chó khó phân biệt ma túy tổng hợp",
+            "Chi phí huấn luyện và điều kiện khí hậu không phù hợp",
+            "Chó không đánh hơi được ma túy dạng bột",
+            "Chỉ dùng được trong không gian kín"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    }
 ]
