@@ -1,62 +1,62 @@
 [
-  {
-    "question_id": "easy_q1",
-    "question_text": "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh trước đây có tên là gì?",
-    "question_options": [
-      "Cơ sở cai nghiện ma túy Thanh thiếu niên 2",
-      "Cơ sở cai nghiện ma túy Nhị Xuân",
-      "Cơ sở Cai nghiện ma túy Bố Lá",
-      "Phân khu Bình Triệu"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "easy_q2",
-    "question_text": "Trung tâm trợ giúp pháp lý nhà nước Thành phố Hồ Chí Minh có địa chỉ ở đâu?",
-    "question_options": [
-      "Ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn",
-      "Ấp 3, Xã Phạm Văn Cội, Huyện Củ Chi",
-      "Số 157 Pasteur, Phường Võ Thị Sáu, Quận 3",
-      "Ấp Bố Lá, Xã Phước Hòa, Huyện Phú Giáo, Tỉnh Bình Dương"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "easy_q3",
-    "question_text": "Bệnh viện Nhân Ái, một trong các cơ sở điều trị nghiện các chất dạng thuốc phiện, có địa chỉ cơ sở chính tại tỉnh nào?",
-    "question_options": [
-      "TP. Hồ Chí Minh",
-      "Bình Dương",
-      "Bình Phước",
-      "Đồng Nai"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "easy_q4",
-    "question_text": "Những cơ sở nào sau đây nằm ở Huyện Hóc Môn, TP. Hồ Chí Minh?",
-    "question_options": [
-      "Cơ sở Cai nghiện ma túy số 2 TP. Hồ Chí Minh",
-      "Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh (Trụ sở Bố Lá)",
-      "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
-      "Phân khu Bình Triệu"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "easy_q5",
-    "question_text": "Trong các lưu ý quan trọng khi lựa chọn cơ sở hỗ trợ, điều gì sau đây KHÔNG được đề cập trực tiếp là yếu tố cần tìm hiểu kỹ?",
-    "question_options": [
-      "Phương pháp điều trị",
-      "Quy trình can thiệp",
-      "Khả năng tài chính của người bệnh",
-      "Chương trình hỗ trợ sau cai nghiện"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "easy_q1",
+        "question_text": "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh trước đây có tên là gì?",
+        "question_options": [
+            "Cơ sở cai nghiện ma túy Thanh thiếu niên 2",
+            "Cơ sở cai nghiện ma túy Nhị Xuân",
+            "Cơ sở Cai nghiện ma túy Bố Lá",
+            "Phân khu Bình Triệu"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "easy_q2",
+        "question_text": "Trung tâm trợ giúp pháp lý nhà nước Thành phố Hồ Chí Minh có địa chỉ ở đâu?",
+        "question_options": [
+            "Ấp 5, Xã Xuân Thới Thượng, Huyện Hóc Môn",
+            "Ấp 3, Xã Phạm Văn Cội, Huyện Củ Chi",
+            "Số 157 Pasteur, Phường Võ Thị Sáu, Quận 3",
+            "Ấp Bố Lá, Xã Phước Hòa, Huyện Phú Giáo, Tỉnh Bình Dương"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "easy_q3",
+        "question_text": "Bệnh viện Nhân Ái, một trong các cơ sở điều trị nghiện các chất dạng thuốc phiện, có địa chỉ cơ sở chính tại tỉnh nào?",
+        "question_options": [
+            "TP. Hồ Chí Minh",
+            "Bình Dương",
+            "Bình Phước",
+            "Đồng Nai"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "easy_q4",
+        "question_text": "Những cơ sở nào sau đây nằm ở Huyện Hóc Môn, TP. Hồ Chí Minh?",
+        "question_options": [
+            "Cơ sở Cai nghiện ma túy số 2 TP. Hồ Chí Minh",
+            "Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh (Trụ sở Bố Lá)",
+            "Cơ sở Cai nghiện ma túy số 1 TP. Hồ Chí Minh",
+            "Phân khu Bình Triệu"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "easy_q5",
+        "question_text": "Trong các lưu ý quan trọng khi lựa chọn cơ sở hỗ trợ, điều gì sau đây KHÔNG được đề cập trực tiếp là yếu tố cần tìm hiểu kỹ?",
+        "question_options": [
+            "Phương pháp điều trị",
+            "Quy trình can thiệp",
+            "Khả năng tài chính của người bệnh",
+            "Chương trình hỗ trợ sau cai nghiện"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    }
 ]

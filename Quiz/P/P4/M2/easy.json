@@ -1,70 +1,70 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Nguyên nhân nào sau đây khiến một người trẻ muốn thử ma túy dù không hiểu rõ về tác hại của nó?",
-    "question_options": [
-      "Vì muốn học giỏi hơn",
-      "Do tò mò, muốn biết cảm giác sử dụng ma túy là gì",
-      "Vì muốn có sức khỏe tốt",
-      "Do bố mẹ bắt ép"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Việc cha mẹ có mối quan hệ phức tạp như ly hôn, ly thân làm tăng xu hướng nghiện ở con cái. Yếu tố tâm lý nào của đứa trẻ bị tác động mạnh nhất trong trường hợp này?",
-    "question_options": [
-      "Nhu cầu thể hiện bản thân",
-      "Sự thiếu thốn tình cảm, mất an toàn và điểm tựa gia đình",
-      "Áp lực phải thành công",
-      "Tính tò mò, khám phá"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q3",
-    "question_text": "Lý lịch phức tạp của gia đình (bố, mẹ, anh, chị, em là tội phạm ma túy) được xem là một trong những nguyên nhân dẫn đến...?",
-    "question_options": [
-      "Con cái có xu hướng trở thành người tốt để thay đổi gia đình",
-      "Con cái có nguy cơ cao sa vào con đường nghiện ngập",
-      "Con cái được xã hội quan tâm, giúp đỡ nhiều hơn",
-      "Không ảnh hưởng đến xu hướng của con cái"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Áp lực trong học tập và công việc cũng là một trong những nguyên nhân có thể đẩy người ta đến với ma túy.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q10",
-    "question_text": "Việc một người có trình độ học vấn thấp dễ bị nghiện ma túy hơn có thể được lý giải như thế nào?",
-    "question_options": [
-      "Do họ có sức khỏe yếu hơn",
-      "Do hạn chế về nhận thức, không hiểu biết đầy đủ về tác hại của ma túy",
-      "Do họ có nhiều thời gian rảnh rỗi",
-      "Do họ không có mục tiêu trong cuộc sống"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q14",
-    "question_text": "Khi đã thử ma túy một vài lần, cơ chế nghiện sẽ được hình thành và rất khó để dừng lại.",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 1,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Nguyên nhân nào sau đây khiến một người trẻ muốn thử ma túy dù không hiểu rõ về tác hại của nó?",
+        "question_options": [
+            "Vì muốn học giỏi hơn",
+            "Do tò mò, muốn biết cảm giác sử dụng ma túy là gì",
+            "Vì muốn có sức khỏe tốt",
+            "Do bố mẹ bắt ép"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Việc cha mẹ có mối quan hệ phức tạp như ly hôn, ly thân làm tăng xu hướng nghiện ở con cái. Yếu tố tâm lý nào của đứa trẻ bị tác động mạnh nhất trong trường hợp này?",
+        "question_options": [
+            "Nhu cầu thể hiện bản thân",
+            "Sự thiếu thốn tình cảm, mất an toàn và điểm tựa gia đình",
+            "Áp lực phải thành công",
+            "Tính tò mò, khám phá"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q3",
+        "question_text": "Lý lịch phức tạp của gia đình (bố, mẹ, anh, chị, em là tội phạm ma túy) được xem là một trong những nguyên nhân dẫn đến...?",
+        "question_options": [
+            "Con cái có xu hướng trở thành người tốt để thay đổi gia đình",
+            "Con cái có nguy cơ cao sa vào con đường nghiện ngập",
+            "Con cái được xã hội quan tâm, giúp đỡ nhiều hơn",
+            "Không ảnh hưởng đến xu hướng của con cái"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Áp lực trong học tập và công việc cũng là một trong những nguyên nhân có thể đẩy người ta đến với ma túy.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q10",
+        "question_text": "Việc một người có trình độ học vấn thấp dễ bị nghiện ma túy hơn có thể được lý giải như thế nào?",
+        "question_options": [
+            "Do họ có sức khỏe yếu hơn",
+            "Do hạn chế về nhận thức, không hiểu biết đầy đủ về tác hại của ma túy",
+            "Do họ có nhiều thời gian rảnh rỗi",
+            "Do họ không có mục tiêu trong cuộc sống"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q14",
+        "question_text": "Khi đã thử ma túy một vài lần, cơ chế nghiện sẽ được hình thành và rất khó để dừng lại.",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 1,
+        "difficulty": "easy"
+    }
 ]

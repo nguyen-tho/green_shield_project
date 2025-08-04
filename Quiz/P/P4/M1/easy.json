@@ -1,86 +1,86 @@
 [
-  {
-    "question_id": "q1",
-    "question_text": "Theo Khoản 10, Điều 2, Luật Phòng, chống ma túy 2021, có bao nhiêu yếu tố cần có để xác định một người là “người sử dụng trái phép chất ma túy”?",
-    "question_options": [
-      "Một yếu tố: có hành vi sử dụng",
-      "Hai yếu tố: hành vi sử dụng không được phép và kết quả xét nghiệm dương tính",
-      "Ba yếu tố: hành vi sử dụng, kết quả dương tính và bị lệ thuộc",
-      "Một yếu tố: kết quả xét nghiệm dương tính"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q2",
-    "question_text": "Ai là người có thẩm quyền gửi kết quả xét nghiệm dương tính đến Chủ tịch UBND cấp xã nơi người đó cư trú?",
-    "question_options": [
-      "Người có kết quả dương tính",
-      "Người đứng đầu cơ sở cai nghiện/điều trị hoặc người có thẩm quyền xử phạt VPHC",
-      "Bất kỳ người nào phát hiện",
-      "Cán bộ y tế thực hiện xét nghiệm"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q5",
-    "question_text": "Sự khác biệt cơ bản nhất giữa người sử dụng trái phép chất ma túy và người nghiện ma túy theo định nghĩa pháp luật là gì?",
-    "question_options": [
-      "Loại ma túy sử dụng",
-      "Tình trạng bị lệ thuộc vào chất ma túy",
-      "Số lần sử dụng",
-      "Kết quả xét nghiệm dương tính"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q7",
-    "question_text": "“Hội chứng cai nghiện” là tên gọi khác của tình trạng nào?",
-    "question_options": [
-      "Bị nhiễm độc ma túy",
-      "Bị lệ thuộc về mặt thể chất",
-      "Bị rối loạn sản xuất morphin",
-      "Bị ảo giác"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q13",
-    "question_text": "Để nhận biết người nghiện bằng “que chỉ thị màu”, kết quả được đọc chính xác nhất sau khi nhúng que bao lâu?",
-    "question_options": [
-      "Ngay lập tức",
-      "5 phút",
-      "10 phút",
-      "30 phút"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q14",
-    "question_text": "Que thử ma túy cho ra 2 vạch màu hồng có nghĩa là gì?",
-    "question_options": [
-      "Dương tính - có sử dụng ma túy",
-      "Âm tính - không sử dụng ma túy (hoặc nồng độ dưới ngưỡng)",
-      "Que thử bị hỏng",
-      "Cần thử lại"
-    ],
-    "answer": 2,
-    "difficulty": "easy"
-  },
-  {
-    "question_id": "q15",
-    "question_text": "Phương pháp nhận biết nào sau đây cho kết quả chính xác nhất để khẳng định một người có bị nghiện ma túy hay không?",
-    "question_options": [
-      "Dùng que thử test nước tiểu",
-      "Dựa vào các biểu hiện bên ngoài",
-      "Xét nghiệm máu tại bệnh viện, cơ sở y tế có thẩm quyền",
-      "Lời khai của người đó"
-    ],
-    "answer": 3,
-    "difficulty": "easy"
-  }
+    {
+        "question_id": "q1",
+        "question_text": "Theo Khoản 10, Điều 2, Luật Phòng, chống ma túy 2021, có bao nhiêu yếu tố cần có để xác định một người là “người sử dụng trái phép chất ma túy”?",
+        "question_options": [
+            "Một yếu tố: có hành vi sử dụng",
+            "Hai yếu tố: hành vi sử dụng không được phép và kết quả xét nghiệm dương tính",
+            "Ba yếu tố: hành vi sử dụng, kết quả dương tính và bị lệ thuộc",
+            "Một yếu tố: kết quả xét nghiệm dương tính"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q2",
+        "question_text": "Ai là người có thẩm quyền gửi kết quả xét nghiệm dương tính đến Chủ tịch UBND cấp xã nơi người đó cư trú?",
+        "question_options": [
+            "Người có kết quả dương tính",
+            "Người đứng đầu cơ sở cai nghiện/điều trị hoặc người có thẩm quyền xử phạt VPHC",
+            "Bất kỳ người nào phát hiện",
+            "Cán bộ y tế thực hiện xét nghiệm"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q5",
+        "question_text": "Sự khác biệt cơ bản nhất giữa người sử dụng trái phép chất ma túy và người nghiện ma túy theo định nghĩa pháp luật là gì?",
+        "question_options": [
+            "Loại ma túy sử dụng",
+            "Tình trạng bị lệ thuộc vào chất ma túy",
+            "Số lần sử dụng",
+            "Kết quả xét nghiệm dương tính"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q7",
+        "question_text": "“Hội chứng cai nghiện” là tên gọi khác của tình trạng nào?",
+        "question_options": [
+            "Bị nhiễm độc ma túy",
+            "Bị lệ thuộc về mặt thể chất",
+            "Bị rối loạn sản xuất morphin",
+            "Bị ảo giác"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q13",
+        "question_text": "Để nhận biết người nghiện bằng “que chỉ thị màu”, kết quả được đọc chính xác nhất sau khi nhúng que bao lâu?",
+        "question_options": [
+            "Ngay lập tức",
+            "5 phút",
+            "10 phút",
+            "30 phút"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q14",
+        "question_text": "Que thử ma túy cho ra 2 vạch màu hồng có nghĩa là gì?",
+        "question_options": [
+            "Dương tính - có sử dụng ma túy",
+            "Âm tính - không sử dụng ma túy (hoặc nồng độ dưới ngưỡng)",
+            "Que thử bị hỏng",
+            "Cần thử lại"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
+    },
+    {
+        "question_id": "q15",
+        "question_text": "Phương pháp nhận biết nào sau đây cho kết quả chính xác nhất để khẳng định một người có bị nghiện ma túy hay không?",
+        "question_options": [
+            "Dùng que thử test nước tiểu",
+            "Dựa vào các biểu hiện bên ngoài",
+            "Xét nghiệm máu tại bệnh viện, cơ sở y tế có thẩm quyền",
+            "Lời khai của người đó"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
+    }
 ]

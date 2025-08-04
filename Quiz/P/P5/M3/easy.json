@@ -1,62 +1,62 @@
 [
-  {
-      "question_id": "easy_q1",
-      "question_text": "Tổng đài Cảnh sát 113 tiếp nhận những thông tin khẩn cấp nào?",
-      "question_options": [
-        "Mọi thông tin liên quan đến sức khỏe cộng đồng.",
-        "Mọi thông tin khẩn cấp liên quan đến an ninh, trật tự, bao gồm các vụ việc và đối tượng có dấu hiệu tội phạm về ma túy.",
-        "Chỉ các vấn đề liên quan đến trẻ em bị xâm hại.",
-        "Các thắc mắc về điều trị nghiện ma túy."
-      ],
-      "answer": 2,
-      "difficulty": "easy"
+    {
+        "question_id": "easy_q1",
+        "question_text": "Tổng đài Cảnh sát 113 tiếp nhận những thông tin khẩn cấp nào?",
+        "question_options": [
+            "Mọi thông tin liên quan đến sức khỏe cộng đồng.",
+            "Mọi thông tin khẩn cấp liên quan đến an ninh, trật tự, bao gồm các vụ việc và đối tượng có dấu hiệu tội phạm về ma túy.",
+            "Chỉ các vấn đề liên quan đến trẻ em bị xâm hại.",
+            "Các thắc mắc về điều trị nghiện ma túy."
+        ],
+        "answer": 2,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q2",
-      "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em là số mấy?",
-      "question_options": [
-        "113",
-        "1900.9095",
-        "111",
-        "069.3187.200"
-      ],
-      "answer": 3,
-      "difficulty": "easy"
+        "question_id": "easy_q2",
+        "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em là số mấy?",
+        "question_options": [
+            "113",
+            "1900.9095",
+            "111",
+            "069.3187.200"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q3",
-      "question_text": "Khi gọi đến các đường dây nóng, bạn nên cung cấp thông tin nào?",
-      "question_options": [
-        "Thông tin cá nhân chi tiết về gia đình và bạn bè.",
-        "Địa chỉ nhà riêng và tên của tất cả những người liên quan.",
-        "Tên, tuổi (nếu muốn), tình huống cụ thể, địa điểm (nếu cần can thiệp).",
-        "Ý kiến cá nhân về vụ việc."
-      ],
-      "answer": 3,
-      "difficulty": "easy"
+        "question_id": "easy_q3",
+        "question_text": "Khi gọi đến các đường dây nóng, bạn nên cung cấp thông tin nào?",
+        "question_options": [
+            "Thông tin cá nhân chi tiết về gia đình và bạn bè.",
+            "Địa chỉ nhà riêng và tên của tất cả những người liên quan.",
+            "Tên, tuổi (nếu muốn), tình huống cụ thể, địa điểm (nếu cần can thiệp).",
+            "Ý kiến cá nhân về vụ việc."
+        ],
+        "answer": 3,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q4",
-      "question_text": "Tổng đài 111 hoạt động liên tục bao nhiêu giờ mỗi ngày?",
-      "question_options": [
-        "8 giờ",
-        "12 giờ",
-        "16 giờ",
-        "24 giờ"
-      ],
-      "answer": 4,
-      "difficulty": "easy"
+        "question_id": "easy_q4",
+        "question_text": "Tổng đài 111 hoạt động liên tục bao nhiêu giờ mỗi ngày?",
+        "question_options": [
+            "8 giờ",
+            "12 giờ",
+            "16 giờ",
+            "24 giờ"
+        ],
+        "answer": 4,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q5",
-      "question_text": "Thông tin cá nhân của người gọi đến đường dây nóng sẽ được giữ như thế nào?",
-      "question_options": [
-        "Công khai cho mục đích nghiên cứu.",
-        "Chia sẻ với các tổ chức phi chính phủ.",
-        "Giữ bí mật theo quy định.",
-        "Chỉ giữ bí mật trong một thời gian nhất định."
-      ],
-      "answer": 3,
-      "difficulty": "easy"
+        "question_id": "easy_q5",
+        "question_text": "Thông tin cá nhân của người gọi đến đường dây nóng sẽ được giữ như thế nào?",
+        "question_options": [
+            "Công khai cho mục đích nghiên cứu.",
+            "Chia sẻ với các tổ chức phi chính phủ.",
+            "Giữ bí mật theo quy định.",
+            "Chỉ giữ bí mật trong một thời gian nhất định."
+        ],
+        "answer": 3,
+        "difficulty": "easy"
     }
 ]

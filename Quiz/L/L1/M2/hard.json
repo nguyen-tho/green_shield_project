@@ -1,65 +1,65 @@
 [
-  {
-    "question_id": "q9",
-    "question_text": "Tác hại của Cỏ Mỹ cũng tương tự như hút thuốc lá thông thường. Đúng hay Sai?",
-    "question_options": [
-      "Đúng",
-      "Sai"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q13",
-    "question_text": "Chất nào vừa là dung môi trong sản xuất Heroin, vừa dùng để làm sơn, mỹ phẩm?",
-    "question_options": [
-      "Toluene",
-      "Acetone",
-      "Sulfuric acid",
-      "Hydrochloric acid"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q14",
-    "question_text": "“Ke”, “khay”, “kim tuyến” là những tên lóng của loại ma túy nào?",
-    "question_options": [
-      "MDMA",
-      "Ketamine",
-      "Amphetamine",
-      "Heroin"
-    ],
-    "answer": 2,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q16",
-    "question_text": "Ở Việt Nam, cây thuốc phiện thường được trồng nhiều ở đâu?",
-    "question_options": [
-      "Đồng bằng sông Cửu Long",
-      "Duyên hải miền Trung",
-      "Các tỉnh miền núi phía Bắc và bắc miền Trung",
-      "Các đảo ngoài khơi"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  },
-  {
-    "question_id": "q17",
-    "question_text": "Khu vực trồng nhiều thuốc phiện nổi tiếng ở châu Á?",
-    "question_options": [
-      "Tam Giác Vàng",
-      "Lưỡi Liềm Vàng",
-      "Cả 2 khu vực trên",
-      "Các nước Trung Á"
-    ],
-    "answer": 3,
-    "difficulty": "hard",
-    "score": 30
-  }
+    {
+        "question_id": "q9",
+        "question_text": "Tác hại của Cỏ Mỹ cũng tương tự như hút thuốc lá thông thường. Đúng hay Sai?",
+        "question_options": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q13",
+        "question_text": "Chất nào vừa là dung môi trong sản xuất Heroin, vừa dùng để làm sơn, mỹ phẩm?",
+        "question_options": [
+            "Toluene",
+            "Acetone",
+            "Sulfuric acid",
+            "Hydrochloric acid"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q14",
+        "question_text": "“Ke”, “khay”, “kim tuyến” là những tên lóng của loại ma túy nào?",
+        "question_options": [
+            "MDMA",
+            "Ketamine",
+            "Amphetamine",
+            "Heroin"
+        ],
+        "answer": 2,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q16",
+        "question_text": "Ở Việt Nam, cây thuốc phiện thường được trồng nhiều ở đâu?",
+        "question_options": [
+            "Đồng bằng sông Cửu Long",
+            "Duyên hải miền Trung",
+            "Các tỉnh miền núi phía Bắc và bắc miền Trung",
+            "Các đảo ngoài khơi"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    },
+    {
+        "question_id": "q17",
+        "question_text": "Khu vực trồng nhiều thuốc phiện nổi tiếng ở châu Á?",
+        "question_options": [
+            "Tam Giác Vàng",
+            "Lưỡi Liềm Vàng",
+            "Cả 2 khu vực trên",
+            "Các nước Trung Á"
+        ],
+        "answer": 3,
+        "difficulty": "hard",
+        "score": 30
+    }
 ]

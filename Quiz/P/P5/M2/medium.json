@@ -1,62 +1,62 @@
 [
-  {
-    "question_id": "medium_q1",
-    "question_text": "Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh bao gồm những trụ sở/phân khu nào dưới đây?",
-    "question_options": [
-      "Trụ sở Nhị Xuân và Phân khu Bình Triệu",
-      "Trụ sở Bố Lá và Phân khu Bình Triệu",
-      "Trụ sở Thanh thiếu niên 2 và Trụ sở Bố Lá",
-      "Chỉ có Trụ sở Bố Lá"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_q2",
-    "question_text": "Theo tài liệu, hệ thống cơ sở điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế (Methadone) nằm ở đâu?",
-    "question_options": [
-      "Chỉ có tại các Bệnh viện được cấp phép",
-      "Tại các Trung tâm Y tế Quận/Huyện và các Bệnh viện được cấp phép",
-      "Chỉ có tại Bệnh viện Nhân Ái",
-      "Tại các cơ sở cai nghiện ma túy số 1, 2, 3"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_q3",
-    "question_text": "Điều nào sau đây là một trong những lưu ý quan trọng khi lựa chọn cơ sở hỗ trợ, nhằm đảm bảo chất lượng dịch vụ?",
-    "question_options": [
-      "Ưu tiên chọn cơ sở có chi phí thấp nhất",
-      "Ưu tiên chọn cơ sở được cấp phép và có uy tín",
-      "Ưu tiên chọn cơ sở có quy mô lớn nhất",
-      "Ưu tiên chọn cơ sở có nhiều bệnh nhân nhất"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_q4",
-    "question_text": "Để cai nghiện tự nguyện thành công, tài liệu nhấn mạnh điều gì là cần thiết?",
-    "question_options": [
-      "Sự hỗ trợ tài chính từ gia đình",
-      "Sự đồng thuận, quyết tâm và hợp tác tích cực của người cai nghiện",
-      "Sự giám sát chặt chẽ từ cơ quan chức năng",
-      "Việc sử dụng thuốc thay thế Methadone"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "medium_q5",
-    "question_text": "Ngoài các cơ sở cai nghiện và hệ thống Methadone, tài liệu còn đề cập đến loại hình trung tâm nào để hỗ trợ người cần?",
-    "question_options": [
-      "Trung tâm dạy nghề và tạo việc làm",
-      "Trung tâm tư vấn pháp luật và hỗ trợ tâm lý",
-      "Trung tâm chăm sóc sức khỏe cộng đồng",
-      "Trung tâm nghiên cứu phòng chống ma túy"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "medium_q1",
+        "question_text": "Cơ sở Cai nghiện ma túy số 3 TP. Hồ Chí Minh bao gồm những trụ sở/phân khu nào dưới đây?",
+        "question_options": [
+            "Trụ sở Nhị Xuân và Phân khu Bình Triệu",
+            "Trụ sở Bố Lá và Phân khu Bình Triệu",
+            "Trụ sở Thanh thiếu niên 2 và Trụ sở Bố Lá",
+            "Chỉ có Trụ sở Bố Lá"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_q2",
+        "question_text": "Theo tài liệu, hệ thống cơ sở điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế (Methadone) nằm ở đâu?",
+        "question_options": [
+            "Chỉ có tại các Bệnh viện được cấp phép",
+            "Tại các Trung tâm Y tế Quận/Huyện và các Bệnh viện được cấp phép",
+            "Chỉ có tại Bệnh viện Nhân Ái",
+            "Tại các cơ sở cai nghiện ma túy số 1, 2, 3"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_q3",
+        "question_text": "Điều nào sau đây là một trong những lưu ý quan trọng khi lựa chọn cơ sở hỗ trợ, nhằm đảm bảo chất lượng dịch vụ?",
+        "question_options": [
+            "Ưu tiên chọn cơ sở có chi phí thấp nhất",
+            "Ưu tiên chọn cơ sở được cấp phép và có uy tín",
+            "Ưu tiên chọn cơ sở có quy mô lớn nhất",
+            "Ưu tiên chọn cơ sở có nhiều bệnh nhân nhất"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_q4",
+        "question_text": "Để cai nghiện tự nguyện thành công, tài liệu nhấn mạnh điều gì là cần thiết?",
+        "question_options": [
+            "Sự hỗ trợ tài chính từ gia đình",
+            "Sự đồng thuận, quyết tâm và hợp tác tích cực của người cai nghiện",
+            "Sự giám sát chặt chẽ từ cơ quan chức năng",
+            "Việc sử dụng thuốc thay thế Methadone"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "medium_q5",
+        "question_text": "Ngoài các cơ sở cai nghiện và hệ thống Methadone, tài liệu còn đề cập đến loại hình trung tâm nào để hỗ trợ người cần?",
+        "question_options": [
+            "Trung tâm dạy nghề và tạo việc làm",
+            "Trung tâm tư vấn pháp luật và hỗ trợ tâm lý",
+            "Trung tâm chăm sóc sức khỏe cộng đồng",
+            "Trung tâm nghiên cứu phòng chống ma túy"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    }
 ]

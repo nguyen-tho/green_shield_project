@@ -1,62 +1,62 @@
 [
-  {
-      "question_id": "easy_q1",
-      "question_text": "Nếu có việc khẩn cấp liên quan đến an ninh, trật tự, chúng ta có thể gọi số nào của Cảnh sát?",
-      "question_options": [
-        "111",
-        "113",
-        "1900.9095",
-        "069.3187.200"
-      ],
-      "answer": 2,
-      "difficulty": "easy"
+    {
+        "question_id": "easy_q1",
+        "question_text": "Nếu có việc khẩn cấp liên quan đến an ninh, trật tự, chúng ta có thể gọi số nào của Cảnh sát?",
+        "question_options": [
+            "111",
+            "113",
+            "1900.9095",
+            "069.3187.200"
+        ],
+        "answer": 2,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q2",
-      "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em có số là bao nhiêu?",
-      "question_options": [
-        "113",
-        "1900.9095",
-        "111",
-        "028 39231168"
-      ],
-      "answer": 3,
-      "difficulty": "easy"
+        "question_id": "easy_q2",
+        "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em có số là bao nhiêu?",
+        "question_options": [
+            "113",
+            "1900.9095",
+            "111",
+            "028 39231168"
+        ],
+        "answer": 3,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q3",
-      "question_text": "Khi gọi đến các đường dây nóng, bạn nên làm gì đầu tiên?",
-      "question_options": [
-        "Nói thật nhanh tất cả những gì bạn biết.",
-        "Giữ bình tĩnh và nói thông tin rõ ràng.",
-        "Hỏi xem họ có đang làm gì không.",
-        "Kể một câu chuyện vui."
-      ],
-      "answer": 2,
-      "difficulty": "easy"
+        "question_id": "easy_q3",
+        "question_text": "Khi gọi đến các đường dây nóng, bạn nên làm gì đầu tiên?",
+        "question_options": [
+            "Nói thật nhanh tất cả những gì bạn biết.",
+            "Giữ bình tĩnh và nói thông tin rõ ràng.",
+            "Hỏi xem họ có đang làm gì không.",
+            "Kể một câu chuyện vui."
+        ],
+        "answer": 2,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q4",
-      "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em (111) hoạt động bao nhiêu giờ mỗi ngày?",
-      "question_options": [
-        "8 giờ",
-        "12 giờ",
-        "16 giờ",
-        "24 giờ"
-      ],
-      "answer": 4,
-      "difficulty": "easy"
+        "question_id": "easy_q4",
+        "question_text": "Tổng đài Quốc gia Bảo vệ Trẻ em (111) hoạt động bao nhiêu giờ mỗi ngày?",
+        "question_options": [
+            "8 giờ",
+            "12 giờ",
+            "16 giờ",
+            "24 giờ"
+        ],
+        "answer": 4,
+        "difficulty": "easy"
     },
     {
-      "question_id": "easy_q5",
-      "question_text": "Khi bạn gọi đến đường dây nóng, thông tin cá nhân của bạn sẽ được giữ như thế nào?",
-      "question_options": [
-        "Kể cho nhiều người biết.",
-        "Chia sẻ với bạn bè.",
-        "Giữ bí mật.",
-        "Viết lên bảng thông báo."
-      ],
-      "answer": 3,
-      "difficulty": "easy"
+        "question_id": "easy_q5",
+        "question_text": "Khi bạn gọi đến đường dây nóng, thông tin cá nhân của bạn sẽ được giữ như thế nào?",
+        "question_options": [
+            "Kể cho nhiều người biết.",
+            "Chia sẻ với bạn bè.",
+            "Giữ bí mật.",
+            "Viết lên bảng thông báo."
+        ],
+        "answer": 3,
+        "difficulty": "easy"
     }
 ]

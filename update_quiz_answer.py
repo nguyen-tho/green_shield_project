@@ -31,7 +31,7 @@ def update_answer_in_json_files(root_folder):
                                     if 'answer' in question and isinstance(question['answer'], int):
                                         # Trừ 1 từ giá trị 'answer'
                                         original_answer = question['answer']
-                                        question['answer'] = original_answer - 1
+                                        question['answer'] = original_answer - 1 # đổi answer từ dạng thứ tự 1, 2, 3 sang index 0, 1, 2 
                                         print(f"  - Cập nhật câu hỏi ID '{question.get('question_id', 'N/A')}': "
                                               f"answer từ {original_answer} -> {question['answer']}")
                     

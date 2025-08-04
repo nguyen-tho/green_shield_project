@@ -1,86 +1,86 @@
 [
-  {
-    "question_id": "q4",
-    "question_text": "Theo Nghị định 57/2022/NĐ-CP, MDMA (Ecstasy) được xếp vào danh mục nào?",
-    "question_options": [
-      "Danh mục II",
-      "Danh mục I (Mục IB, số thứ tự 11)",
-      "Danh mục III",
-      "Danh mục IV"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q7",
-    "question_text": "Tiền chất nào sau đây là nguyên liệu chính để sản xuất cả MDMA và MDA?",
-    "question_options": [
-      "Ephedrine",
-      "Phenylacetic acid",
-      "Safrole / Isosafrole",
-      "Toluene"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q9",
-    "question_text": "Hóa chất Acetic anhydride khi bay hơi có đặc điểm gì?",
-    "question_options": [
-      "Có mùi thơm, không độc",
-      "Không màu, không mùi",
-      "Kích thích mạnh niêm mạc mũi, họng, gây chảy nước mắt",
-      "Có màu xanh nhạt, mùi ngọt"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q20",
-    "question_text": "MDMA (Ecstasy) thuộc danh mục chất ma túy và tiền chất nào theo Nghị định 57/2022/NĐ-CP?",
-    "question_options": [
-      "Danh mục I",
-      "Danh mục II",
-      "Danh mục III",
-      "Không thuộc danh mục nào"
-    ],
-    "answer": 1,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q13",
-    "question_text": "Heroine được một công ty dược phẩm của nước nào sản xuất thành dạng thuốc ho vào năm 1899?",
-    "question_options": [
-      "Pháp",
-      "Đức",
-      "Mỹ",
-      "Anh"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q14",
-    "question_text": "“Ke”, “khay”, “kim tuyến” là những tên lóng của loại ma túy nào?",
-    "question_options": [
-      "MDMA",
-      "Ketamine",
-      "Amphetamine",
-      "Heroin"
-    ],
-    "answer": 2,
-    "difficulty": "medium"
-  },
-  {
-    "question_id": "q17",
-    "question_text": "Cây thuốc phiện có nhiều tên gọi khác nhau, đâu KHÔNG phải là tên của nó?",
-    "question_options": [
-      "Ả phù dung",
-      "Anh túc",
-      "Cây bồ đà",
-      "A phiến"
-    ],
-    "answer": 3,
-    "difficulty": "medium"
-  }
+    {
+        "question_id": "q4",
+        "question_text": "Theo Nghị định 57/2022/NĐ-CP, MDMA (Ecstasy) được xếp vào danh mục nào?",
+        "question_options": [
+            "Danh mục II",
+            "Danh mục I (Mục IB, số thứ tự 11)",
+            "Danh mục III",
+            "Danh mục IV"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q7",
+        "question_text": "Tiền chất nào sau đây là nguyên liệu chính để sản xuất cả MDMA và MDA?",
+        "question_options": [
+            "Ephedrine",
+            "Phenylacetic acid",
+            "Safrole / Isosafrole",
+            "Toluene"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q9",
+        "question_text": "Hóa chất Acetic anhydride khi bay hơi có đặc điểm gì?",
+        "question_options": [
+            "Có mùi thơm, không độc",
+            "Không màu, không mùi",
+            "Kích thích mạnh niêm mạc mũi, họng, gây chảy nước mắt",
+            "Có màu xanh nhạt, mùi ngọt"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q20",
+        "question_text": "MDMA (Ecstasy) thuộc danh mục chất ma túy và tiền chất nào theo Nghị định 57/2022/NĐ-CP?",
+        "question_options": [
+            "Danh mục I",
+            "Danh mục II",
+            "Danh mục III",
+            "Không thuộc danh mục nào"
+        ],
+        "answer": 1,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q13",
+        "question_text": "Heroine được một công ty dược phẩm của nước nào sản xuất thành dạng thuốc ho vào năm 1899?",
+        "question_options": [
+            "Pháp",
+            "Đức",
+            "Mỹ",
+            "Anh"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q14",
+        "question_text": "“Ke”, “khay”, “kim tuyến” là những tên lóng của loại ma túy nào?",
+        "question_options": [
+            "MDMA",
+            "Ketamine",
+            "Amphetamine",
+            "Heroin"
+        ],
+        "answer": 2,
+        "difficulty": "medium"
+    },
+    {
+        "question_id": "q17",
+        "question_text": "Cây thuốc phiện có nhiều tên gọi khác nhau, đâu KHÔNG phải là tên của nó?",
+        "question_options": [
+            "Ả phù dung",
+            "Anh túc",
+            "Cây bồ đà",
+            "A phiến"
+        ],
+        "answer": 3,
+        "difficulty": "medium"
+    }
 ]
