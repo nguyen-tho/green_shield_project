@@ -32,6 +32,66 @@ Yêu cầu phải lọc dữ liệu sao cho ngắn gọn, hàm súc, bao q
                     ],
                     "answer": 0, // index của đáp án đúng
                     "difficulty": "easy", // độ khó của câu hỏi có 3 cấp độ "easy", "medium", "hard"
-                    "score": 10 // giá trị điểm số theo độ khó 10, 20, 30
+                    "score": 10, // giá trị điểm số theo độ khó 10, 20, 30
+                    "explanation": "" //thông tin 
                 },
+```
+## Một số bộ công cụ hỗ trợ tự động hoá trong việc xử lý các json data
+
+1. edit.py
+```txt
+Input: các tập json data trong Quiz (bộ câu hỏi gốc)
+Output: các tập json data trong ConvertedQuiz (bộ câu hỏi đã được xử lý)
+Tính năng:
+    Đồng nhất cấu trúc schema trong bộ câu hỏi gốc sao cho phù hợp với cấu trúc mẫu chuẩn
+    Trả kết quả ra tập Output theo đúng thứ tự của Input
+```
+
+2. check.py
+```txt
+Input: các tập json data trong ConvertedQuiz
+Output: Thông báo các file data đã đồng nhất về mặt cấu trúc schema hay chưa nếu có file nào chưa thông báo thì thống kê lại
+Tính năng:
+    Kiểm tra tính đồng nhất về mặt cấu trúc schema 
+    Thống kê file nào chưa đồng nhất và nêu điểm chưa đồng nhất
+    Tổng kết và báo cáo thống kê (thông báo ok nếu tất cả đồng nhất, nếu chưa thì hiện danh sách file chưa đồng nhất kèm cảnh báo)
+```
+
+3. question_counter.py
+```txt
+Input: các tập json data trong ConvertedQuiz
+Output: Thông báo số lượng câu hỏi trong mỗi tập json câu hỏi
+Tính năng:
+    Đếm số lượng câu hỏi trong mỗi tập câu hỏi
+    Kiểm tra đảm bảo mỗi tập json câu hỏi có ít nhất 3 câu hỏi
+        Nếu thoả yêu cầu thì thông báo đã đạt yêu cầu và xuất danh sách các file đã đạt yêu cầu
+        Nếu chưa thoả thì cảnh báo chưa đạt yêu cầu và xuất danh sách
+```
+
+4. get_folder_tree.py
+```
+Input: folder cần kiểm tra
+Output: cấu trúc cây thư mục trong folder Input
+Tính năng: 
+    Xuất cây thư mục để quan sát ở màn hình terminal
+```
+
+5. update_quiz_answer.py
+```txt
+Input: các tập json data trong ConvertedQuiz (chưa xử lý)
+Output: các tập json data trong ConvertedQuiz (đã xử lý)
+Tính năng: 
+    Tập Input có các file json chứa các câu hỏi dạng trắc nghiệm với các option riêng biệt đã được đồng nhất về 1 kiểu để lấy đáp án của câu hỏi
+        Dạng 1: Đáp án được lấy thứ tự của các option (1,2,3,..n)
+        Dạng 2: Đáp án được lấy theo index trong mảng các option (0,1,2,...n-1)
+    Với việc đã đông nhất thủ công theo dạng 1 nhưng hệ thống cần dạng 2 thì có thể đồng nhất tự động bằng cách:
+        question["answer"] = question["answer"] - 1
+    Với việc đã đồng nhất thủ công theo dạng 2 nhưng hệ thống cần dạng 1 thì có thể đồng nhất tự động bằng cách:
+        question["answer"] = question["answer"] + 1
+
+    Cuối cùng lưu lại kết quả xử lý
+
+    Lý do phải đồng nhất thủ công với tập Input:
+        Do sự rối loạn và không thống nhất về dạng value trong field đáp án (nhất là trường hợp 1 file có cả 2 dạng)
+        Cần sự kiểm soát và thống nhất chặt chẽ về mặt nội dung câu hỏi tránh trường hợp sai sót về mặt đáp án gây ảnh hưởng xấu đến trải nghiệm người dùng về sau
 ```
