@@ -1,0 +1,704 @@
+{
+    "ref": [
+        {
+            "id": "r1",
+            "folder_name": "banh_luoi",
+            "tag_name": "Bánh lười",
+            "image_name": "1.png",
+            "source": ""
+        },
+        {
+            "id": "r2",
+            "folder_name": "banh_luoi",
+            "tag_name": "Bánh lười",
+            "image_name": "2.jpg",
+            "source": "https://suckhoedoisong.vn/khi-ma-tuy-doi-lot-banh-ngot-16986621.htm"
+        },
+        {
+            "id": "r3",
+            "folder_name": "banh_luoi",
+            "tag_name": "Bánh lười",
+            "image_name": "3.jpg",
+            "source": "https://conganthanhhoa.gov.vn/tin-tuc-su-kien/tin-an-ninh-trat-tu/canh-bao-ma-tuy-nguy-trang-duoi-dang-banh-keo.html"
+        },
+        {
+            "id": "r4",
+            "folder_name": "banh_luoi",
+            "tag_name": "Bánh lười",
+            "image_name": "4.jpg",
+            "source": "https://www.trelangblog.com/2022/12/cong-thanh-hoa-canh-bao-banh-ngot-lazy.html"
+        },
+        {
+            "id": "r5",
+            "folder_name": "banh_luoi",
+            "tag_name": "Bánh lười",
+            "image_name": "5.jpg",
+            "source": "https://www.nguoiduatin.vn/thuc-don-tu-than-tu-loai-ma-tuy-an-duoc-co-ten-banh-luoi-204191406.htm"
+        },
+        {
+            "id": "r6",
+            "folder_name": "bong_cuoi",
+            "tag_name": "Bóng cười",
+            "image_name": "1.jpg",
+            "source": "https://baoapbac.vn/suc-khoe-y-te/202308/giam-sat-viec-kinh-doanh-su-dung-khi-nito-oxit-su-dung-trong-bong-cuoi-988763/index.htm"
+        },
+        {
+            "id": "r7",
+            "folder_name": "bong_cuoi",
+            "tag_name": "Bóng cười",
+            "image_name": "2.jpg",
+            "source": "https://bvdktinhthanhhoa.com.vn/tin-tuc/lam-dung-bong-cuoi-hau-hoa-khon-luong-sau-nhung-trang-cuoi-vo-tri.html"
+        },
+        {
+            "id": "r8",
+            "folder_name": "bong_cuoi",
+            "tag_name": "Bóng cười",
+            "image_name": "3.jpg",
+            "source": "https://thanhnien.vn/lam-dung-bong-cuoi-nhieu-nguoi-tre-phai-nhap-vien-185230901182920478.htm"
+        },
+        {
+            "id":"r9",
+            "folder_name": "bong_cuoi",
+            "tag_name": "Bóng cười",
+            "image_name": "4.jpg",
+            "source": "https://www.qdnd.vn/xa-hoi/cac-van-de/siet-chat-quan-ly-khi-n2o-bom-bong-cuoi-740664"
+        },
+        {
+            "id":"r10",
+            "folder_name": "bong_cuoi",
+            "tag_name": "Bóng cười",
+            "image_name": "5.jpg",
+            "source": "https://benhviennhandan115.com/blogs/tin-tuc-hoat-dong/bong-cuoi-tro-dua-chet-nguoi-canh-bao-tu-mot-truong-hop-cap-cuu-ngu"
+        },
+        {
+            "id":"r11",
+            "folder_name": "can_sa",
+            "tag_name": "Cần sa",
+            "image_name": "1.jpg",
+            "source": ""
+        }, 
+        {
+            "id":"r12",
+            "folder_name": "can_sa",
+            "tag_name": "Cần sa",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r13",
+            "folder_name": "can_sa",
+            "tag_name": "Cần sa",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r14",
+            "folder_name": "can_sa",
+            "tag_name": "Cần sa",
+            "image_name": "4.jpg",
+            "source": "https://www.istockphoto.com/vi/anh/b%C4%83m-n%C3%A2u-trong-tay-c%E1%BA%ADn-c%E1%BA%A3nh-c%E1%BA%A7n-sa-hashish-gm1450507999-487408009"
+        },
+        {
+            "id":"r15",
+            "folder_name": "can_sa",
+            "tag_name": "Cần sa",
+            "image_name": "5.jpg",
+            "source": "https://medlatec.vn/tin-tuc/cay-can-sa-co-may-loai-gay-anh-huong-nhu-the-nao-doi-voi-suc-khoe"
+        },
+        {
+            "id":"r16",
+            "folder_name":"co_my",
+            "tag_name": "Cỏ Mỹ",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r17",
+            "folder_name":"co_my",
+            "tag_name": "Cỏ Mỹ",
+            "image_name": "2.jpg",
+            "source": "https://congan.laichau.gov.vn/index.php/pho-bien-giao-duc-phap-luat/co-my-hiem-hoa-de-doa-gioi-tre-hien-nay-2067.html"
+        },
+        {
+            "id":"r18",
+            "folder_name":"co_my",
+            "tag_name": "Cỏ Mỹ",
+            "image_name": "3.jpg",
+            "source": "https://thanhnien.vn/bao-dong-co-my-tan-cong-hoc-sinh-ma-duoc-giet-nguoi-185231107201920547.htm"
+        },
+        {
+            "id":"r19",
+            "folder_name":"co_my",
+            "tag_name": "Cỏ Mỹ",
+            "image_name": "4.jpg",
+            "source": "https://www.qdnd.vn/phap-luat/an-ninh-trat-tu/dac-lac-bat-doi-tuong-van-chuyen-co-chua-chat-gay-nghien-470884"
+        },
+        {
+            "id":"r20",
+            "folder_name":"co_my",
+            "tag_name": "Cỏ Mỹ",
+            "image_name": "5.jpg",
+            "source": "https://tiengchuong.chinhphu.vn/hiem-hoa-co-my-vao-vien-tam-than-vi-su-dung-11312226.htm"
+        },
+        {
+            "id":"r21",
+            "folder_name":"Cocaine",
+            "tag_name": "Cocaine",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r22",
+            "folder_name":"Cocaine",
+            "tag_name": "Cocaine",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r23",
+            "folder_name":"Cocaine",
+            "tag_name": "Cocaine",
+            "image_name": "3.jpg",
+            "source": "https://en.ofdt.fr/en/cocaine-and-crack-cocaine-overview-2147"
+        },
+        {
+            "id":"r24",
+            "folder_name":"Cocaine",
+            "tag_name": "Cocaine",
+            "image_name": "4.jpg",
+            "source": "https://vi.wikipedia.org/wiki/Cocain"
+        },
+        {
+            "id":"r25",
+            "folder_name":"Cocaine",
+            "tag_name": "Cocaine",
+            "image_name": "5.jpg",
+            "source": "https://serenitylightrecovery.com/addiction-treatment-blog/what-is-pink-cocaine-tusi/"
+        },
+        {
+            "id":"r26",
+            "folder_name":"Ecstacy",
+            "tag_name": "Ecstacy",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r27",
+            "folder_name":"Ecstacy",
+            "tag_name": "Ecstacy",
+            "image_name": "2.jpg",
+            "source": "https://en.wiktionary.org/wiki/ecstasy"
+        },
+        {
+            "id":"r28",
+            "folder_name":"Ecstacy",
+            "tag_name": "Ecstacy",
+            "image_name": "3.jpg",
+            "source": "https://www.nature.com/articles/426403a"
+        },
+        {
+            "id":"r29",
+            "folder_name":"Ecstacy",
+            "tag_name": "Ecstacy",
+            "image_name": "4.jpg",
+            "source": "https://www.sl.nsw.gov.au/drug-info/drugs/z-drugs/ecstasy"
+        },
+        {
+            "id":"r30",
+            "folder_name":"Ecstacy",
+            "tag_name": "Ecstacy",
+            "image_name": "5.jpg",
+            "source": "https://mydr.com.au/addictions/ecstasy-what-is-it/"
+        },
+        {
+            "id":"r31",
+            "folder_name":"Heroine",
+            "tag_name": "Heroine",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r32",
+            "folder_name":"Heroine",
+            "tag_name": "Heroine",
+            "image_name": "2.jpg",
+            "source": "https://youmed.vn/tin-tuc/can-sa-ma-tuy-da-heroin-ban-da-thuc-su-hieu-het/"
+        },
+        {
+            "id":"r33",
+            "folder_name":"Heroine",
+            "tag_name": "Heroine",
+            "image_name": "3.jpg",
+            "source": "https://conganthanhhoa.gov.vn/tin-tuc-su-kien/tin-an-ninh-trat-tu/ma-tuy-hiem-hoa-cua-nhan-loai3.html"
+        },
+        {
+            "id":"r34",
+            "folder_name":"Heroine",
+            "tag_name": "Heroine",
+            "image_name": "4.jpg",
+            "source": "https://www.getsmartaboutdrugs.gov/drugs/heroin"
+        },
+        {
+            "id":"r35",
+            "folder_name":"Heroine",
+            "tag_name": "Heroine",
+            "image_name": "5.jpg",
+            "source": "https://laodong.vn/phap-luat/mua-11-goi-heroin-ve-dung-dan-nam-thanh-nien-bi-bat-qua-tang-936106.ldo"
+        },
+        {
+            "id":"r36",
+            "folder_name":"Ketamine",
+            "tag_name": "Ketamine",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r37",
+            "folder_name":"Ketamine",
+            "tag_name": "Ketamine",
+            "image_name": "2.jpg",
+            "source": "https://en.wikipedia.org/wiki/Ketamine"
+        },
+        {
+            "id":"r38",
+            "folder_name":"Ketamine",
+            "tag_name": "Ketamine",
+            "image_name": "3.jpg",
+            "source": "https://alphabiolabsusa.com/ketamine-drug-testing/"
+        },
+        {
+            "id":"r39",
+            "folder_name":"Ketamine",
+            "tag_name": "Ketamine",
+            "image_name": "4.jpg",
+            "source": "https://asanalodge.com/can-ketamine-kill-you-the-facts/"
+        },
+        {
+            "id":"r40",
+            "folder_name":"Ketamine",
+            "tag_name": "Ketamine",
+            "image_name": "5.jpg",
+            "source": "https://www.ftu.edu.vn/sinh-vi%C3%AAn/167-tuyen-truy-n-giao-d-c-phap-lu-t/5451-cac-tac-h-i-c-a-ma-tuy-ketamine"
+        },
+        {
+            "id":"r41",
+            "folder_name":"LSD",
+            "tag_name": "LSD",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r42",
+            "folder_name":"LSD",
+            "tag_name": "LSD",
+            "image_name": "2.jpg",
+            "source": "https://vi.wikipedia.org/wiki/LSD"
+        },
+        {
+            "id":"r43",
+            "folder_name":"LSD",
+            "tag_name": "LSD",
+            "image_name": "3.jpg",
+            "source": "https://www.dea.gov/factsheets/lsd"
+        },
+        {
+            "id":"r44",
+            "folder_name":"LSD",
+            "tag_name": "LSD",
+            "image_name": "4.jpg",
+            "source": "https://theheightstreatment.com/can-you-overdose-on-lsd/"
+        },
+        {
+            "id":"r45",
+            "folder_name":"LSD",
+            "tag_name": "LSD",
+            "image_name": "5.jpg",
+            "source": "https://vista.gov.vn/vi/news/cac-linh-vuc-khoa-hoc-va-cong-nghe/viec-su-dung-lsd-dang-gia-tang-pho-bien-nhat-la-o-nhung-nguoi-bi-tram-cam-7670.html"
+        },
+        {
+            "id":"r46",
+            "folder_name":"ma_tuy_tron_tra_sua",
+            "tag_name": "Ma tuý trộn trà sữa",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r47",
+            "folder_name":"ma_tuy_tron_tra_sua",
+            "tag_name": "Ma tuý trộn trà sữa",
+            "image_name": "2.jpg",
+            "source": "https://congan.tuyenquang.gov.vn/vi/tin-bai/nhan-biet-cac-loai-ma-tuy-nguy-trang-tra-sua-tra-thao-moc-banh-keo?type=NEWS&id=121507"
+        },
+        {
+            "id":"r48",
+            "folder_name":"ma_tuy_tron_tra_sua",
+            "tag_name": "Ma tuý trộn trà sữa",
+            "image_name": "3.jpg",
+            "source": "https://tiengchuong.chinhphu.vn/xuat-hien-ma-tuy-tra-sua-trung-quoc-11312496.htm"
+        },
+        {
+            "id":"r49",
+            "folder_name":"ma_tuy_tron_tra_sua",
+            "tag_name": "Ma tuý trộn trà sữa",
+            "image_name": "4.jpg",
+            "source": "https://hcdc.vn/ma-tuy-va-nhung-bien-tuong-tra-hinh-c71a3f43c002b7d00833b1a0c1fa82d8.html"
+        },
+        {
+            "id":"r50",
+            "folder_name":"ma_tuy_tron_tra_sua",
+            "tag_name": "Ma tuý trộn trà sữa",
+            "image_name": "5.jpg",
+            "source": "https://tiengchuong.chinhphu.vn/canh-bao-nhieu-loai-ma-tuy-doi-lot-thuc-pham-11333841.htm"
+        },
+        {
+            "id":"r51",
+            "folder_name":"Mecloqualone",
+            "tag_name": "Mecloqualone",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r52",
+            "folder_name":"Mecloqualone",
+            "tag_name": "Mecloqualone",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r53",
+            "folder_name":"Mecloqualone",
+            "tag_name": "Mecloqualone",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r54",
+            "folder_name":"Mecloqualone",
+            "tag_name": "Mecloqualone",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r55",
+            "folder_name":"Mecloqualone",
+            "tag_name": "Mecloqualone",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r56",
+            "folder_name":"Methamphetamine",
+            "tag_name": "Methamphetamine",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r57",
+            "folder_name":"Methamphetamine",
+            "tag_name": "Methamphetamine",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r58",
+            "folder_name":"Methamphetamine",
+            "tag_name": "Methamphetamine",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r59",
+            "folder_name":"Methamphetamine",
+            "tag_name": "Methamphetamine",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r60",
+            "folder_name":"Methamphetamine",
+            "tag_name": "Methamphetamine",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r61",
+            "folder_name":"Methamqualone",
+            "tag_name": "Methamqualone",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r62",
+            "folder_name":"Methamqualone",
+            "tag_name": "Methamqualone",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r63",
+            "folder_name":"Methamqualone",
+            "tag_name": "Methamqualone",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r64",
+            "folder_name":"Methamqualone",
+            "tag_name": "Methamqualone",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r65",
+            "folder_name":"Methamqualone",
+            "tag_name": "Methamqualone",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r66",
+            "folder_name":"Morphine",
+            "tag_name": "Morphine",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r67",
+            "folder_name":"Morphine",
+            "tag_name": "Morphine",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r68",
+            "folder_name":"Morphine",
+            "tag_name": "Morphine",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r69",
+            "folder_name":"Morphine",
+            "tag_name": "Morphine",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r70",
+            "folder_name":"Morphine",
+            "tag_name": "Morphine",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r71",
+            "folder_name":"nam_huong_than",
+            "tag_name": "Nấm hướng thần",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r72",
+            "folder_name":"nam_huong_than",
+            "tag_name": "Nấm hướng thần",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r73",
+            "folder_name":"nam_huong_than",
+            "tag_name": "Nấm hướng thần",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r74",
+            "folder_name":"nam_huong_than",
+            "tag_name": "Nấm hướng thần",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r75",
+            "folder_name":"nam_huong_than",
+            "tag_name": "Nấm hướng thần",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r76",
+            "folder_name":"nuoc_vui",
+            "tag_name": "Nước vui",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r77",
+            "folder_name":"nuoc_vui",
+            "tag_name": "Nước vui",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r78",
+            "folder_name":"nuoc_vui",
+            "tag_name": "Nước vui",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r79",
+            "folder_name":"nuoc_vui",
+            "tag_name": "Nước vui",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r80",
+            "folder_name":"nuoc_vui",
+            "tag_name": "Nước vui",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r81",
+            "folder_name":"Shisha",
+            "tag_name": "Shisha",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r82",
+            "folder_name":"Shisha",
+            "tag_name": "Shisha",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r83",
+            "folder_name":"Shisha",
+            "tag_name": "Shisha",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r84",
+            "folder_name":"Shisha",
+            "tag_name": "Shisha",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r85",
+            "folder_name":"Shisha",
+            "tag_name": "Shisha",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r86",
+            "folder_name":"thuoc_la_dien_tu",
+            "tag_name": "Thuốc lá điện tử",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r87",
+            "folder_name":"thuoc_la_dien_tu",
+            "tag_name": "Thuốc lá điện tử",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r88",
+            "folder_name":"thuoc_la_dien_tu",
+            "tag_name": "Thuốc lá điện tử",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r89",
+            "folder_name":"thuoc_la_dien_tu",
+            "tag_name": "Thuốc lá điện tử",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r90",
+            "folder_name":"thuoc_la_dien_tu",
+            "tag_name": "Thuốc lá điện tử",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r91",
+            "folder_name":"thuoc_phien",
+            "tag_name": "Thuốc phiện",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r92",
+            "folder_name":"thuoc_phien",
+            "tag_name": "Thuốc phiện",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r93",
+            "folder_name":"thuoc_phien",
+            "tag_name": "Thuốc phiện",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r94",
+            "folder_name":"thuoc_phien",
+            "tag_name": "Thuốc phiện",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r95",
+            "folder_name":"thuoc_phien",
+            "tag_name": "Thuốc phiện",
+            "image_name": "5.jpg",
+            "source": ""
+        },
+        {
+            "id":"r96",
+            "folder_name":"VitaminG",
+            "tag_name": "Vitamin G",
+            "image_name": "1.jpg",
+            "source": ""
+        },
+        {
+            "id":"r97",
+            "folder_name":"VitaminG",
+            "tag_name": "Vitamin G",
+            "image_name": "2.jpg",
+            "source": ""
+        },
+        {
+            "id":"r98",
+            "folder_name":"VitaminG",
+            "tag_name": "Vitamin G",
+            "image_name": "3.jpg",
+            "source": ""
+        },
+        {
+            "id":"r99",
+            "folder_name":"VitaminG",
+            "tag_name": "Vitamin G",
+            "image_name": "4.jpg",
+            "source": ""
+        },
+        {
+            "id":"r100",
+            "folder_name":"VitaminG",
+            "tag_name": "Vitamin G",
+            "image_name": "5.jpg",
+            "source": ""
+        }
+    ]
+}
